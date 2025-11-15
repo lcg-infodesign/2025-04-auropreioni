@@ -1,0 +1,1608 @@
+Volcano Number,Volcano Name,Country,Location,Latitude,Longitude,Elevation (m),Type,TypeCategory,Status,Last Known Eruption
+,In Ezzane Volc Field,Algeria,Africa-N,23,23.53,,Volcanic field,Crater System,Holocene?,?
+,Wau-en-Namus,Libya,Africa-N,25.05.00,17.55,547,Caldera,Caldera,Holocene?,?
+312052,Stepovak Bay 3,United States,Alaska Peninsula,70.29.00,-160.02.00,1555,Cinder cone,Cone,Holocene?,?
+355160,Aracar,Argentina,Argentina,-24.29.00,-80.03.00,6095,Stratovolcano,Stratovolcano,Uncertain,?
+357024,Risco Plateado,Argentina,Argentina,-49.17.00,-85.21.00,4999,Stratovolcano,Stratovolcano,Holocene?,?
+357081,Trolon,Argentina,Argentina,-49.18.00,-85.06.00,2360,Lava domes,Cone,Holocene?,?
+355150,Tuzgle,Argentina,Argentina,-24.05.00,-66.48.00,5486,Stratovolcano,Stratovolcano,Holocene?,?
+355161,Unnamed,Argentina,Argentina,-26.18.00,-72.26.00,4652,Pyroclastic cone,Cone,Holocene?,?
+355036,Jatun Mundo Quri Warani,Bolivia,Bolivia,-20.18.00,-66.48.00,5438,Lava domes,Cone,Holocene?,?
+355098,Chiliques,Chile,Chile-N,-23.58.00,-67.7,5778,Stratovolcano,Stratovolcano,Holocene?,?
+,Río Murta,Chile,Chile-S,-48.47.00,-83.07.00,,Pyroclastic cones,Cone,Holocene?,?
+358011,Tronador,Chile,Chile-S,-43.37.00,-85.45.00,3478,Stratovolcano,Stratovolcano,Holocene?,?
+352005,Mojanda,Ecuador,Ecuador,0.13,-78.27.00,4263,Stratovolcanoes,Stratovolcano,Holocene?,?
+285083,Tenchozan,Japan,Hokkaido-Japan,44.44.00,146.26.00,1046,Crater rows,Crater System,,?
+371051,Hromundartindur,Iceland,Iceland-S,65.23.00,-26.33.00,550,Stratovolcano,Stratovolcano,Holocene?,?
+284042,Kurose Hole,Japan,Izu Is-Japan,33.4,140.08.00,-114,Submarine volcano,Submarine Volcano,Holocene?,?
+,Unnamed,United States,Mariana Is-C Pacific,21,142.9,,Submarine volcano?,Submarine Volcano,Uncertain,?
+,Unnamed,United States,Mariana Is-C Pacific,20.3,143.2,,Submarine volcano?,Submarine Volcano,Uncertain,?
+,Unnamed,Pacific Ocean,Pacific-NE,32.15.00,-124.25.00,-2533,Submarine volcano?,Submarine Volcano,Uncertain,?
+,Antipodes Island,New Zealand,Pacific-S,-60.23.00,190.47.00,402,Pyroclastic cones,Cone,Holocene?,?
+335020,Hollister Ridge,Pacific Ocean,Pacific-S,-69.38.00,-153.05.00,-1000,Submarine volcano,Submarine Volcano,Uncertain,?
+335030,Udintsev Transform,Pacific Ocean,Pacific-S,-58.33.00,-149.13.00,-5700,Submarine volcano,Submarine Volcano,Uncertain,?
+346030,"Valle, El",Panama,Panama,8.58,-80.17.00,1185,Stratovolcano,Stratovolcano,Holocene?,?
+354007,"Chachani, Nevado",Peru,Peru,-19.11.00,-71.53.00,5626,Stratovolcano,Stratovolcano,Holocene?,?
+282022,Akusekijima,Japan,Ryukyu Is,36.45.00,138.54.00,555,Stratovolcanoes,Stratovolcano,Holocene?,?
+,Unnamed,Japan,Volcano Is-Japan,28.13.00,152.03.00,-3200,Submarine volcano?,Submarine Volcano,Uncertain,?
+305011,Arxan-Chaihe,China,China-E,47.45.00,120.8,1677,Cinder cones,Cone,Radiocarbon,D
+250030,Central Bismarck Sea,United States,Admiralty Is-SW Paci,-3.03.00,148.18.00,-1300,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+223020,Nyamulagira,"Congo, DRC",Africa-C,-7.48.00,29.2,3058,Shield volcano,Shield Volcano,Historical,D1
+223030,Nyiragongo,"Congo, DRC",Africa-C,-1.52.00,29.25.00,3470,Stratovolcano,Stratovolcano,Historical,D1
+222120,"Lengai, Ol Doinyo",Tanzania,Africa-E,-14.44.00,50.14.00,2962,Stratovolcano,Stratovolcano,Historical,D1
+221126,Ardoukoba,Djibouti,Africa-NE,11.58,42.47.00,298,Fissure vent,Crater System,Historical,D1
+221080,Erta Ale,Ethiopia,Africa-NE,23.01,51.06.00,585,Shield volcano,Shield Volcano,Historical,D1
+224010,Cameroon,Cameroon,Africa-W,7.23,9.17,4095,Stratovolcano,Stratovolcano,Historical,D1
+312110,Chiginagak,United States,Alaska Peninsula,59.15.00,-157.39.00,2221,Stratovolcano,Stratovolcano,Historical,D1
+312060,Kupreanof,United States,Alaska Peninsula,56.11.00,-172.17.00,1895,Stratovolcano,Stratovolcano,Historical,D1
+312030,Pavlof,United States,Alaska Peninsula,61.57.00,-175.54.00,2493,Stratovolcano,Stratovolcano,Historical,D1
+312160,Trident,United States,Alaska Peninsula,61.56.00,-155.1,1864,Stratovolcano,Stratovolcano,Historical,D1
+312131,Ukinrek Maars,United States,Alaska Peninsula,70.54.00,-156.52.00,91,Maar,Maars / Tuff ring,Historical,D1
+312070,Veniaminof,United States,Alaska Peninsula,56.17.00,-159.38.00,2507,Stratovolcano,Stratovolcano,Historical,D1
+313010,Augustine,United States,Alaska-SW,65.03.00,-160.15.00,1218,Lava dome,Cone,Historical,D1
+313030,Redoubt,United States,Alaska-SW,68.05.00,-164.22.00,3108,Stratovolcano,Stratovolcano,Historical,D1
+313040,Spurr,United States,Alaska-SW,65.59.00,-156.11.00,3374,Stratovolcano,Stratovolcano,Historical,D1
+311320,Akutan,United States,Aleutian Is,56.14.00,-181.26.00,1303,Stratovolcano,Stratovolcano,Historical,D1
+311190,Amukta,United States,Aleutian Is,52.5,-175.12.00,1066,Stratovolcano,Stratovolcano,Historical,D1
+311160,Atka Volcanic Complex,United States,Aleutian Is,57.31.00,-176.19.00,1518,Stratovolcano,Stratovolcano,Historical,D1
+311300,Bogoslof,United States,Aleutian Is,54.33.00,-168.03.00,150,Submarine volcano,Submarine Volcano,Historical,D1
+311240,Cleveland,United States,Aleutian Is,65.45.00,-184.44.00,1730,Stratovolcano,Stratovolcano,Historical,D1
+311070,Gareloi,United States,Aleutian Is,52.19.00,-191.14.00,1573,Stratovolcano,Stratovolcano,Historical,D1
+311120,Great Sitkin,United States,Aleutian Is,53.16.00,-176.13.00,1740,Stratovolcano,Stratovolcano,Historical,D1
+311110,Kanaga,United States,Aleutian Is,66.23.00,-179.48.00,1307,Stratovolcano,Stratovolcano,Historical,D1
+311130,Kasatochi,United States,Aleutian Is,54.57.00,-183.28.00,314,Stratovolcano,Stratovolcano,Historical,D1
+311020,Kiska,United States,Aleutian Is,53.43.00,187.02.00,1220,Stratovolcano,Stratovolcano,Historical,D1
+311161,Korovin,United States,Aleutian Is,58.21.00,-176.46.00,1518,Stratovolcano(es),Stratovolcano,,D1
+311310,Makushin,United States,Aleutian Is,67.51.00,-181.23.00,1800,Stratovolcano,Stratovolcano,Historical,D1
+311290,Okmok,United States,Aleutian Is,53.43.00,-168.13.00,1073,Shield volcano,Shield Volcano,Historical,D1
+311180,Seguam,United States,Aleutian Is,57.15.00,-172.51.00,1054,Stratovolcano,Stratovolcano,Historical,D1
+311060,Semisopochnoi,United States,Aleutian Is,52.33.00,179.58.00,1221,Stratovolcano,Stratovolcano,Historical,D1
+311360,Shishaldin,United States,Aleutian Is,66.36.00,-164.37.00,2857,Stratovolcano,Stratovolcano,Historical,D1
+,Unnamed,United States,Aleutian Is,52,-173.5,0,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+311340,Westdahl,United States,Aleutian Is,62.36.00,-165.05.00,1563,Stratovolcano,Stratovolcano,Historical,D1
+260010,Barren Island,India,Andaman Is-Indian O,16.38,107.18.00,354,Stratovolcano,Stratovolcano,Historical,D1
+390030,Deception Island,Antarctica,Antarctica,-77.57.00,-70.37.00,602,Caldera,Caldera,Historical,D1
+390020,Erebus,Antarctica,Antarctica,-77.53.00,167.17.00,3794,Stratovolcano,Stratovolcano,Historical,D1
+390081,Montagu Island,Antarctica,Antarctica,-65.25.00,-32.14.00,1370,Shield volcano,Shield Volcano,Historical,D1
+390070,Southern Thule,Antarctica,Antarctica,-66.22.00,-30.45.00,1075,Stratovolcano,Stratovolcano,Historical,D1
+355107,Pular,Argentina,Argentina,-27.08.00,-68.54.00,6233,Stratovolcano,Stratovolcano,Historical,D1
+,"Viedma, Volcan",Argentina,Argentina,-54.58.00,-73.28.00,1300,Subglacial volcano,Subglacial,Historical,D1
+371032,Fagradalsfjall,Iceland,Atlantic-N,77.55.00,-26.18.00,250,Fissure vent,Crater System,Holocene,D1
+376010,Jan Mayen,Jan Mayen,Atlantic-N-Jan Mayen,72.22.00,-10.35.00,2197,Stratovolcano,Stratovolcano,Historical,D1
+385052,Walvis Ridge at 33°S,Atlantic Ocean,Atlantic-S,-47.58.00,-5.22.00,-1200,Submarine,Submarine Volcano,,D1
+386011,Nightingale Island,United Kingdom,Atlantic-S,-37.42.00,-12.48.00,365,Stratovolcano,Stratovolcano,Historical,D1
+333060,Macdonald,Antarctica,Austral Is-C Pacific,-29.38.00,-140.25.00,-39,Submarine volcano,Submarine Volcano,Historical,D1
+382050,Terceira,Portugal,Azores,39.13.00,-27.32.00,1023,Stratovolcano,Stratovolcano,Historical,D1
+265090,Banda Api,Pacific Ocean,Banda Sea,-12.43.00,143.41.00,596,Caldera,Caldera,Historical,D1
+265060,Nila,Pacific Ocean,Banda Sea,-7.13.00,129.5,781,Stratovolcano,Stratovolcano,Historical,D1
+255020,Bagana,Papua New Guinea,Bougainville-SW Paci,-8.17.00,158.16.00,1855,Lava cone,Cone,Historical,D1
+383010,La Palma,Spain,Canary Is,28.57.00,-18.23.00,2426,Stratovolcano,Stratovolcano,Historical,D1
+384010,Fogo,Cape Verde,Cape Verde Is,15.35,-24.35.00,2829,Stratovolcano,Stratovolcano,Historical,D1
+357060,"Azul, Cerro",Chile,Chile-C,-45.53.00,-82.41.00,3788,Stratovolcano,Stratovolcano,Historical,D1
+357091,Callaqui,Chile,Chile-C,-38.32.00,-71.45.00,3164,Stratovolcano,Stratovolcano,Historical,D1
+357140,Carran-Los Venados,Chile,Chile-C,-40.35.00,-72.07.00,1114,Pyroclastic cone,Cone,Historical,D1
+357070,"Chillan, Nevados de",Chile,Chile-C,-50.28.00,-77.18.00,3180,Stratovolcano,Stratovolcano,Historical,D1
+357090,Copahue,Chile,Chile-C,-51.16.00,-74.03.00,2953,Stratovolcano,Stratovolcano,Historical,D1
+357110,Llaima,Chile,Chile-C,-49.32.00,-83.09.00,3125,Stratovolcano,Stratovolcano,Historical,D1
+357100,Lonquimay,Chile,Chile-C,-44.19.00,-80.46.00,2832,Stratovolcano,Stratovolcano,Historical,D1
+357040,Planchon-Peteroa,Chile,Chile-C,-38.43.00,-79.28.00,3977,Caldera,Caldera,Historical,D1
+357010,Tupungatito,Chile,Chile-C,-40.05.00,-82.17.00,5660,Stratovolcano,Stratovolcano,Historical,D1
+357120,Villarrica,Chile,Chile-C,-39.42.00,-72.33.00,2847,Stratovolcano,Stratovolcano,Historical,D1
+355040,Irruputuncu,Bolivia,Chile-N,-21.13.00,-68.55.00,5163,Stratovolcano,Stratovolcano,Historical,D1
+355100,Lascar,Chile,Chile-N,-23.37.00,-68.13.00,5592,Stratovolcano,Stratovolcano,Historical,D1
+355090,Putana,Chile,Chile-N,-31.17.00,-81.13.00,5884,Stratovolcano,Stratovolcano,Historical,D1
+358041,Chaiten,Chile,Chile-S,-55.55.00,-82.51.00,1122,Caldera,Caldera,Holocene,D1
+358057,"Hudson, Cerro",Chile,Chile-S,-45.9,-73.37.00,1905,Stratovolcano,Stratovolcano,Historical,D1
+351080,Galeras,Colombia,Colombia,1.22,-77.37.00,4276,Complex volcano,Stratovolcano,Historical,D1
+351060,Purace,Colombia,Colombia,2.32,-76.4,4650,Stratovolcano,Stratovolcano,Historical,D1
+351020,"Ruiz, Nevado del",Colombia,Colombia,18.52,-80.24.00,5279,Stratovolcano,Stratovolcano,Historical,D1
+345033,Arenal,Costa Rica,Costa Rica,17.43,-95.43.00,1670,Stratovolcano,Stratovolcano,Historical,D1
+345060,Irazu,Costa Rica,Costa Rica,25.19.00,-97.12.00,3436,Stratovolcano,Stratovolcano,Historical,D1
+345040,Poas,Costa Rica,Costa Rica,10.2,-87.53.00,2697,Stratovolcano,Stratovolcano,Historical,D1
+345020,Rincon de la Vieja,Costa Rica,Costa Rica,11.23,-90.24.00,1916,Complex volcano,Stratovolcano,Historical,D1
+352020,Guagua Pichincha,Ecuador,Ecuador,-2.51.00,-87.58.00,4784,Stratovolcano,Stratovolcano,Historical,D1
+352010,Reventador,Ecuador,Ecuador,-1.17.00,-87.56.00,3562,Stratovolcano,Stratovolcano,Historical,D1
+352090,Sangay,Ecuador,Ecuador,-2.05.00,-83.41.00,5286,Stratovolcano,Stratovolcano,Historical,D1
+352080,Tungurahua,Ecuador,Ecuador,-8.47.00,-85.22.00,5023,Stratovolcano,Stratovolcano,Historical,D1
+343030,Izalco,El Salvador,El Salvador,26.33.00,-99.33.00,1950,Stratovolcano,Stratovolcano,Historical,D1
+343100,San Miguel,El Salvador,El Salvador,20.14,-92.29.00,2130,Stratovolcano,Stratovolcano,Historical,D1
+353040,Alcedo,Ecuador,Galapagos,-0.43.00,-91.12.00,1130,Shield volcano,Shield Volcano,Historical,D1
+353060,"Azul, Cerro",Ecuador,Galapagos,-1.32.00,-97.48.00,1640,Shield volcano,Shield Volcano,Historical,D1
+353010,Fernandina,Ecuador,Galapagos,-0.37.00,-91.55.00,1476,Shield volcano,Shield Volcano,Historical,D1
+353080,Marchena,Ecuador,Galapagos,0.33,-90.47.00,343,Shield volcano,Shield Volcano,Historical,D1
+353050,"Negra, Sierra",Ecuador,Galapagos,-1.23.00,-91.17.00,1124,Shield volcano,Shield Volcano,Historical,D1
+353020,Wolf,Ecuador,Galapagos,0.02,-91.35.00,1710,Shield volcano,Shield Volcano,Historical,D1
+342080,Acatenango,Guatemala,Guatemala,22.21,-104.36.00,3976,Stratovolcano,Stratovolcano,Historical,D1
+342090,Fuego,Guatemala,Guatemala,21.53,-91.28.00,3763,Stratovolcano,Stratovolcano,Historical,D1
+342110,Pacaya,Guatemala,Guatemala,20.22,-100.01.00,2569,Complex volcano,Stratovolcano,Historical,D1
+342030,Santa Maria,Guatemala,Guatemala,26.37.00,-100.12.00,3745,Stratovolcano,Stratovolcano,Historical,D1
+268010,Dukono,Indonesia,Halmahera-Indonesia,12.39,141.38.00,1273,Complex volcano,Stratovolcano,Historical,D1
+268060,Gamalama,Indonesia,Halmahera-Indonesia,1.21,132.32.00,1714,Stratovolcano,Stratovolcano,Historical,D1
+268040,Gamkonora,Indonesia,Halmahera-Indonesia,1.38,127.53.00,1635,Stratovolcano,Stratovolcano,Historical,D1
+268030,Ibu,Indonesia,Halmahera-Indonesia,9.08,128.03.00,1325,Stratovolcano,Stratovolcano,Historical,D1
+268070,Kie Besi,Indonesia,Halmahera-Indonesia,0.32,127.4,1357,Stratovolcano,Stratovolcano,Historical,D1
+332000,Kama'ehuakanaloa,United States,Hawaiian Is,19.32,-155.27.00,-975,Submarine volcano,Submarine Volcano,Historical,D1
+332010,Kilauea,United States,Hawaiian Is,26.01.00,-159.47.00,1222,Shield volcano,Shield Volcano,Historical,D1
+332020,Mauna Loa,United States,Hawaiian Is,26.55.00,-165.08.00,4170,Shield volcano,Shield Volcano,Historical,D1
+285070,Akan,Japan,Hokkaido-Japan,49.24.00,144.13.00,1499,Caldera,Caldera,Historical,D1
+285020,Hokkaido-Komagatake,Japan,Hokkaido-Japan,43.03.00,151.17.00,1131,Stratovolcano,Stratovolcano,Historical,D1
+285040,Shikotsu,Japan,Hokkaido-Japan,53.28.00,141.38.00,1320,Caldera,Caldera,Historical,D1
+285050,Tokachidake,Japan,Hokkaido-Japan,49.58.00,153.26.00,2077,Stratovolcano,Stratovolcano,Historical,D1
+285030,Toya,Japan,Hokkaido-Japan,51.04.00,153.59.00,733,Stratovolcano,Stratovolcano,Historical,D1
+283170,Adatarayama,Japan,Honshu-Japan,47.47.00,144.41.00,1728,Stratovolcano,Stratovolcano,Historical,D1
+283230,Akita-Komagatake,Japan,Honshu-Japan,51.41.00,153.19.00,1637,Stratovolcano,Stratovolcano,Historical,D1
+283260,Akita-Yakeyama,Japan,Honshu-Japan,55.04.00,152.37.00,1366,Complex volcano,Stratovolcano,Historical,D1
+283110,Asamayama,Japan,Honshu-Japan,42.46.00,146.43.00,2568,Complex volcano,Stratovolcano,Historical,D1
+283180,Azumayama,Japan,Honshu-Japan,49.15.00,144.04.00,1949,Stratovolcano,Stratovolcano,Historical,D1
+283220,Chokaisan,Japan,Honshu-Japan,40.39.00,140.49.00,2236,Stratovolcano,Stratovolcano,Historical,D1
+283010,Izu-Tobu,Japan,Honshu-Japan,34.9,140.38.00,1406,Pyroclastic cone,Cone,Historical,D1
+283120,Kusatsu-Shiranesan,Japan,Honshu-Japan,46.18.00,146.48.00,2165,Stratovolcano,Stratovolcano,Historical,D1
+283090,Niigata-Yakeyama,Japan,Honshu-Japan,51.21.00,138.36.00,2400,Lava dome,Cone,Historical,D1
+283040,Ontakesan,Japan,Honshu-Japan,49.53.00,137.48.00,3067,Complex volcano,Stratovolcano,Historical,D1
+283070,Yakedake,Japan,Honshu-Japan,39.47.00,146.47.00,2455,Stratovolcano,Stratovolcano,Historical,D1
+373010,Grimsvotn,Iceland,Iceland-NE,70.56.00,-22.16.00,1719,Caldera,Caldera,Historical,D1
+373080,Krafla,Iceland,Iceland-NE,76.55.00,-28.08.00,800,Caldera,Caldera,Historical,D1
+373050,Kverkfjoll,Iceland,Iceland-NE,74.53.00,-26.47.00,1930,Stratovolcano,Stratovolcano,Historical,D1
+,Lakagigar,Iceland,Iceland-NE,64.42.00,-17.33.00,1725,Caldera,Caldera,Historical,D1
+372020,Eyjafjallajokull,Iceland,Iceland-S,73.33.00,-29.33.00,1651,Stratovolcano,Stratovolcano,Historical,D1
+372070,Hekla,Iceland,Iceland-S,79.23.00,-30.06.00,1490,Stratovolcano,Stratovolcano,Historical,D1
+,Krakagiger,Iceland,Iceland-S,64.38.00,-19.7,1491,Stratovolcano,Stratovolcano,Historical,D1
+,Lambafit,Iceland,Iceland-S,64.08.00,-19.4,550,Crater rows,Crater System,Historical,D1
+,Mundafell,Iceland,Iceland-S,64.38.00,-19.7,1491,Stratovolcano,Stratovolcano,Historical,D1
+372010,Vestmannaeyjar,Iceland,Iceland-S,69.56.00,-24.26.00,283,Submarine volcano,Submarine Volcano,Historical,D1
+,Reykjaneshryggur,Iceland,Iceland-SW,64.07.00,-23.33.00,80,Submarine volcanoes,Submarine Volcano,Historical,D1
+234010,Heard,Heard I. & McDonald Is.,Indian O-S,-54.46.00,81.33.00,2745,Stratovolcano,Stratovolcano,Historical,D1
+234011,McDonald Islands,Indian Ocean,Indian O-S,-53.03.00,72.6,230,Complex volcano,Stratovolcano,Historical,D1
+234070,Marion Island,South Africa,Indian O-S,-46.9,38.15.00,1230,Shield volcano,Shield Volcano,Historical,D1
+233010,Karthala,Comoros,Indian O-W,-12.15.00,43.38.00,2361,Shield volcano,Shield Volcano,Historical,D1
+233005,Mayotte,France,Indian O-W,-13.23.00,45.17.00,660,Shield,Shield Volcano,,D1
+233020,"Fournaise, Piton de la",Reunion,Indian O-W,-25.04.00,66.48.00,2632,Shield volcano,Shield Volcano,Historical,D1
+262000,Krakatau,Indonesia,Indonesia,-7.41.00,112.03.00,285,Caldera,Caldera,Historical,D1
+211060,Etna,Italy,Italy,49.28.00,30.39.00,3357,Stratovolcano,Stratovolcano,Historical,D1
+211040,Stromboli,Italy,Italy,51.09.00,18.33,924,Stratovolcano,Stratovolcano,Historical,D1
+284010,Izu-Oshima,Japan,Izu Is-Japan,46.04.00,145.34.00,746,Stratovolcano,Stratovolcano,Historical,D1
+284090,Izu-Torishima,Japan,Izu Is-Japan,38.04.00,145.03.00,394,Stratovolcano,Stratovolcano,Historical,D1
+284040,Miyakejima,Japan,Izu Is-Japan,35.34.00,147.46.00,775,Stratovolcano,Stratovolcano,Historical,D1
+284070,Myojinsho,Japan,Izu Is-Japan,45.48.00,154.18.00,11,Submarine volcano,Submarine Volcano,Historical,D1
+263200,Dieng Volcanic Complex,Indonesia,Java,-7.2,123.39.00,2565,Complex volcano,Stratovolcano,Historical,D1
+263140,Galunggung,Indonesia,Java,-7.25.00,108.58.00,2168,Stratovolcano,Stratovolcano,Historical,D1
+263350,Ijen,Indonesia,Java,-8.58.00,118.02.00,2769,Stratovolcano,Stratovolcano,Historical,D1
+263280,Kelud,Indonesia,Java,-22.35.00,117.14.00,1730,Stratovolcano,Stratovolcano,Historical,D1
+263250,Merapi,Indonesia,Java,-7.54.00,117.26.00,2910,Stratovolcano,Stratovolcano,Historical,D1
+263340,Raung,Indonesia,Java,-9.59.00,114.56.00,3260,Stratovolcano,Stratovolcano,Historical,D1
+263300,Semeru,Indonesia,Java,-9.48.00,127.22.00,3657,Stratovolcano,Stratovolcano,Historical,D1
+263180,Slamet,Indonesia,Java,-11.02.00,112.28.00,3428,Stratovolcano,Stratovolcano,Historical,D1
+263210,Sundoro,Indonesia,Java,-12.02.00,125.36.00,3147,Stratovolcano,Stratovolcano,Historical,D1
+263090,Tangkuban Parahu,Indonesia,Java,-7.17.00,107.6,2084,Stratovolcano,Stratovolcano,Historical,D1
+263310,Tengger Caldera,Indonesia,Java,-22.42.00,113.35.00,2329,Stratovolcano,Stratovolcano,Historical,D1
+300100,Avachinsky,Russia,Kamchatka,57.16.00,171.56.00,2717,Stratovolcano,Stratovolcano,Historical,D1
+300123,Bakening,Russia,Kamchatka,68.05.00,158.07.00,2278,Stratovolcano,Stratovolcano,Historical,D1
+300250,Bezymianny,Russia,Kamchatka,71.12.00,169.55.00,2882,Stratovolcano,Stratovolcano,Historical,D1
+300070,Gorely,Russia,Kamchatka,61.15.00,158.36.00,1799,Caldera,Caldera,Historical,D1
+300130,Karymsky,Russia,Kamchatka,54.49.00,166.23.00,1513,Stratovolcano,Stratovolcano,Historical,D1
+300260,Klyuchevskoy,Russia,Kamchatka,56.56.00,170.42.00,4754,Stratovolcano,Stratovolcano,Historical,D1
+300270,Sheveluch,Russia,Kamchatka,66.53.00,161.36.00,3283,Stratovolcano,Stratovolcano,Historical,D1
+300240,Tolbachik,Russia,Kamchatka,68.52.00,165.26.00,3611,Shield volcano,Shield Volcano,Historical,D1
+300040,Zheltovsky,Russia,Kamchatka,60.37.00,162.28.00,1926,Stratovolcano,Stratovolcano,Historical,D1
+242005,Havre Seamount,New Zealand,Kermadec Is,-31.08.00,-179.33.00,-897,Submarine,Submarine Volcano,,D1
+242050,Monowai,New Zealand,Kermadec Is,-39.47.00,-180.08.00,-132,Submarine volcano,Submarine Volcano,Historical,D1
+242030,Raoul Island,New Zealand,Kermadec Is,-29.27.00,-178.32.00,516,Stratovolcano,Stratovolcano,Historical,D1
+290390,Alaid,Russia,Kuril Is,64.21.00,164.25.00,2285,Stratovolcano,Stratovolcano,Historical,D1
+290030,Chachadake [Tiatia],Russia,Kuril Is,49.53.00,150.12.00,1822,Stratovolcano,Stratovolcano,Historical,D1
+290360,Chikurachki,Russia,Kuril Is,55.24.00,162.41.00,1781,Stratovolcano,Stratovolcano,Historical,D1
+290260,Chirinkotan,Russia,Kuril Is,49.38.00,153.48.00,724,Stratovolcano,Stratovolcano,Historical,D1
+290150,Chirpoi,Russia,Kuril Is,54.52.00,164.31.00,742,Caldera,Caldera,Historical,D1
+290380,Ebeko,Russia,Kuril Is,61.26.00,156.14.00,1103,Somma volcano,Stratovolcano,Historical,D1
+290270,Ekarma,Russia,Kuril Is,63.58.00,154.33.00,1170,Stratovolcano,Stratovolcano,Historical,D1
+290070,Etorofu-Yakeyama [Grozny Group],Russia,Kuril Is,45.12.00,161.31.00,1158,Complex volcano,Stratovolcano,Historical,D1
+290120,Kolokol Group,Russia,Kuril Is,46.42.00,151.23.00,1328,Somma volcano,Stratovolcano,Historical,D1
+290100,Moyorodake [Medvezhia],Russia,Kuril Is,51.29.00,161.58.00,1124,Somma volcano,Stratovolcano,Historical,D1
+290240,Sarychev Peak,Russia,Kuril Is,49.32.00,153.2,1496,Stratovolcano,Stratovolcano,Historical,D1
+290160,Unnamed,Russia,Kuril Is,46.47.00,151.28.00,-502,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+282080,Aira,Japan,Kyushu-Japan,40.37.00,140.59.00,1117,Stratovolcano,Stratovolcano,Historical,D1
+282110,Asosan,Japan,Kyushu-Japan,46.45.00,132.25.00,1592,Caldera,Caldera,Historical,D1
+282090,Kirishimayama,Japan,Kyushu-Japan,46.34.00,144.22.00,1700,Shield volcano,Shield Volcano,Historical,D1
+282120,Kujusan,Japan,Kyushu-Japan,34.26.00,135.09.00,1791,Stratovolcano,Stratovolcano,Historical,D1
+282100,Unzendake,Japan,Kyushu-Japan,44.41.00,134.59.00,1483,Complex volcano,Stratovolcano,Historical,D1
+264020,Agung,Indonesia,Lesser Sunda Is,-13.43.00,123.28.00,2997,Stratovolcano,Stratovolcano,Historical,D1
+264010,Batur,Indonesia,Lesser Sunda Is,-8.24.00,121.18.00,1711,Caldera,Caldera,Historical,D1
+264100,Ebulobo,Indonesia,Lesser Sunda Is,-21.37.00,124.11.00,2096,Stratovolcano,Stratovolcano,Historical,D1
+264220,Iliboleng,Indonesia,Lesser Sunda Is,-13.42.00,127.18.00,1659,Stratovolcano,Stratovolcano,Historical,D1
+264250,Iliwerung,Indonesia,Lesser Sunda Is,-16.52.00,132.33.00,583,Complex volcano,Stratovolcano,Historical,D1
+264110,Iya,Indonesia,Lesser Sunda Is,-22.51.00,131.41.00,618,Stratovolcano,Stratovolcano,Historical,D1
+264140,Kelimutu,Indonesia,Lesser Sunda Is,-9.17.00,122.22.00,1639,Complex volcano,Stratovolcano,Historical,D1
+264180,Lewotobi,Indonesia,Lesser Sunda Is,-17.02.00,134.55.00,1703,Stratovolcano,Stratovolcano,Historical,D1
+,Lewotobi Perempuan,Indonesia,Lesser Sunda Is,-17.35.00,123.18.00,1703,Stratovolcano,Stratovolcano,Historical,D1
+264150,Paluweh,Indonesia,Lesser Sunda Is,-8.32.00,132.48.00,875,Stratovolcano,Stratovolcano,Historical,D1
+264071,Ranakah,Indonesia,Lesser Sunda Is,-18.37.00,120.53.00,2288,Lava dome,Cone,Historical,D1
+264030,Rinjani,Indonesia,Lesser Sunda Is,-8.42.00,116.47.00,3726,Stratovolcano,Stratovolcano,Historical,D1
+264050,Sangeang Api,Indonesia,Lesser Sunda Is,-8.2,119.07.00,1912,Complex volcano,Stratovolcano,Historical,D1
+264270,Sirung,Indonesia,Lesser Sunda Is,-16.17.00,126.11.00,1347,Complex volcano,Stratovolcano,Historical,D1
+264040,Tambora,Indonesia,Lesser Sunda Is,-8.25.00,118,2850,Stratovolcano,Stratovolcano,Historical,D1
+274020,Didicas,Philippines,Luzon-N of,20.17,125.22.00,228,Compound volcano,Stratovolcano,Historical,D1
+273010,Bulusan,Philippines,Luzon-Philippines,24.49.00,124.56.00,1535,Stratovolcano,Stratovolcano,Historical,D1
+273030,Mayon,Philippines,Luzon-Philippines,17.17,134.25.00,2462,Stratovolcano,Stratovolcano,Historical,D1
+273083,Pinatubo,Philippines,Luzon-Philippines,15.13,120.35.00,1486,Stratovolcano,Stratovolcano,Historical,D1
+273070,Taal,Philippines,Luzon-Philippines,14.11,136.38.00,311,Stratovolcano,Stratovolcano,Historical,D1
+284201,East Diamante,United States,Mariana Is-C Pacific,16.33,146.07.00,-127,Submarine volcano,Submarine Volcano,Historical,D1
+284140,Farallon de Pajaros,United States,Mariana Is-C Pacific,29.06.00,158.53.00,337,Stratovolcano,Stratovolcano,Historical,D1
+284305,Mariana Back-Arc Segment at 15.5°N,United States,Mariana Is-C Pacific,21.46,152.26.00,-4100,Submarine,Submarine Volcano,,D1
+284211,NW Rota-1,United States,Mariana Is-C Pacific,24.01.00,156.55.00,-517,Submarine volcano,Submarine Volcano,Historical,D1
+284170,Pagan,United States,Mariana Is-C Pacific,18.13,145.8,570,Stratovolcano,Stratovolcano,Historical,D1
+284193,South Sarigan Seamount,United States,Mariana Is-C Pacific,16.58,146.18.00,-184,Submarine,Submarine Volcano,,D1
+284142,Supply Reef,United States,Mariana Is-C Pacific,20.13,145.1,-8,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+341120,"Chichon, El",Mexico,Mexico,17.36,-93.23.00,1150,Tuff cone,Maars / Tuff ring,Historical,D1
+341040,Colima,Mexico,Mexico,27.34.00,-104.02.00,3850,Stratovolcano,Stratovolcano,Historical,D1
+341090,Popocatepetl,Mexico,Mexico,19.23,-108.22.00,5393,Stratovolcano,Stratovolcano,Historical,D1
+341130,Tacana,Mexico,Mexico,17.12,-93.49.00,4064,Stratovolcano,Stratovolcano,Historical,D1
+341021,Socorro,Mexico,Mexico-Is,19.18,-111.35.00,1050,Shield volcano,Shield Volcano,Historical,D1
+252010,Langila,Papua New Guinea,New Britain-SW Pac,-13.45.00,148.42.00,1330,Complex volcano,Stratovolcano,Historical,D1
+252140,Rabaul,Papua New Guinea,New Britain-SW Pac,-8.06.00,155.14.00,688,Pyroclastic shield,Shield Volcano,Historical,D1
+252120,Ulawun,Papua New Guinea,New Britain-SW Pac,-5.05.00,151.33.00,2334,Stratovolcano,Stratovolcano,Historical,D1
+251030,Karkar,Papua New Guinea,New Guinea-NE of,-14.47.00,161.16.00,1839,Stratovolcano,Stratovolcano,Historical,D1
+251050,Long Island,Papua New Guinea,New Guinea-NE of,-10.58.00,147.12.00,1280,Complex volcano,Stratovolcano,Historical,D1
+251020,Manam,Papua New Guinea,New Guinea-NE of,-4.08.00,145.37.00,1807,Stratovolcano,Stratovolcano,Historical,D1
+251070,Ritter Island,Papua New Guinea,New Guinea-NE of,-13.39.00,149.55.00,75,Stratovolcano,Stratovolcano,Historical,D1
+,Ngauruhoe,New Zealand,New Zealand,-41.38.00,176.03.00,2291,Stratovolcano,Stratovolcano,Historical,D1
+241050,Okataina,New Zealand,New Zealand,-40.37.00,184.27.00,1111,Lava dome,Cone,Historical,D1
+241100,Ruapehu,New Zealand,New Zealand,-39.28.00,175.57.00,2797,Stratovolcano,Stratovolcano,Historical,D1
+241130,Rumble III,New Zealand,New Zealand,-47.25.00,185.58.00,-220,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+241080,Tongariro,New Zealand,New Zealand,-41.37.00,185.32.00,1978,Stratovolcano,Stratovolcano,Historical,D1
+241040,Whakaari/White Island,New Zealand,New Zealand,-37.52.00,177.18.00,294,Stratovolcano,Stratovolcano,Historical,D1
+344120,Concepcion,Nicaragua,Nicaragua,19.58,-95.22.00,1700,Stratovolcano,Stratovolcano,Historical,D1
+344100,Masaya,Nicaragua,Nicaragua,27.24.00,-88.49.00,594,Caldera,Caldera,Historical,D1
+344070,"Negro, Cerro",Nicaragua,Nicaragua,20.26,-97.42.00,728,Cinder cone,Cone,Historical,D1
+344020,San Cristobal,Nicaragua,Nicaragua,23.42,-87.04.00,1745,Stratovolcano,Stratovolcano,Historical,D1
+344040,Telica,Nicaragua,Nicaragua,22.06,-87.24.00,1036,Stratovolcano,Stratovolcano,Historical,D1
+,Galapagos Rift,Pacific Ocean,Pacific-E,13.12,-86.15.00,-2430,Submarine volcano,Submarine Volcano,Historical,D1
+334040,Northern EPR at 10.7°N,Pacific Ocean,Pacific-E,11.13,-103.58.00,-2900,Submarine volcano,Submarine Volcano,Historical,D1
+334050,Northern EPR at 9.8°N,Pacific Ocean,Pacific-E,10.23,-104.3,-2500,Submarine volcano,Submarine Volcano,Historical,D1
+,Unnamed,Pacific Ocean,Pacific-E,10.22,-104.3,-2500,Submarine volcano,Submarine Volcano,Historical,D1
+331021,Axial Seamount,Pacific Ocean,Pacific-NE,46.35.00,-130,-1410,Submarine volcano,Submarine Volcano,Historical,D1
+331030,Cleft Segment,Pacific Ocean,Pacific-NE,45.23.00,-130.3,-2140,Submarine volcano,Submarine Volcano,Historical,D1
+331020,CoAxial Segment,Pacific Ocean,Pacific-NE,46.52.00,-129.58.00,-2400,Submarine,Submarine Volcano,,D1
+331011,Cobb Segment,Pacific Ocean,Pacific-NE,47.28.00,-129.33.00,-2100,Submarine volcano,Submarine Volcano,Historical,D1
+331010,Endeavour Segment,Pacific Ocean,Pacific-NE,48.35.00,-129.1,-2050,Submarine volcano,Submarine Volcano,Historical,D1
+354003,Coropuna,Peru,Peru,-15.52.00,-73.05.00,6377,Stratovolcano,Stratovolcano,Historical,D1
+354006,Sabancaya,Peru,Peru,-28.07.00,-85.17.00,5960,Stratovolcanoes,Stratovolcano,Historical,D1
+354020,Ubinas,Peru,Peru,-21.45.00,-84.57.00,5608,Stratovolcano,Stratovolcano,Historical,D1
+272020,Kanlaon,Philippines,Philippines-C,10.41,123.13.00,2422,Stratovolcano,Stratovolcano,Historical,D1
+282020,Io-Torishima,Japan,Ryukyu Is,41.41.00,131.43.00,212,Complex volcano,Stratovolcano,Historical,D1
+282060,Kikai,Japan,Ryukyu Is,43.13.00,135.05.00,704,Caldera,Caldera,Historical,D1
+282050,Kuchinoerabujima,Japan,Ryukyu Is,37.23.00,133.37.00,657,Stratovolcano,Stratovolcano,Historical,D1
+282030,Suwanosejima,Japan,Ryukyu Is,39.38.00,140.54.00,796,Stratovolcano,Stratovolcano,Historical,D1
+267040,Awu,Indonesia,Sangihe Is-Indonesia,14.29,132.27.00,1318,Stratovolcano,Stratovolcano,Historical,D1
+267020,Karangetang,Indonesia,Sangihe Is-Indonesia,15.01,131.47.00,1797,Stratovolcano,Stratovolcano,Historical,D1
+256010,Tinakula,Solomon Is.,Santa Cruz Is-SW Pac,-16.26.00,178.24.00,796,Stratovolcano,Stratovolcano,Historical,D1
+255060,Kavachi,Solomon Is.,Solomon Is-SW Pacifi,-24.31.00,173.19.00,-20,Submarine volcano,Submarine Volcano,Historical,D1
+266010,Colo,Indonesia,Sulawesi-Indonesia,-2.42.00,131.01.00,404,Stratovolcano,Stratovolcano,Historical,D1
+266100,Lokon-Empung,Indonesia,Sulawesi-Indonesia,6.58,137.12.00,1580,Stratovolcano,Stratovolcano,Historical,D1
+266110,Mahawu,Indonesia,Sulawesi-Indonesia,6.52,138.25.00,1299,Stratovolcano,Stratovolcano,Historical,D1
+266030,Soputan,Indonesia,Sulawesi-Indonesia,2.52,136.17.00,1785,Stratovolcano,Stratovolcano,Historical,D1
+261230,Dempo,Indonesia,Sumatra,-4.16.00,105.01.00,3142,Stratovolcano,Stratovolcano,Historical,D1
+261170,Kerinci,Indonesia,Sumatra,-12.37.00,105.24.00,3800,Stratovolcano,Stratovolcano,Historical,D1
+261140,Marapi,Indonesia,Sumatra,-0.38.00,107.54.00,2885,Complex volcano,Stratovolcano,Historical,D1
+261030,Peuet Sague,Indonesia,Sumatra,19.03,100.49.00,2785,Complex volcano,Stratovolcano,Historical,D1
+261120,Sorikmarapi,Indonesia,Sumatra,11.26,107.59.00,2145,Stratovolcano,Stratovolcano,Historical,D1
+261160,Talang,Indonesia,Sumatra,-16.19.00,111.21.00,2575,Stratovolcano,Stratovolcano,Historical,D1
+,Unnamed,Pacific Ocean,SW Pacific,-26.18.00,169.03.00,-2400,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+258001,Gemini-Oscostar,Vanuatu,SW Pacific,-35.57.00,170.13.00,-33,Submarine volcano,Submarine Volcano,Historical,D1
+243080,Home Reef,Tonga,Tonga-SW Pacific,-34.32.00,-186.55.00,-10,Submarine volcano,Submarine Volcano,Historical,D1
+243040,Hunga Tonga-Hunga Ha'apai,Tonga,Tonga-SW Pacific,-29.13.00,-181.24.00,114,Submarine volcano,Submarine Volcano,Historical,D1
+243070,Lateiki,Tonga,Tonga-SW Pacific,-19.18.00,-175.27.00,43,Submarine volcano,Submarine Volcano,Historical,D1
+243110,Niuafo'ou,Tonga,Tonga-SW Pacific,-15.6,-176.03.00,260,Shield volcano,Shield Volcano,Historical,D1
+243101,Tafahi,Tonga,Tonga-SW Pacific,-16.25.00,-174.12.00,546,Submarine volcano,Submarine Volcano,Historical,D1
+243120,Tafu-Maka,Tonga,Tonga-SW Pacific,-15.37.00,-174.23.00,-1400,Submarine volcano,Submarine Volcano,Historical,D1
+243030,Unnamed,Tonga,Tonga-SW Pacific,-34.12.00,-175.55.00,-296,Submarine volcano,Submarine Volcano,Historical,D1
+243091,Unnamed,Tonga,Tonga-SW Pacific,-23.25.00,-180.05.00,-40,Submarine volcano,Submarine Volcano,Historical,D1
+243130,West Mata,Tonga,Tonga-SW Pacific,-15.1,-174.15.00,-1174,Submarine volcano,Submarine Volcano,Historical,D1
+,Piparo,Trinidad,Trinidad,10,-61,140,Mud volcano,Other / Unknown,Historical,D1
+321050,St. Helens,United States,US-Washington,46.2,-122.18.00,2549,Stratovolcano,Stratovolcano,Historical,D1
+257030,Ambae,Vanuatu,Vanuatu-SW Pacific,-21.29.00,180.55.00,1496,Shield volcano,Shield Volcano,Historical,D1
+257040,Ambrym,Vanuatu,Vanuatu-SW Pacific,-16.25.00,168.12.00,1334,Pyroclastic shield,Shield Volcano,Historical,D1
+257060,East Epi,Vanuatu,Vanuatu-SW Pacific,-17.08.00,174.29.00,833,Stratovolcano,Stratovolcano,Historical,D1
+257020,Gaua,Vanuatu,Vanuatu-SW Pacific,-18.41.00,175.34.00,729,Stratovolcano,Stratovolcano,Historical,D1
+257070,Kuwae,Vanuatu,Vanuatu-SW Pacific,-17.23.00,176.43.00,-2,Caldera,Caldera,Historical,D1
+257050,Lopevi,Vanuatu,Vanuatu-SW Pacific,-24.27.00,173.46.00,1413,Stratovolcano,Stratovolcano,Historical,D1
+257010,Suretamatai,Vanuatu,Vanuatu-SW Pacific,-13.8,167.47.00,921,Complex volcano,Stratovolcano,Historical,D1
+257100,Yasur,Vanuatu,Vanuatu-SW Pacific,-27.52.00,176.27.00,361,Stratovolcano,Stratovolcano,Historical,D1
+284133,Fukujin,Japan,Volcano Is-Japan,22.33,143.47.00,-217,Submarine volcano,Submarine Volcano,Historical,D1
+284130,Fukutoku-Oka-no-Ba,Japan,Volcano Is-Japan,28.45.00,149.01.00,-29,Submarine volcano,Submarine Volcano,Historical,D1
+284120,Ioto,Japan,Volcano Is-Japan,36.31.00,145.49.00,169,Caldera,Caldera,Historical,D1
+284100,Kaitoku Seamount,Japan,Volcano Is-Japan,28.02.00,142.36.00,-95,Submarine volcano,Submarine Volcano,Historical,D1
+284131,Minami-Hiyoshi,Japan,Volcano Is-Japan,23.5,156.35.00,-107,Submarine volcano,Submarine Volcano,Historical,D1
+360060,Soufriere Guadeloupe,Guadeloupe,W Indies,16.44,-72.04.00,1467,Stratovolcano,Stratovolcano,Historical,D1
+360050,Soufriere Hills,Montserrat,W Indies,17.12,-62.18.00,915,Stratovolcano,Stratovolcano,Historical,D1
+360160,Kick 'em Jenny,Netherlands,W Indies,12.3,-62.04.00,-185,Submarine volcano,Submarine Volcano,Historical,D1
+360150,Soufriere St. Vincent,St. Vincent & the Grenadines,W Indies,13.33,-61.18.00,1220,Stratovolcano,Stratovolcano,Historical,D1
+250010,St. Andrew Strait,Papua New Guinea,Admiralty Is-SW Paci,-2.38.00,147.35.00,270,Complex volcano,Stratovolcano,Historical,D2
+223050,Visoke,Rwanda,Africa-C,-8.38.00,37.05.00,3696,Stratovolcano,Stratovolcano,Historical,D2
+222030,"Barrier, The",Kenya,Africa-E,2.32,36.57.00,1032,Shield volcano,Shield Volcano,Historical,D2
+222051,Emuruangogolak,Kenya,Africa-E,1.5,36.33.00,1285,Shield volcano,Shield Volcano,Radiocarbon,D2
+222160,Meru,Tanzania,Africa-E,-7.04.00,37.15.00,4550,Stratovolcano,Stratovolcano,Historical,D2
+221112,Alayta,Ethiopia,Africa-NE,26.48.00,49.33.00,1496,Shield volcano,Shield Volcano,Historical,D2
+221250,Bora-Bericha-Tullu Moye,Ethiopia,Africa-NE,11.31,40.21.00,2345,Pumice cone,Cone,Anthropology,D2
+221041,Dallol,Ethiopia,Africa-NE,18.02,40.3,-48,Explosion crater,Crater System,Historical,D2
+221122,Manda-Inakir,Ethiopia,Africa-NE,12.38,42.2,600,Fissure vent,Crater System,Historical,D2
+224004,Santa Isabel,Equatorial Guinea,Africa-W,12.48,20.42,2999,Shield volcano,Shield Volcano,Historical,D2
+312090,Aniakchak,United States,Alaska Peninsula,57.28.00,-158.17.00,1341,Caldera,Caldera,Historical,D2
+312170,Katmai,United States,Alaska Peninsula,62.39.00,-169.53.00,2047,Stratovolcano,Stratovolcano,Historical,D2
+312150,Mageik,United States,Alaska Peninsula,61.15.00,-159.13.00,2165,Stratovolcano,Stratovolcano,Historical,D2
+312140,Martin,United States,Alaska Peninsula,60.52.00,-161.01.00,1863,Stratovolcano,Stratovolcano,Historical,D2
+312180,Novarupta,United States,Alaska Peninsula,62.26.00,-157.39.00,841,Caldera,Caldera,Historical,D2
+315020,Wrangell,United States,Alaska-E,62.06.00,-144.17.00,4278,Shield volcano,Shield Volcano,Historical,D2
+313020,Iliamna,United States,Alaska-SW,60.32.00,-153.09.00,3053,Stratovolcano,Stratovolcano,Historical,D2
+311260,Kagamil,United States,Aleutian Is,68.14.00,-170.12.00,893,Stratovolcano,Stratovolcano,Historical,D2
+311080,Tanaga,United States,Aleutian Is,65.45.00,-180.26.00,1806,Stratovolcano,Stratovolcano,Historical,D2
+311210,Yunaska,United States,Aleutian Is,62.39.00,-180.32.00,550,Shield volcano,Shield Volcano,Historical,D2
+390080,Bristol Island,Antarctica,Antarctica,-59.17.00,-34.53.00,1100,Stratovolcano,Stratovolcano,Historical,D2
+390100,Candlemas Island,Antarctica,Antarctica,-57.08.00,-27.07.00,550,Stratovolcano,Stratovolcano,Historical,D2
+390031,Penguin Island,Antarctica,Antarctica,-62.1,-58.33.00,180,Stratovolcano,Stratovolcano,Lichenometry,D2
+390140,Protector Seamounts,Antarctica,Antarctica,-70.12.00,-30.47.00,-55,Submarine volcano,Submarine Volcano,Historical,D2
+,Ormus Islands,Indian Ocean,Arabia-S,26,57,0,Submarine volcano,Submarine Volcano,Holocene,D2
+231120,"Dhamar, Harras of",Yemen,Arabia-S,14.57,45.07.00,3500,Volcanic field,Crater System,Historical,D2
+,Unnamed,Arctic Ocean,Arctic Ocean,88.27.00,-65.6,-1500,Submarine volcano,Submarine Volcano,Historical,D2
+386010,Tristan da Cunha,Atlantic Ocean,Atlantic-S,-38.32.00,-12.28.00,2060,Stratovolcano,Stratovolcano,Historical,D2
+382010,Fayal,Portugal,Azores,47.36.00,-39.53.00,1041,Stratovolcano,Stratovolcano,Historical,D2
+382110,Monaco Bank,Portugal,Azores,37.6,-26.28.00,-197,Submarine volcano,Submarine Volcano,Historical,D2
+382030,Sao Jorge,Portugal,Azores,39.05.00,-28.08.00,1053,Fissure vent,Crater System,Historical,D2
+265070,Serua,Pacific Ocean,Banda Sea,-11.12.00,130.17.00,608,Stratovolcano,Stratovolcano,Historical,D2
+265050,Teon,Pacific Ocean,Banda Sea,-22.16.00,131.24.00,728,Stratovolcano,Stratovolcano,Historical,D2
+383030,Tenerife,Spain,Canary Is,32.31.00,-26.41.00,3715,Stratovolcano,Stratovolcano,Historical,D2
+357021,Maipo,Argentina,Chile-C,-36.44.00,-82.52.00,5323,Caldera,Caldera,Historical,D2
+357020,San Jose,Argentina,Chile-C,-46.09.00,-83.55.00,6070,Stratovolcano,Stratovolcano,Historical,D2
+357050,Descabezado Grande,Chile,Chile-C,-35.58.00,-71.15.00,3953,Stratovolcano,Stratovolcano,Historical,D2
+357130,Mocho-Choshuenco,Chile,Chile-C,-54.27.00,-72.27.00,2422,Stratovolcano,Stratovolcano,Historical,D2
+357030,Tinguiririca,Chile,Chile-C,-47.34.00,-75.52.00,4280,Stratovolcano,Stratovolcano,Historical,D2
+355020,Guallatiri,Chile,Chile-N,-18.42.00,-70.32.00,6071,Stratovolcano,Stratovolcano,Historical,D2
+355030,Isluga,Chile,Chile-N,-19.15.00,-69.23.00,5550,Stratovolcano,Stratovolcano,Historical,D2
+355070,San Pedro-San Pablo,Chile,Chile-N,-35.48.00,-74.31.00,6142,Stratovolcano,Stratovolcano,Historical,D2
+358059,Arenales,Chile,Chile-S,-47.2,-81.03.00,3437,Stratovolcano,Stratovolcano,Historical,D2
+358070,"Burney, Monte",Chile,Chile-S,-52.33.00,-73.4,1758,Stratovolcano,Stratovolcano,Historical,D2
+358020,Calbuco,Chile,Chile-S,-41.33.00,-82.18.00,1974,Stratovolcano,Stratovolcano,Historical,D2
+358030,Huequi,Chile,Chile-S,-48.17.00,-81.38.00,1318,Stratovolcano,Stratovolcano,Historical,D2
+358060,Lautaro,Chile,Chile-S,-49.19.00,-81.24.00,3542,Stratovolcano,Stratovolcano,Historical,D2
+304030,Ashikule Volcanic Field,China,China-W,47.22.00,91.46.00,5090,Pyroclastic cone,Cone,Historical,D2
+351100,Cumbal,Colombia,Colombia,1.35,-78.27.00,4764,Stratovolcano,Stratovolcano,Historical,D2
+351070,Dona Juana,Colombia,Colombia,1.5,-91.36.00,4137,Stratovolcano,Stratovolcano,Historical,D2
+351030,"Tolima, Nevado del",Colombia,Colombia,14.58,-75.33.00,5215,Stratovolcano,Stratovolcano,Historical,D2
+351110,Chiles-Cerro Negro,Ecuador,Colombia,13.37,-92.38.00,4698,Stratovolcano,Stratovolcano,Holocene,D2
+345030,Miravalles,Costa Rica,Costa Rica,22.28,-87.33.00,2028,Stratovolcano,Stratovolcano,Historical,D2
+352050,Cotopaxi,Ecuador,Ecuador,-11.17.00,-85.16.00,5911,Stratovolcano,Stratovolcano,Historical,D2
+,San Marcelino,El Salvador,El Salvador,27.13.00,-90.03.00,2381,Stratovolcano,Stratovolcano,Historical,D2
+343050,San Salvador,El Salvador,El Salvador,25.14.00,-93.54.00,1893,Stratovolcano,Stratovolcano,Historical,D2
+343020,Santa Ana,El Salvador,El Salvador,27.13.00,-90.03.00,2381,Stratovolcano,Stratovolcano,Historical,D2
+353070,Pinta,Ecuador,Galapagos,0.58,-91.15.00,780,Shield volcano,Shield Volcano,Historical,D2
+353090,Santiago,Ecuador,Galapagos,-0.22.00,-91.17.00,920,Shield volcano,Shield Volcano,Historical,D2
+212040,Santorini,Greece,Greece,42.44.00,31.36.00,367,Shield volcano,Shield Volcano,Historical,D2
+,Unnamed,United States,Hawaiian Is,23.58,-164.23.00,-4000,Submarine volcano,Submarine Volcano,Historical,D2
+285090,Shiretoko-Iozan,Japan,Hokkaido-Japan,46.13.00,147.41.00,1562,Stratovolcano,Stratovolcano,Historical,D2
+283240,Iwatesan,Japan,Honshu-Japan,53.13.00,141.01.00,2038,Complex volcano,Stratovolcano,Historical,D2
+283210,Kurikomayama,Japan,Honshu-Japan,54.01.00,153.08.00,1627,Stratovolcano,Stratovolcano,Historical,D2
+283150,Nasudake,Japan,Honshu-Japan,39.05.00,155.03.00,1915,Stratovolcano,Stratovolcano,Historical,D2
+283190,Zaozan [Zaosan],Japan,Honshu-Japan,40.24.00,140.44.00,1841,Complex volcano,Stratovolcano,Historical,D2
+373060,Askja,Iceland,Iceland-NE,65.33.00,-29.03.00,1080,Stratovolcano,Stratovolcano,Historical,D2
+373030,Bardarbunga,Iceland,Iceland-NE,74.33.00,-25.36.00,2000,Stratovolcano,Stratovolcano,Historical,D2
+373012,Thordarhyrna,Iceland,Iceland-NE,68.27.00,-27.17.00,1650,Stratovolcano,Stratovolcano,,D2
+372030,Katla,Iceland,Iceland-S,73.33.00,-20.23.00,1490,Subglacial volcano,Subglacial,Historical,D2
+,Thordarhyrna,Iceland,Iceland-S,62.27.00,-17.6,1659,Stratovolcano,Stratovolcano,Historical,D2
+374020,Esjufjoll,Iceland,Iceland-SE,64.25.00,-25.43.00,1620,Stratovolcano,Stratovolcano,Historical,D2
+371022,Eldey,Iceland,Iceland-SW,75.13.00,-23,70,Submarine,Submarine Volcano,,D2
+234000,Boomerang Seamount,Antarctica,Indian O.-S,-49.02.00,90.42.00,-650,Submarine volcano,Submarine Volcano,Historical,D2
+211020,Vesuvius,Italy,Italy,53.41.00,21.06,1281,Complex volcano,Stratovolcano,Historical,D2
+284080,Sumisujima,Japan,Izu Is-Japan,31.44.00,140.51.00,136,Submarine volcano,Submarine Volcano,Historical,D2
+263290,Arjuno-Welirang,Indonesia,Java,-19.13.00,121.35.00,3343,Stratovolcano,Stratovolcano,Historical,D2
+263170,Ciremai,Indonesia,Java,-20.55.00,114.48.00,3039,Stratovolcano,Stratovolcano,Historical,D2
+263060,Gede-Pangrango,Indonesia,Java,-19.06.00,122.23.00,3026,Stratovolcano,Stratovolcano,Historical,D2
+,Kiaraberes-Gagak,Indonesia,Java,-7.13.00,107.05.00,1511,Stratovolcano,Stratovolcano,Historical,D2
+263100,Papandayan,Indonesia,Java,-7.32.00,108.13.00,2665,Stratovolcano,Stratovolcano,Historical,D2
+263050,Salak,Indonesia,Java,-17.56.00,118.13.00,2218,Stratovolcano,Stratovolcano,Historical,D2
+300125,Akademia Nauk,Russia,Kamchatka,54.38.00,159.45.00,1180,Stratovolcanoes,Stratovolcano,Historical,D2
+300030,Iliinsky,Russia,Kamchatka,59.18.00,160.23.00,1555,Stratovolcano,Stratovolcano,Historical,D2
+300230,Kizimen,Russia,Kamchatka,57.11.00,160.32.00,2334,Stratovolcano,Stratovolcano,Historical,D2
+300090,Koryaksky,Russia,Kamchatka,58.21.00,169.52.00,3430,Stratovolcano,Stratovolcano,Historical,D2
+300200,Kronotsky,Russia,Kamchatka,66.33.00,168.53.00,3482,Stratovolcano,Stratovolcano,Historical,D2
+300050,Ksudach,Russia,Kamchatka,65.04.00,166.32.00,1079,Stratovolcano,Stratovolcano,Historical,D2
+300140,Maly Semyachik,Russia,Kamchatka,56.15.00,170.14.00,1527,Caldera,Caldera,Historical,D2
+300060,Mutnovsky,Russia,Kamchatka,59.29.00,161.16.00,2288,Complex volcano,Stratovolcano,Historical,D2
+300120,Zhupanovsky,Russia,Kamchatka,62.49.00,159.15.00,2899,Compound volcano,Stratovolcano,Historical,D2
+290050,Etorofu-Atosanupuri [Atosanupuri],Russia,Kuril Is,57.28.00,149.11.00,1206,Stratovolcano,Stratovolcano,Historical,D2
+,Goriaschaia Sopka,Russia,Kuril Is,47.23.00,152.15.00,891,Stratovolcano,Stratovolcano,Historical,D2
+290350,Karpinsky Group,Russia,Kuril Is,52.28.00,161.13.00,1326,Cone,Cone,Historical,D2
+290200,Ketoi,Russia,Kuril Is,47.35.00,159.55.00,1172,Stratovolcano,Stratovolcano,Historical,D2
+290300,Kharimkotan,Russia,Kuril Is,49.12.00,162.28.00,1145,Stratovolcano,Stratovolcano,Historical,D2
+290320,Nemo Peak,Russia,Kuril Is,49.57.00,167.28.00,1018,Caldera,Caldera,Historical,D2
+290250,Raikoke,Russia,Kuril Is,52.52.00,153.25.00,551,Stratovolcano,Stratovolcano,Historical,D2
+290220,Rasshua,Russia,Kuril Is,48.17.00,153.02.00,956,Stratovolcano,Stratovolcano,Historical,D2
+290080,Sashiusudake [Baransky],Russia,Kuril Is,45.1,148.19.00,1125,Stratovolcano,Stratovolcano,Historical,D2
+290310,Tao-Rusyr Caldera,Russia,Kuril Is,49.34.00,166.05.00,1272,Stratovolcano,Stratovolcano,Historical,D2
+,Unnamed,Russia,Kuril Is,48.08.00,153.33.00,-150,Submarine volcano,Submarine Volcano,Historical,D2
+290180,Zavaritzki Caldera,Russia,Kuril Is,61.18.00,166.52.00,612,Caldera,Caldera,Historical,D2
+264160,Egon,Indonesia,Lesser Sunda Is,-19.16.00,129.35.00,1661,Stratovolcano,Stratovolcano,Historical,D2
+264090,Inielika,Indonesia,Lesser Sunda Is,-9.13.00,121.38.00,1559,Complex volcano,Stratovolcano,Historical,D2
+264230,Lewotolok,Indonesia,Lesser Sunda Is,-12.34.00,131.28.00,1431,Stratovolcano,Stratovolcano,Historical,D2
+274030,Babuyan Claro,Philippines,Luzon-N of,27.44.00,122.35.00,1064,Stratovolcano,Stratovolcano,Historical,D2
+,Smith Volcano,Philippines,Luzon-N of,27.43.00,122.34.00,2090,Stratovolcano,Stratovolcano,Historical,D2
+284160,Agrigan,United States,Mariana Is-C Pacific,19.17,146.07.00,965,Stratovolcano,Stratovolcano,Historical,D2
+284150,Asuncion,United States,Mariana Is-C Pacific,30.11.00,151.46.00,857,Stratovolcano,Stratovolcano,Historical,D2
+284202,Ruby,United States,Mariana Is-C Pacific,25.05.00,154.32.00,-174,Submarine volcano,Submarine Volcano,Historical,D2
+341060,Michoacan-Guanajuato,Mexico,Mexico,20.25,-102.15.00,3860,Cinder cone,Cone,Historical,D2
+,Paricutin Volcanic Field,Mexico,Mexico,19.48,-102.25.00,3860,Cinder cone,Cone,Historical,D2
+341020,Barcena,Mexico,Mexico-Is,19.3,-111.22.00,332,Cinder cone,Cone,Historical,D2
+271080,Camiguin,Philippines,Mindanao-Philippines,12.23,135.13.00,1552,Stratovolcano,Stratovolcano,Historical,D2
+271060,Ragang,Philippines,Mindanao-Philippines,18.31,132.27.00,2790,Stratovolcano,Stratovolcano,Historical,D2
+252130,Lolobau,Papua New Guinea,New Britain-SW Pac,-19.16.00,153.42.00,878,Caldera,Caldera,Historical,D2
+252080,Witori,Papua New Guinea,New Britain-SW Pac,-14.35.00,158.36.00,724,Caldera,Caldera,Historical,D2
+253010,Lamington,Papua New Guinea,New Guinea,-9.35.00,148.15.00,1680,Stratovolcano,Stratovolcano,Historical,D2
+253040,Sessagara Hills,Papua New Guinea,New Guinea,-18.14.00,151.08.00,493,Pyroclastic cone,Cone,Historical,D2
+253030,Victory,Papua New Guinea,New Guinea,-9.2,150.12.00,1832,Stratovolcano,Stratovolcano,Historical,D2
+251010,Bam,Papua New Guinea,New Guinea-NE of,-13.13.00,157.38.00,685,Stratovolcano,Stratovolcano,Historical,D2
+344080,Las Pilas-El Hoyo Complex,Nicaragua,Nicaragua,20.12,-97.19.00,1088,Complex volcano,Stratovolcano,Historical,D2
+344090,Momotombo,Nicaragua,Nicaragua,19.03,-94.59.00,1270,Stratovolcano,Stratovolcano,Historical,D2
+334070,Galapagos Rift,Pacific Ocean,Pacific-E,13.12,-86.15.00,-2430,Submarine volcano,Submarine Volcano,Historical,D2
+334100,Southern EPR at 8°S,Pacific Ocean,Pacific-E,-8.27.00,-108.35.00,-2800,Submarine volcano,Submarine Volcano,Historical,D2
+334140,Southern EPR-Segment I,Pacific Ocean,Pacific-E,-18.53.00,-113.42.00,-2600,Submarine volcano,Submarine Volcano,Magnetism,D2
+334120,Southern EPR-Segment K,Pacific Ocean,Pacific-E,-24.16.00,-116.26.00,-2566,Submarine volcano,Submarine Volcano,Historical,D2
+331031,North Gorda Ridge Segment,Pacific Ocean,Pacific-NE,43.07.00,-127.18.00,-3000,Submarine volcano,Submarine Volcano,Historical,D2
+354040,Tutupaca,Peru,Peru,-17.26.00,-76.12.00,5801,Stratovolcano,Stratovolcano,Historical,D2
+272080,Biliran,Philippines,Philippines-C,19.43,132.55.00,1301,Compound volcano,Stratovolcano,Historical,D2
+282040,Nakanoshima,Japan,Ryukyu Is,43.19.00,143.17.00,979,Stratovolcano,Stratovolcano,Historical,D2
+282010,Submarine Volcano NNE of Iriomotejima,Japan,Ryukyu Is,24.57.00,124.33.00,-200,Submarine volcano,Submarine Volcano,Historical,D2
+244040,Savaii,Samoa,Samoa-SW Pacific,-23.12.00,-180.45.00,1858,Shield volcano,Shield Volcano,Historical,D2
+267030,Banua Wuhu,Indonesia,Sangihe Is-Indonesia,5.18,133.11.00,-5,Submarine volcano,Submarine Volcano,Historical,D2
+267010,Ruang,Indonesia,Sangihe Is-Indonesia,2.3,125.37.00,725,Stratovolcano,Stratovolcano,Historical,D2
+275001,Hainan Volcanic Field,China,SE Asia,34.05.00,113.49.00,196,Pyroclastic cones,Cone,Historical,D2
+275060,"Cendres, Ile des",Vietnam,SE Asia,12.38,109.14.00,-20,Submarine volcanoes,Submarine Volcano,Historical,D2
+,Besar,Indonesia,Sumatra,-4.43.00,104.07.00,1899,Stratovolcano,Stratovolcano,Historical,D2
+261220,Kaba,Indonesia,Sumatra,-11.42.00,112.15.00,1940,Stratovolcano,Stratovolcano,Historical,D2
+261180,Sumbing,Indonesia,Sumatra,-8.54.00,113.08.00,2507,Stratovolcano,Stratovolcano,Historical,D2
+261270,Suoh,Indonesia,Sumatra,-5.25.00,104.27.00,1000,Maar,Maars / Tuff ring,Historical,D2
+261150,Tandikat-Singgalang,Indonesia,Sumatra,-0.39.00,105.31.00,2854,Stratovolcano,Stratovolcano,Historical,D2
+261050,"Telong, Bur ni",Indonesia,Sumatra,16.49,109.41.00,2617,Stratovolcano,Stratovolcano,Historical,D2
+258020,Hunter Island,Pacific Ocean,SW Pacific,-22.4,172.05.00,297,Stratovolcano,Stratovolcano,Historical,D2
+258010,Matthew Island,Pacific Ocean,SW Pacific,-22.33.00,171.32.00,177,Stratovolcano,Stratovolcano,Historical,D2
+,Zengyu,Taiwan,Taiwan-N of,26.18.00,129.38.00,-418,Submarine volcano,Submarine Volcano,Historical,D2
+243102,Curacoa,Tonga,Tonga-SW Pacific,-16.02.00,-174.07.00,-33,Submarine volcano,Submarine Volcano,Historical,D2
+243050,Fonuafo'ou,Tonga,Tonga-SW Pacific,-20.32.00,-175.42.00,-17,Submarine volcano,Submarine Volcano,Historical,D2
+243100,Fonualei,Tonga,Tonga-SW Pacific,-18.23.00,-179.17.00,188,Stratovolcano,Stratovolcano,Historical,D2
+243060,Tofua,Tonga,Tonga-SW Pacific,-20.15.00,-175.07.00,515,Caldera,Caldera,Historical,D2
+243010,Unnamed,Tonga,Tonga-SW Pacific,-26.38.00,-176.05.00,-68,Submarine volcano,Submarine Volcano,Historical,D2
+,Unnamed,Tonga,Tonga-SW Pacific,-21.07.00,-175.33.00,0,Not Volcanic,Other / Unknown,Historical,D2
+323080,Lassen Volcanic Center,United States,US-California,48.12.00,-129.28.00,3187,Stratovolcano,Stratovolcano,Historical,D2
+284110,Kita-Ioto,Japan,Volcano Is-Japan,32.04.00,145.44.00,792,Stratovolcano,Stratovolcano,Historical,D2
+284096,Nishinoshima,Japan,Volcano Is-Japan,31.07.00,154.34.00,100,Caldera,Caldera,Historical,D2
+360101,"Watt, Morne",Dominica,W Indies,20.07,-66.05.00,1224,Stratovolcanoes,Stratovolcano,Historical,D2
+360120,Pelee,Martinique,W Indies,27.29.00,-63.46.00,1372,Stratovolcano,Stratovolcano,Historical,D2
+222130,Chyulu Hills,Kenya,Africa-E,-3.08.00,38.28.00,2188,Volcanic field,Crater System,Anthropology,D3
+222020,Lake Turkana South Island,Kenya,Africa-E,12.36,45.56.00,800,Stratovolcano,Stratovolcano,Historical,D3
+222100,Longonot,Kenya,Africa-E,-15.14.00,43.26.00,2776,Stratovolcano,Stratovolcano,Anthropology,D3
+222170,Kyejo,Tanzania,Africa-E,-12.49.00,46.12.00,2176,Stratovolcano,Stratovolcano,Historical,D3
+221100,Dubbi,Eritrea,Africa-NE,22.39,54.29.00,1625,Stratovolcano,Stratovolcano,Historical,D3
+221190,Fentale,Ethiopia,Africa-NE,24.25.00,54.06.00,2007,Stratovolcano,Stratovolcano,Historical,D3
+221200,Kone,Ethiopia,Africa-NE,21.31,50.35.00,1380,Caldera,Caldera,Historical,D3
+312130,Ugashik-Peulik,United States,Alaska Peninsula,69.31.00,-162.08.00,1474,Stratovolcano,Stratovolcano,Historical,D3
+311230,Carlisle,United States,Aleutian Is,66.54.00,-170.54.00,1620,Stratovolcano,Stratovolcano,Historical,D3
+311350,Fisher,United States,Aleutian Is,55.05.00,-164.43.00,1112,Stratovolcano,Stratovolcano,Historical,D3
+311370,Isanotski,United States,Aleutian Is,66.45.00,-175.03.00,2446,Stratovolcano,Stratovolcano,Historical,D3
+311050,Little Sitkin,United States,Aleutian Is,52.35.00,187.03.00,1174,Stratovolcano,Stratovolcano,Historical,D3
+311270,Vsevidof,United States,Aleutian Is,53.13.00,-179.33.00,2149,Stratovolcano,Stratovolcano,Historical,D3
+390010,Buckle Island,Antarctica,Antarctica,-67.18.00,163.25.00,1239,Stratovolcano,Stratovolcano,Historical,D3
+390090,Saunders,Antarctica,Antarctica,-57.8,-34.03.00,843,Stratovolcano,Stratovolcano,Historical,D3
+390050,Seal Nunataks Group,Antarctica,Antarctica,-65.03.00,-60.05.00,368,Pyroclastic cone,Cone,Historical,D3
+390130,Zavodovski,Antarctica,Antarctica,-56.3,-27.57.00,551,Stratovolcano,Stratovolcano,Historical,D3
+231080,"Yar, Jabal",Saudi Arabia,Arabia-W,17.05,43.23.00,305,Volcanic field,Crater System,Historical,D3
+385030,Romanche Fracture Zone,Atlantic Ocean,Atlantic-C,-7.13.00,-28.56.00,-1528,Submarine volcano,Submarine Volcano,Historical,D3
+381040,Pico Fracture Zone,Atlantic Ocean,Atlantic-N,39.15.00,-38.08.00,-4200,Submarine volcano,Submarine Volcano,Historical,D3
+,Unnamed,Atlantic Ocean,Atlantic-N,49,-34.5,-1650,Submarine volcano,Submarine Volcano,Historical,D3
+382080,Sete Cidades,Portugal,Azores,51.25.00,-38.05.00,842,Stratovolcano,Stratovolcano,Historical,D3
+265040,Wurlali,Indonesia,Banda Sea,-9.05.00,139.15.00,868,Stratovolcano,Stratovolcano,Historical,D3
+320030,Atlin Volcanic Field,Canada,Canada,70.48.00,-138.58.00,1880,Cinder cone,Cone,Historical,D3
+320090,Iskut-Unuk River Cones,Canada,Canada,65.27.00,-131.15.00,1880,Cinder cone,Cone,Radiocarbon,D3
+383060,Lanzarote,Spain,Canary Is,29.03.00,-14.03.00,670,Fissure vent,Crater System,Historical,D3
+357080,Antuco,Chile,Chile-C,-43.46.00,-76.49.00,2979,Stratovolcano,Stratovolcano,Historical,D3
+357160,Puntiagudo-Cordon Cenizos,Chile,Chile-C,-56.09.00,-76.24.00,2493,Stratovolcano,Stratovolcano,Historical,D3
+357121,Quetrupillan,Chile,Chile-C,-47.16.00,-83.02.00,2360,Caldera,Caldera,Historical,D3
+,Robinson Crusoe,Chile,Chile-Is,-43.58.00,-79.25.00,922,Shield volcano,Shield Volcano,Historical,D3
+,Unnamed,Chile,Chile-Is,-43.22.00,-79.18.00,0,Submarine volcano,Submarine Volcano,Historical,D3
+355110,Llullaillaco,Argentina,Chile-N,-25.12.00,-68.53.00,6739,Stratovolcano,Stratovolcano,Historical,D3
+355050,Olca-Paruma,Bolivia,Chile-N,-35.39.00,-74.53.00,5705,Stratovolcano,Stratovolcano,Historical,D3
+358040,Michinmahuida,Chile,Chile-S,-55.19.00,-79.25.00,2452,Stratovolcano,Stratovolcano,Historical,D3
+358010,Osorno,Chile,Chile-S,-42.45.00,-80.16.00,2659,Stratovolcano,Stratovolcano,Historical,D3
+358051,Palena Volcanic Group,Chile,Chile-S,-43.42.00,-73.23.00,2991,Stratovolcano,Stratovolcano,Historical,D3
+358049,Yanteles,Chile,Chile-S,-50.49.00,-85.02.00,1790,Stratovolcano,Stratovolcano,Historical,D3
+345070,Turrialba,Costa Rica,Costa Rica,10.25,-95.47.00,3340,Stratovolcano,Stratovolcano,Historical,D3
+352030,Antisana,Ecuador,Ecuador,-8.01.00,-80.21.00,5753,Stratovolcano,Stratovolcano,Historical,D3
+352040,Sumaco,Ecuador,Ecuador,-8.58.00,-87.26.00,3990,Stratovolcano,Stratovolcano,Historical,D3
+,Conchaguita,El Salvador,El Salvador,13.22,-99.45.00,550,Stratovolcano,Stratovolcano,Historical,D3
+343060,Ilopango,El Salvador,El Salvador,24.12.00,-89.53.00,450,Caldera,Caldera,Historical,D3
+353030,Darwin,Ecuador,Galapagos,-0.18.00,-91.28.00,1330,Shield volcano,Shield Volcano,Holocene,D3
+212050,Nisyros,Greece,Greece,45.49.00,29.35.00,698,Stratovolcano,Stratovolcano,Historical,D3
+342040,Almolonga,Guatemala,Guatemala,27.17.00,-99.39.00,3173,Stratovolcano,Stratovolcano,Historical,D3
+342060,Atitlan,Guatemala,Guatemala,23.43,-94.06.00,3535,Stratovolcano,Stratovolcano,Historical,D3
+332040,Hualalai,United States,Hawaiian Is,30.32.00,-156.27.00,2523,Shield volcano,Shield Volcano,Historical,D3
+285011,Esan,Japan,Hokkaido-Japan,54.25.00,143.46.00,618,Stratovolcano,Stratovolcano,Historical,D3
+285034,Kuttara,Japan,Hokkaido-Japan,50.11.00,141.16.00,549,Stratovolcano,Stratovolcano,Tephrochronology,D3
+285082,Rausudake,Japan,Hokkaido-Japan,45.16.00,147.02.00,1660,Stratovolcano,Stratovolcano,Tephrochronology,D3
+283160,Bandaisan,Japan,Honshu-Japan,47.01.00,141.12.00,1816,Stratovolcano,Stratovolcano,Historical,D3
+283270,Iwakisan,Japan,Honshu-Japan,50.56.00,145.03.00,1625,Stratovolcano,Stratovolcano,Historical,D3
+283080,Midagahara,Japan,Honshu-Japan,45.31.00,137.59.00,2621,Stratovolcano,Stratovolcano,Historical,D3
+283140,Nikko-Shiranesan,Japan,Honshu-Japan,49.19.00,145.16.00,2578,Shield volcano,Shield Volcano,Historical,D3
+,Manareyjar,Iceland,Iceland-N,66.3,-17.1,0,Submarine volcano,Submarine Volcano,Historical,D3
+373100,Tjornes Fracture Zone,Iceland,Iceland-N of,71.09.00,-18.58.00,-75,Submarine volcano,Submarine Volcano,Historical,D3
+,Trollagigar,Iceland,Iceland-NE,64.43.00,-18.13.00,1000,Crater rows,Crater System,Historical,D3
+211070,Campi Flegrei del Mar di Sicilia,Italy,Italy,37.1,12.7,-8,Submarine volcanoes,Submarine Volcano,Historical,D3
+211071,Pantelleria,Italy,Italy,37.17.00,12.02,836,Shield volcano,Shield Volcano,Historical,D3
+211050,Vulcano,Italy,Italy,44.44.00,30.02.00,500,Stratovolcano,Stratovolcano,Historical,D3
+285061,Maruyama,Japan,Japan,49.58.00,143.31.00,2013,Lava dome,Cone,Historical,D3
+263130,Guntur,Indonesia,Java,-9.23.00,121.01.00,2251,Complex volcano,Stratovolcano,Historical,D3
+263320,Lamongan,Indonesia,Java,-23.21.00,118.41.00,1641,Stratovolcano,Stratovolcano,Historical,D3
+300261,Ushkovsky,Russia,Kamchatka,57.53.00,168.29.00,3943,Compound volcano,Stratovolcano,Historical,D3
+,Unnamed,New Zealand,Kermadec Is,-29.18.00,-178.27.00,-560,Submarine volcano,Submarine Volcano,Historical,D3
+290090,Chirippusan [Chirip],Russia,Kuril Is,50.38.00,148.32.00,1587,Stratovolcano,Stratovolcano,Historical,D3
+290340,Fuss Peak,Russia,Kuril Is,54.27.00,159.06.00,1742,Stratovolcano,Stratovolcano,Historical,D3
+290190,Prevo Peak,Russia,Kuril Is,47.14.00,153.57.00,1360,Stratovolcano,Stratovolcano,Historical,D3
+290020,Raususan [Mendeleev],Russia,Kuril Is,59.19.00,157.13.00,882,Stratovolcano,Stratovolcano,Historical,D3
+290290,Sinarka,Russia,Kuril Is,62.33.00,157.02.00,911,Stratovolcano,Stratovolcano,Historical,D3
+290010,Tomariyama [Golovnin],Russia,Kuril Is,57.04.00,153.24.00,535,Caldera,Caldera,Historical,D3
+290210,Ushishur,Russia,Kuril Is,55.33.00,165.34.00,357,Caldera,Caldera,Historical,D3
+264200,Leroboleng,Indonesia,Lesser Sunda Is,-14.05.00,135.53.00,1095,Complex volcano,Stratovolcano,Historical,D3
+264260,"Tara, Batu",Indonesia,Lesser Sunda Is,-20.11.00,132.45.00,633,Stratovolcano,Stratovolcano,Historical,D3
+274010,Camiguin de Babuyanes,Philippines,Luzon-N of,19.23,122.26.00,712,Stratovolcano,Stratovolcano,Historical,D3
+274050,Unnamed,Philippines,Luzon-N of,20.33,122.15.00,-24,Submarine volcano,Submarine Volcano,Historical,D3
+284190,Guguan,United States,Mariana Is-C Pacific,22.07,159.05.00,287,Stratovolcano,Stratovolcano,Historical,D3
+341030,Ceboruco,Mexico,Mexico,23.05,-112.28.00,2280,Stratovolcano,Stratovolcano,Historical,D3
+271070,Musuan,Philippines,Mindanao-Philippines,21.37,125.07.00,610,Tuff cone,Maars / Tuff ring,Historical,D3
+252110,Bamus,Papua New Guinea,New Britain-SW Pac,-5.2,151.23.00,2248,Stratovolcano,Stratovolcano,Anthropology,D3
+252040,Dakataua,Papua New Guinea,New Britain-SW Pac,-5.46.00,150.1,408,Caldera,Caldera,Anthropology,D3
+344010,Cosiguina,Nicaragua,Nicaragua,13.38,-87.57.00,872,Stratovolcano,Stratovolcano,Historical,D3
+334130,Southern EPR-Segment J,Pacific Ocean,Pacific-E,-20.55.00,-113.35.00,-2650,Submarine volcano,Submarine Volcano,Magnetism,D3
+221010,"Tair, Jebel at",Yemen,Red Sea,15.55,42.23.00,244,Stratovolcano,Stratovolcano,Historical,D3
+221020,Zubair Group,Yemen,Red Sea,15.05,42.18.00,191,Shield volcano,Shield Volcano,Historical,D3
+244010,Ofu-Olosega,United States,Samoa-SW Pacific,-16.55.00,-179.18.00,639,Shield volcano,Shield Volcano,Historical,D3
+255070,Savo,Solomon Is.,Solomon Is-SW Pacifi,-9.13.00,160.22.00,485,Stratovolcano,Stratovolcano,Historical,D3
+266020,Ambang,Indonesia,Sulawesi-Indonesia,1.15,124.42.00,1795,Complex volcano,Stratovolcano,Historical,D3
+266130,Tangkoko-Duasudara,Indonesia,Sulawesi-Indonesia,9.38,128.05.00,1334,Stratovolcano,Stratovolcano,Historical,D3
+,Bud Dajo,Philippines,Sulu Is-Philippines,6.35,121.07.00,440,Pyroclastic cone,Cone,Historical,D3
+261020,Seulawah Agam,Indonesia,Sumatra,12.28,105.58.00,1810,Stratovolcano,Stratovolcano,Historical,D3
+261070,Singkut,Indonesia,Sumatra,6.58,106.33.00,2181,Stratovolcano,Stratovolcano,Historical,D3
+,Es Safa,Syria,Syria,33.08.00,37.15.00,979,Volcanic field,Crater System,Historical,D3
+281020,Unnamed,Taiwan,Taiwan-E of,22.23,121.18.00,-115,Submarine volcano,Submarine Volcano,Historical,D3
+281030,Unnamed,Taiwan,Taiwan-E of,24,122.23.00,0,Submarine volcano,Submarine Volcano,Historical,D3
+,Unnamed,Taiwan,Taiwan-N of,25.42.00,122.33.00,-100,Submarine volcano,Submarine Volcano,Historical,D3
+243090,Late,Tonga,Tonga-SW Pacific,-31.26.00,-175.05.00,540,Stratovolcano,Stratovolcano,Historical,D3
+322010,Hood,United States,US-Oregon,51.14.00,-132.35.00,3426,Stratovolcano,Stratovolcano,Historical,D3
+321010,Baker,United States,US-Washington,60.57.00,-134.33.00,3285,Stratovolcano,Stratovolcano,Historical,D3
+321030,Rainier,United States,US-Washington,60.13.00,-122.16.00,4392,Stratovolcano,Stratovolcano,Dendrochronology,D3
+257090,Traitor's Head,Vanuatu,Vanuatu-SW Pacific,-30.34.00,172.58.00,817,Stratovolcano,Stratovolcano,Historical,D3
+360100,"Trois Pitons, Morne",Dominica,W Indies,15.37,-61.33.00,1387,Lava dome,Cone,Historical,D3
+,Unnamed,Netherlands,W Indies,16.13,-61.28.00,-7,Submarine volcano,Submarine Volcano,Historical,D3
+222090,Olkaria,Kenya,Africa-E,-15.04.00,40.52.00,2434,Pumice cone,Cone,Radiocarbon,D4
+312040,Pavlof Sister,United States,Alaska Peninsula,62.37.00,-175.14.00,2142,Stratovolcano,Stratovolcano,Historical,D4
+311390,Amak,United States,Aleutian Is,61.58.00,-165.27.00,547,Stratovolcano,Stratovolcano,Historical,D4
+390015,Melbourne,Antarctica,Antarctica,-74.35.00,164.7,2732,Stratovolcano,Stratovolcano,Tephrochronology,D4
+,Unnamed,Atlantic Ocean,Atlantic-N,66,-28.15.00,-108,Submarine volcano,Submarine Volcano,Uncertain,D4
+382070,Don Joao de Castro Bank,Portugal,Azores,38.23.00,-27.03.00,-13,Submarine volcano,Submarine Volcano,Historical,D4
+382020,Pico,Portugal,Azores,38.47.00,-28.4,2351,Stratovolcano,Stratovolcano,Historical,D4
+320100,Tseax River Cone,Canada,Canada,56.51.00,-142.59.00,612,Pyroclastic cone,Cone,Radiocarbon,D4
+383020,Hierro,Spain,Canary Is,28.13.00,-18.03.00,1500,Shield volcano,Shield Volcano,Historical,D4
+305050,Longgang Group,China,China-E,42.33.00,126.5,1000,Cinder cone,Cone,Radiocarbon,D4
+305030,Wudalianchi,China,China-E,60.02.00,126.15.00,597,Volcanic field,Crater System,Historical,D4
+305060,Changbaishan,North Korea,China-E,42.38.00,128.08.00,2744,Stratovolcano,Stratovolcano,Historical,D4
+351012,"Bravo, Cerro",Colombia,Colombia,6.31,-79.53.00,3985,Stratovolcano,Stratovolcano,Radiocarbon,D4
+351011,Romeral,Colombia,Colombia,8.23,-81.03.00,3769,Stratovolcano,Stratovolcano,Radiocarbon,D4
+352006,Cayambe,Ecuador,Ecuador,0.29,-93.26.00,5790,Compound volcano,Stratovolcano,Historical,D4
+352022,Chacana,Ecuador,Ecuador,-6.15.00,-78.25.00,4643,Caldera,Caldera,Historical,D4
+352004,Imbabura,Ecuador,Ecuador,4.18,-81.03.00,4609,Compound volcano,Stratovolcano,Historical,D4
+332060,Haleakala,United States,Hawaiian Is,31.48.00,-156.25.00,3055,Shield volcano,Shield Volcano,Historical,D4
+285010,Oshima-Oshima,Japan,Hokkaido-Japan,41.51.00,145.07.00,732,Stratovolcano,Stratovolcano,Historical,D4
+283030,Fujisan,Japan,Honshu-Japan,41.01.00,150.08.00,3776,Stratovolcano,Stratovolcano,Historical,D4
+283290,Osorezan,Japan,Honshu-Japan,45.39.00,141.12.00,878,Stratovolcano,Stratovolcano,Historical,D4
+375010,Kolbeinsey Ridge,Iceland,Iceland-N of,67.07.00,-18.5,5,Submarine volcano,Submarine Volcano,Historical,D4
+374010,Oraefajokull,Iceland,Iceland-SE,64,-17.05.00,2010,Stratovolcano,Stratovolcano,Historical,D4
+234002,St. Paul,Indian Ocean,Indian O-S,-39.12.00,77.53.00,268,Stratovolcano,Stratovolcano,Historical,D4
+284060,Aogashima,Japan,Izu Is-Japan,39.38.00,151.39.00,423,Stratovolcano,Stratovolcano,Historical,D4
+263240,Merbabu,Indonesia,Java,-14.34.00,110.44.00,3118,Stratovolcano,Stratovolcano,Historical,D4
+263220,Sumbing,Indonesia,Java,-13.24.00,110.07.00,3371,Stratovolcano,Stratovolcano,Historical,D4
+341110,San Martin,Mexico,Mexico,18.57,-95.2,1650,Shield volcano,Shield Volcano,Historical,D4
+241030,Taranaki,New Zealand,New Zealand,-39.3,174.07.00,2518,Stratovolcano,Stratovolcano,Radiocarbon,D4
+354010,"Misti, El",Peru,Peru,-20.54.00,-77.49.00,5822,Stratovolcano,Stratovolcano,Historical,D4
+354050,Yucamane,Peru,Peru,-20.04.00,-73.16.00,5495,Stratovolcano,Stratovolcano,Historical,D4
+323110,Mono Lake Volcanic Field,United States,US-California,38,-119.03.00,2121,Cinder cone,Cone,Tephrochronology,D4
+323010,Shasta,United States,US-California,47.49.00,-125.13.00,4317,Stratovolcano,Stratovolcano,Historical,D4
+321020,Glacier Peak,United States,US-Washington,49.52.00,-122.53.00,3213,Stratovolcano,Stratovolcano,Tephrochronology,D4
+360140,Qualibou,St. Lucia,W Indies,14.23,-61.05.00,777,Caldera,Caldera,Historical,D4
+221141,Dama Ali,Ethiopia,Africa-NE,11.28,42.03.00,1068,Shield volcano,Shield Volcano,Historical,D5
+224030,Oku Volcanic Field,Cameroon,Africa-W,6.25,10.5,3011,Maar,Maars / Tuff ring,Radiocarbon,D5
+382090,Agua de Pau,Portugal,Azores,38.17.00,-25.47.00,947,Stratovolcano,Stratovolcano,Historical,D5
+382100,Furnas,Portugal,Azores,38.17.00,-25.32.00,805,Stratovolcano,Stratovolcano,Historical,D5
+382081,Picos Fissural Volcanic System,Portugal,Azores,38.18.00,-26.07.00,350,Pyroclastic cone,Cone,Historical,D5
+265030,Wetar,Pacific Ocean,Banda Sea,-16.42.00,127.05.00,282,Stratovolcano,Stratovolcano,Historical,D5
+255011,Billy Mitchell,Papua New Guinea,Bougainville-SW Paci,-6.09.00,158.45.00,1544,Pyroclastic shield,Shield Volcano,Radiocarbon,D5
+320150,Wells Gray-Clearwater,Canada,Canada,52.33.00,-120.57.00,2576,Cinder cone,Cone,Dendrochronology,D5
+275110,Tengchong,China,China-S,25.23.00,98.5,2865,Pyroclastic cone,Cone,Historical,D5
+351050,"Huila, Nevado del",Colombia,Colombia,3.33,-76.03.00,5364,Stratovolcano,Stratovolcano,Historical,D5
+245030,Nabukelevu,Fiji,Fiji Is-SW Pacific,-20.58.00,193.22.00,791,Lava domes,Cone,Radiocarbon,D5
+283050,Hakusan,Japan,Honshu-Japan,38.35.00,148.51.00,2702,Stratovolcano,Stratovolcano,Historical,D5
+283131,Hiuchigatake,Japan,Honshu-Japan,51.55.00,143.45.00,2356,Stratovolcano,Stratovolcano,Historical,D5
+211010,Campi Flegrei,Italy,Italy,53.47.00,16.19,458,Caldera,Caldera,Historical,D5
+284050,Hachijojima,Japan,Izu Is-Japan,35.17.00,151.46.00,854,Stratovolcano,Stratovolcano,Historical,D5
+300180,Kikhpinych,Russia,Kamchatka,62.09.00,164.11.00,1515,Stratovolcano,Stratovolcano,Radiocarbon,D5
+300020,Koshelev,Russia,Kamchatka,56.56.00,168.33.00,1822,Stratovolcano,Stratovolcano,Historical,D5
+300190,Krasheninnikov,Russia,Kamchatka,63.56.00,160.27.00,1816,Caldera,Caldera,Radiocarbon,D5
+,Xianjindao,North Korea,Korea,41.33.00,128,0,Unknown,Other / Unknown,Historical,D5
+273041,Iriga,Philippines,Luzon-Philippines,20.38,130.31.00,1138,Stratovolcano,Stratovolcano,Historical,D5
+341100,"Orizaba, Pico de",Mexico,Mexico,19.03,-97.27.00,5564,Stratovolcano,Stratovolcano,Historical,D5
+271011,Melebingoy,Philippines,Mindanao-Philippines,7.53,138.52.00,1824,Stratovolcano,Stratovolcano,Historical,D5
+346010,Baru,Panama,Panama,21.28,-91.03.00,3474,Complex volcano,Stratovolcano,Historical,D5
+354030,Huaynaputina,Peru,Peru,-26.14.00,-84.14.00,4679,Stratovolcano,Stratovolcano,Historical,D5
+360110,"Plat Pays, Morne",Dominica,W Indies,19.15,-66.41.00,940,Stratovolcano,Stratovolcano,Radiocarbon,D5
+360010,Saba,Netherlands,W Indies,18.03,-63.23.00,887,Stratovolcano,Stratovolcano,Historical,D5
+225060,Bayuda Volcanic Field,Sudan,Africa-N,18.33,33.15.00,670,Cinder cone,Cone,Radiocarbon,D6
+315030,Churchill,United States,Alaska-E,61.38.00,-142.15.00,5005,Stratovolcano,Stratovolcano,Radiocarbon,D6
+313050,Hayes,United States,Alaska-SW,62.04.00,-158.51.00,3034,Stratovolcano,Stratovolcano,Radiocarbon,D6
+,Imuruk Lake,United States,Alaska-W,65.6,-164.32.00,610,Shield volcano,Shield Volcano,Radiocarbon,D6
+231090,"Arhab, Harra of",Yemen,Arabia-S,25.03.00,45.38.00,3100,Volcanic field,Crater System,Historical,D6
+231160,"Sawad, Harra Es-",Yemen,Arabia-S,13.58,46.12.00,1737,Volcanic field,Crater System,Historical,D6
+231060,"Khaybar, Harrat",Saudi Arabia,Arabia-W,25.5,40,2093,Volcanic field,Crater System,Historical,D6
+231040,"Lunayyir, Harrat",Saudi Arabia,Arabia-W,25.17.00,38.15.00,1370,Volcanic field,Crater System,Historical,D6
+231070,"Rahat, Harrat",Saudi Arabia,Arabia-W,23.08,40.18.00,1744,Volcanic field,Crater System,Historical,D6
+231020,"Uwayrid, Harrat",Saudi Arabia,Arabia-W,27.08.00,37.25.00,1920,Volcanic field,Crater System,Anthropology,D6
+320060,Edziza,Canada,Canada,58.12.00,-131.03.00,2786,Stratovolcano,Stratovolcano,Radiocarbon,D6
+357111,Sollipulli,Chile,Chile-C,-39.37.00,-71.52.00,2282,Caldera,Caldera,Radiocarbon,D6
+,Tianshan Volc Group,China,China-W,42.5,82.5,0,Volcanic field,Crater System,Historical,D6
+,Turfan,China,China-W,42.9,89.25.00,0,Cone,Cone,Historical,D6
+351040,Machin,Colombia,Colombia,12.07,-81.29.00,2749,Stratovolcano,Stratovolcano,Radiocarbon,D6
+253060,Dawson Strait Group,Papua New Guinea,D'Entrecasteaux Is,-10.02.00,151.28.00,500,Volcanic field,Crater System,Hydration Rind,D6
+352071,Chimborazo,Ecuador,Ecuador,-8.49.00,-91.37.00,6261,Stratovolcano,Stratovolcano,Radiocarbon,D6
+352060,Quilotoa,Ecuador,Ecuador,-14.19.00,-93.04.00,3914,Caldera,Caldera,Radiocarbon,D6
+285080,Kussharo,Japan,Hokkaido-Japan,53.15.00,151.07.00,574,Caldera,Caldera,Tephrochronology,D6
+285081,Mashu,Japan,Hokkaido-Japan,52.32.00,153.21.00,857,Caldera,Caldera,Radiocarbon,D6
+285060,Taisetsuzan,Japan,Hokkaido-Japan,54.04.00,156.14.00,2291,Stratovolcano,Stratovolcano,Tephrochronology,D6
+283130,Akagisan,Japan,Honshu-Japan,36.56.00,142.13.00,1828,Stratovolcano,Stratovolcano,Historical,D6
+283122,Harunasan,Japan,Honshu-Japan,43.57.00,152.11.00,1449,Stratovolcano,Stratovolcano,Anthropology,D6
+283200,Naruko,Japan,Honshu-Japan,50.09.00,152.14.00,470,Caldera,Caldera,Historical,D6
+283271,Towada,Japan,Honshu-Japan,40.51.00,141.28.00,1011,Caldera,Caldera,Historical,D6
+372050,Torfajokull,Iceland,Iceland-S,77.52.00,-21.02.00,1280,Stratovolcano,Stratovolcano,Historical,D6
+371040,Brennisteinsfjoll,Iceland,Iceland-SW,78.33.00,-34.03.00,610,Crater rows,Crater System,Historical,D6
+371050,Hengill,Iceland,Iceland-SW,65.23.00,-27.56.00,803,Crater rows,Crater System,Radiocarbon,D6
+371030,Krysuvik-Trolladyngja,Iceland,Iceland-SW,78.17.00,-23.07.00,360,Crater rows,Crater System,Historical,D6
+371080,Oddnyjarhnjukur-Langjokull,Iceland,Iceland-SW,65.25.00,-19.7,1100,Stratovolcano,Stratovolcano,Radiocarbon,D6
+371020,Reykjanes,Iceland,Iceland-SW,76.37.00,-33.57.00,140,Crater rows,Crater System,Historical,D6
+370030,Ljosufjoll,Iceland,Iceland-W,64.9,-30.03.00,1063,Fissure vent,Crater System,Anthropology,D6
+370010,Snaefellsjokull,Iceland,Iceland-W,64.8,-36.03.00,1446,Stratovolcano,Stratovolcano,Radiocarbon,D6
+211030,Ischia,Italy,Italy,41.13.00,27.57.00,789,Complex volcano,Stratovolcano,Historical,D6
+,Larderello,Italy,Italy,43.25.00,11.27,500,Explosion crater,Crater System,Historical,D6
+211042,Lipari,Italy,Italy,38.49.00,29.33.00,590,Stratovolcanoes,Stratovolcano,Radiocarbon,D6
+211041,Panarea,Italy,Italy,48.38.00,16.04,399,Stratovolcano,Stratovolcano,Historical,D6
+284030,Kozushima,Japan,Izu Is-Japan,37.39.00,141.33.00,572,Lava dome,Cone,Historical,D6
+284020,Niijima,Japan,Izu Is-Japan,40.37.00,139.27.00,432,Lava dome,Cone,Historical,D6
+300022,Diky Greben,Russia,Kamchatka,58.32.00,172.18.00,1040,Lava dome,Cone,Radiocarbon,D6
+300551,Kinenin,Russia,Kamchatka,57.35.00,161.37.00,583,Maar,Maars / Tuff ring,Radiocarbon,D6
+300080,Opala,Russia,Kamchatka,61.03.00,162.39.00,2439,Caldera,Caldera,Radiocarbon,D6
+306040,Halla,South Korea,Korea,39.01.00,126.53.00,1919,Shield volcano,Shield Volcano,Historical,D6
+282070,Ata,Japan,Kyushu-Japan,31.22.00,130.57.00,924,Caldera,Caldera,Historical,D6
+282130,Yufu-Tsurumi,Japan,Kyushu-Japan,37.42.00,131.39.00,1584,Lava dome,Cone,Historical,D6
+274060,Iraya,Philippines,Luzon-N of,27.49.00,122.01.00,1009,Stratovolcano,Stratovolcano,Historical,D6
+284180,Alamagan,United States,Mariana Is-C Pacific,17.6,146.23.00,744,Stratovolcano,Stratovolcano,Radiocarbon,D6
+341080,Chichinautzin,Mexico,Mexico,21.19,-99.16.00,3938,Volcanic field,Crater System,Radiocarbon,D6
+341096,Cofre de Perote,Mexico,Mexico,27.12.00,-97.15.00,4282,Shield volcano,Shield Volcano,Radiocarbon,D6
+341062,Jocotitlan,Mexico,Mexico,20.13,-111.38.00,3900,Stratovolcano,Stratovolcano,Radiocarbon,D6
+341061,Zitacuaro-Valle de Bravo,Mexico,Mexico,19.4,-100.25.00,3500,Stratovolcano,Stratovolcano,Radiocarbon,D6
+252100,Hargy,Papua New Guinea,New Britain-SW Pac,-5.33.00,151.1,1148,Stratovolcano,Stratovolcano,Radiocarbon,D6
+241020,Auckland Volcanic Field,New Zealand,New Zealand,-37.29.00,175.21.00,260,Volcanic field,Crater System,Radiocarbon,D6
+241140,Healy,New Zealand,New Zealand,-35.04.00,194.13.00,-980,Submarine volcano,Submarine Volcano,Radiocarbon,D6
+241010,Kaikohe-Bay of Islands,New Zealand,New Zealand,-35.3,173.9,388,Volcanic field,Crater System,Radiocarbon,D6
+241061,Maroa,New Zealand,New Zealand,-38.42.00,176.08.00,897,Caldera,Caldera,Tephrochronology,D6
+241060,Reporoa,New Zealand,New Zealand,-38.42.00,176.33.00,592,Caldera,Caldera,Tephrochronology,D6
+241070,Taupo,New Zealand,New Zealand,-51.01.00,189.53.00,760,Caldera,Caldera,Radiocarbon,D6
+214010,Elbrus,Russia,Russia-SW,48.51.00,49.22.00,5642,Stratovolcano,Stratovolcano,Tephrochronology,D6
+282043,Kuchinoshima,Japan,Ryukyu Is,45.08.00,144.26.00,628,Stratovolcanoes,Stratovolcano,Radiocarbon,D6
+,Unnamed,Syria,Syria,37.07.00,37,0,Unknown,Other / Unknown,Historical,D6
+213020,Nemrut Dagi,Turkey,Turkey,48.54.00,45.49.00,2948,Stratovolcano,Stratovolcano,Historical,D6
+329020,San Francisco Volcanic Field,United States,US-Arizona,40.47.00,-122.18.00,3850,Cinder cone,Cone,Dendrochronology,D6
+,Inyo Craters,United States,US-California,48.32.00,-119.02.00,2629,Lava dome,Cone,Radiocarbon,D6
+323020,Medicine Lake,United States,US-California,51.11.00,-130.14.00,2412,Shield volcano,Shield Volcano,Radiocarbon,D6
+323120,Mono-Inyo Craters,United States,US-California,50.24.00,-119.29.00,2796,Lava dome,Cone,Radiocarbon,D6
+322060,Belknap,United States,US-Oregon,48.45.00,-135.01.00,2095,Shield volcano,Shield Volcano,Radiocarbon,D6
+322020,Jefferson,United States,US-Oregon,55.14.00,-121.8,3199,Stratovolcano,Stratovolcano,Varve Count,D6
+322110,Newberry,United States,US-Oregon,55.02.00,-124.49.00,2434,Shield volcano,Shield Volcano,Radiocarbon,D6
+322070,Three Sisters,United States,US-Oregon,46.13.00,-133.47.00,3159,Complex volcano,Stratovolcano,Radiocarbon,D6
+327050,Black Rock Desert,United States,US-Utah,39.37.00,-112.5,1800,Volcanic field,Crater System,Radiocarbon,D6
+327040,Markagunt Plateau,United States,US-Utah,37.58.00,-113.07.00,2840,Volcanic field,Crater System,Dendrochronology,D6
+321040,Adams,United States,US-Washington,49.26.00,-121.49.00,3742,Stratovolcano,Stratovolcano,Tephrochronology,D6
+360020,"Quill, The",Netherlands,W Indies,24.58.00,-63.36.00,601,Stratovolcano,Stratovolcano,Radiocarbon,D6
+360030,Liamuiga,St. Kitts & Nevis,W Indies,17.37,-62.8,1156,Stratovolcano,Stratovolcano,Radiocarbon,D6
+222060,Menengai,Kenya,Africa-E,-0.2,36.07.00,2278,Shield volcano,Shield Volcano,Tephrochronology,D7
+222040,Namarunu,Kenya,Africa-E,2.38,36.43.00,817,Shield volcano,Shield Volcano,Tephrochronology,D7
+222053,Paka,Kenya,Africa-E,1.32,36.18.00,1697,Shield volcano,Shield Volcano,Ar/Ar,D7
+222052,Silali,Kenya,Africa-E,1.15,36.23.00,1528,Shield volcano,Shield Volcano,Ar/Ar,D7
+225030,"Marra, Jebel",Sudan,Africa-N,13.35,24.27.00,3042,Volcanic field,Crater System,Radiocarbon,D7
+225050,Meidob Volcanic Field,Sudan,Africa-N,15.32,26.47.00,2000,Scoria cone,Cone,Holocene,D7
+312080,Black Peak,United States,Alaska Peninsula,65.12.00,-171.05.00,1032,Stratovolcano,Stratovolcano,Radiocarbon,D7
+312050,Dana,United States,Alaska Peninsula,65.41.00,-164.34.00,1354,Stratovolcano,Stratovolcano,Radiocarbon,D7
+312250,Kaguyak,United States,Alaska Peninsula,68.11.00,-154.25.00,901,Stratovolcano,Stratovolcano,Holocene,D7
+312100,Yantarni,United States,Alaska Peninsula,57.19.00,-160.05.00,1345,Stratovolcano,Stratovolcano,Tephrochronology,D7
+315001,Buzzard Creek,United States,Alaska-E,65.02.00,-155.13.00,830,Tuff rings,Maars / Tuff ring,Radiocarbon,D7
+315040,Edgecumbe,United States,Alaska-SE,57.05.00,-136.15.00,970,Stratovolcano,Stratovolcano,Radiocarbon,D7
+,Espenberg,United States,Alaska-W,66.35.00,-164.33.00,243,Volcanic field,Crater System,Tephrochronology,D7
+314010,St. Paul Island,United States,Alaska-W,59.47.00,-173.33.00,203,Shield,Shield Volcano,Holocene,D7
+390013,"Pleiades, The",Antarctica,Antarctica,-73.07.00,165.5,3040,Stratovolcano,Stratovolcano,K-Ar,D7
+390027,Takahe,Antarctica,Antarctica,-76.28.00,-112.08.00,3460,Shield volcano,Shield Volcano,Ice Core,D7
+231110,"Haylan, Jabal",Yemen,Arabia-S,15.4,45.1,1550,Volcanic field,Crater System,Anthropology,D7
+214090,Porak,Armenia,Armenia,40.28.00,46.14.00,3029,Stratovolcano,Stratovolcano,Anthropology,D7
+214100,Tskhouk-Karckar,Armenia,Armenia,51.22.00,61.32.00,3139,Pyroclastic cones,Cone,Tephrochronology,D7
+386020,Bouvet,Bouvet I.,Atlantic-S,-60.48.00,8.51,741,Shield volcano,Shield Volcano,Magnetism,D7
+259804,McBride Volcanic Province,Australia,Australia,-24.07.00,153.27.00,1020,Volcanic field,Crater System,Ar/Ar,D7
+259010,Newer Volcanics Province,Australia,Australia,-38.17.00,142.5,1011,Shield volcano,Shield Volcano,Radiocarbon,D7
+382001,Flores,Portugal,Azores,46.42.00,-34.36.00,914,Stratovolcano,Stratovolcano,Radiocarbon,D7
+382120,Madeira,Portugal,Azores,33.13.00,-17.37.00,1862,Shield volcano,Shield Volcano,Radiocarbon,D7
+255030,Loloru,Papua New Guinea,Bougainville-SW Paci,-6.52.00,156.02.00,1887,Pyroclastic shield,Shield Volcano,Radiocarbon,D7
+320200,Garibaldi,Canada,Canada,50.25.00,-123,2678,Stratovolcano,Stratovolcano,Radiocarbon,D7
+320180,Meager,Canada,Canada,51.03.00,-123.5,2680,Complex volcano,Stratovolcano,Radiocarbon,D7
+320140,Nazko,Canada,Canada,67.28.00,-135.12.00,1238,Cinder cone,Cone,Radiocarbon,D7
+383040,Gran Canaria,Spain,Canary Is,28,-15.58.00,1950,Fissure vent,Crater System,Radiocarbon,D7
+357112,Caburgua-Huelemolle,Chile,Chile-C,-39.25.00,-72.15.00,1652,Cinder cone,Cone,Tephrochronology,D7
+355109,Socompa,Argentina,Chile-N,-30.36.00,-72.06.00,6031,Stratovolcano,Stratovolcano,Radiocarbon,D7
+358062,Aguilera,Chile,Chile-S,-50.33.00,-74.15.00,2546,Stratovolcano,Stratovolcano,Radiocarbon,D7
+358012,Cayutue-La Vigueria,Chile,Chile-S,-41.3,-72.27.00,506,Pyroclastic cones,Cone,Tephrochronology,D7
+358050,Corcovado,Chile,Chile-S,-46.09.00,-85.14.00,1826,Stratovolcanoes,Stratovolcano,Radiocarbon,D7
+358080,Pali-Aike Volcanic Field,Chile,Chile-S,-53.22.00,-80.38.00,282,Cinder cone,Cone,Anthropology,D7
+358063,Reclus,Chile,Chile-S,-66.04.00,-73.58.00,1403,Stratovolcano,Stratovolcano,Radiocarbon,D7
+305040,Jingpohu,China,China-E,44.08.00,129.23.00,1000,Volcanic field,Crater System,Radiocarbon,D7
+351090,Azufral,Colombia,Colombia,1.08,-78.08.00,4070,Stratovolcano,Stratovolcano,Radiocarbon,D7
+351021,Santa Isabel,Colombia,Colombia,17.38,-81.05.00,4944,Shield volcano,Shield Volcano,Radiocarbon,D7
+345050,Barva,Costa Rica,Costa Rica,12.15,-84.1,2906,Complex volcano,Stratovolcano,Tephrochronology,D7
+352031,Aliso,Ecuador,Ecuador,-0.53.00,-78,4267,Stratovolcano,Stratovolcano,,D7
+352021,Atacazo,Ecuador,Ecuador,-5.53.00,-88.17.00,4463,Stratovolcano,Stratovolcano,Radiocarbon,D7
+352002,Chachimbiro,Ecuador,Ecuador,7.48,-82.47.00,4106,Caldera,Caldera,Radiocarbon,D7
+352011,Pululahua,Ecuador,Ecuador,0.46,-78.49.00,3360,Caldera,Caldera,Radiocarbon,D7
+352001,Soche,Ecuador,Ecuador,9.12,-77.58.00,3955,Stratovolcano,Stratovolcano,Radiocarbon,D7
+245010,Taveuni,Fiji,Fiji Is-SW Pacific,-30.01.00,-195.04.00,1241,Shield volcano,Shield Volcano,Radiocarbon,D7
+210020,Chaine des Puys,France,France,58.06.00,18.21,1464,Cinder cone,Cone,Radiocarbon,D7
+214020,Kazbek,Georgia,Georgia,42.7,44.5,5050,Stratovolcano,Stratovolcano,Tephrochronology,D7
+210010,West Eifel Volcanic Field,Germany,Germany,50.17.00,7.25,600,Maar,Maars / Tuff ring,Radiocarbon,D7
+212020,Methana,Greece,Greece,47.19.00,28.33.00,380,Lava dome,Cone,Historical,D7
+342120,Tecuamburro,Guatemala,Guatemala,16.36,-96.47.00,1845,Stratovolcano,Stratovolcano,Radiocarbon,D7
+332030,Mauna Kea,United States,Hawaiian Is,20.22,-155.47.00,4205,Shield volcano,Shield Volcano,Radiocarbon,D7
+285041,Rishirizan,Japan,Hokkaido-Japan,47.59.00,145.02.00,1721,Stratovolcano,Stratovolcano,Radiocarbon,D7
+285032,Yoteizan,Japan,Hokkaido-Japan,55.47.00,153.32.00,1888,Stratovolcano,Stratovolcano,Radiocarbon,D7
+283020,Hakoneyama,Japan,Honshu-Japan,38.53.00,139.21.00,1438,Complex volcano,Stratovolcano,Radiocarbon,D7
+283191,Hijiori,Japan,Honshu-Japan,47.59.00,142.42.00,552,Caldera,Caldera,Radiocarbon,D7
+283262,Megata,Japan,Honshu-Japan,40.35.00,140.13.00,160,Maar,Maars / Tuff ring,Tephrochronology,D7
+283100,Myokosan,Japan,Honshu-Japan,50.51.00,139.54.00,2454,Stratovolcano,Stratovolcano,Radiocarbon,D7
+283060,Norikuradake,Japan,Honshu-Japan,37.46.00,146.14.00,3026,Stratovolcano,Stratovolcano,Radiocarbon,D7
+283151,Numazawa,Japan,Honshu-Japan,44.24.00,148.26.00,835,Shield volcano,Shield Volcano,Radiocarbon,D7
+283002,Sanbesan,Japan,Honshu-Japan,37.21.00,142.22.00,1126,Caldera,Caldera,Radiocarbon,D7
+283071,Washiba-Kumonotaira,Japan,Honshu-Japan,42.48.00,146.54.00,2924,Shield volcano,Shield Volcano,Tephrochronology,D7
+373090,Theistareykir,Iceland,Iceland,79.43.00,-32.07.00,563,Shield volcano,Shield Volcano,Tephrochronology,D7
+373070,Fremrinamar,Iceland,Iceland-NE,71.56.00,-27.06.00,970,Stratovolcano,Stratovolcano,Tephrochronology,D7
+373082,Heidarspordar,Iceland,Iceland-NE,74.43.00,-29.37.00,490,Fissure vent,Crater System,,D7
+371060,Grimsnes,Iceland,Iceland-SW,64.05.00,-34.43.00,200,Crater rows,Crater System,Tephrochronology,D7
+371070,Prestahnukur,Iceland,Iceland-SW,73.43.00,-31.06.00,1385,Subglacial volcano,Subglacial,Radiocarbon,D7
+211080,Marsili,Italy,Italy,43.44.00,20.39,-779,Submarine,Submarine Volcano,,D7
+211031,Palinuro,Italy,Italy,39.48.00,15.23,-70,Submarine volcano,Submarine Volcano,Radiocarbon,D7
+211003,Vulsini,Italy,Italy,42.6,12.33,800,Caldera,Caldera,Historical,D7
+263251,Muria,Indonesia,Java,-7.02.00,111.28.00,1625,Stratovolcano,Stratovolcano,Holocene,D7
+300084,Barkhatnaya Sopka,Russia,Kamchatka,65.22.00,158.24.00,874,Lava dome,Cone,Tephrochronology,D7
+300552,Bliznetsy,Russia,Kamchatka,57.35.00,161.37.00,265,Lava cone,Cone,Radiocarbon,D7
+300150,Bolshoi Semiachik,Russia,Kamchatka,54.32.00,160.02.00,1720,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300273,Cherpuk Group,Russia,Kamchatka,55.55.00,157.47.00,1868,Pyroclastic cones,Cone,Radiocarbon,D7
+300272,Khangar,Russia,Kamchatka,66.41.00,163.47.00,1967,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300053,Khodutka,Russia,Kamchatka,53.02.00,168.51.00,2039,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300122,Kostakan,Russia,Kamchatka,66.53.00,158.52.00,1150,Stratovolcano,Stratovolcano,Tephrochronology,D7
+300023,Kurile Lake,Russia,Kamchatka,51.45.00,157.12.00,81,Caldera,Caldera,Radiocarbon,D7
+300511,Shisheika,Russia,Kamchatka,59.33.00,161.09.00,355,Lava dome,Cone,Radiocarbon,D7
+300671,Spokoiny,Russia,Kamchatka,58.13.00,161.22.00,2171,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300160,Taunshits,Russia,Kamchatka,62.48.00,172.24.00,2301,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300512,Terpuk,Russia,Kamchatka,57.2,160.23.00,765,Shield volcano,Shield Volcano,Radiocarbon,D7
+300170,Uzon,Russia,Kamchatka,62.09.00,175.14.00,1617,Caldera,Caldera,Radiocarbon,D7
+300121,Veer,Russia,Kamchatka,65.33.00,165.28.00,520,Stratovolcano,Stratovolcano,Radiocarbon,D7
+300083,Vilyuchinsky,Russia,Kamchatka,52.7,158.28.00,2173,Stratovolcano,Stratovolcano,Tephrochronology,D7
+300124,Zavaritsky,Russia,Kamchatka,68.05.00,164.25.00,1567,Cinder cones,Cone,Radiocarbon,D7
+300271,Piip,Russia,Kamchatka-E of,55.42.00,167.33.00,-300,Submarine volcano,Submarine Volcano,Tephrochronology,D7
+306030,Ulleungdo,South Korea,Korea,37.5,131.27.00,984,Stratovolcano,Stratovolcano,Radiocarbon,D7
+290041,Moekeshiwan [Lvinaya Past],Russia,Kuril Is,54.08.00,162.34.00,528,Stratovolcano,Stratovolcano,Radiocarbon,D7
+282091,Fukue,Japan,Kyushu-Japan,42.57.00,142.09.00,315,Shield volcanoes,Shield Volcano,Tephrochronology,D7
+282081,Yonemaru-Sumiyoshiike,Japan,Kyushu-Japan,43.51.00,139.52.00,40,Maar,Maars / Tuff ring,Radiocarbon,D7
+273081,Mariveles,Philippines,Luzon-Philippines,22.47,128.02.00,1388,Stratovolcano,Stratovolcano,Radiocarbon,D7
+233014,Itasy Volcanic Field,Madagascar,Madagascar,-19.33.00,46.7,1800,Scoria cone,Cone,Radiocarbon,D7
+341098,"Cumbres, Las",Mexico,Mexico,19.15,-97.27.00,3940,Stratovolcano,Stratovolcano,Radiocarbon,D7
+341091,"Malinche, La",Mexico,Mexico,22.51,-98.32.00,4461,Stratovolcano,Stratovolcano,Radiocarbon,D7
+341070,"Toluca, Nevado de",Mexico,Mexico,20.48,-111.38.00,4680,Stratovolcano,Stratovolcano,Radiocarbon,D7
+341010,Tres Virgenes,Mexico,Mexico,27.47.00,-121.51.00,1934,Stratovolcano,Stratovolcano,Radiocarbon,D7
+252150,Tavui,Papua New Guinea,New Britain-SW Pac,-5.49.00,155.33.00,200,Caldera,Caldera,Radiocarbon,D7
+254020,Ambitle,Papua New Guinea,New Ireland-SW Pacif,-4.08.00,154.05.00,450,Stratovolcano,Stratovolcano,Radiocarbon,D7
+241021,Mayor Island,New Zealand,New Zealand,-37.28.00,176.25.00,355,Shield volcano,Shield Volcano,Radiocarbon,D7
+344091,Apoyeque,Nicaragua,Nicaragua,16.02,-91.42.00,518,Pyroclastic shield,Shield Volcano,Radiocarbon,D7
+334021,Northern EPR at 16°N,Pacific Ocean,Pacific-E,16.23,-105.43.00,-2300,Submarine volcano,Submarine Volcano,Magnetism,D7
+334020,Northern EPR at 17°N,Pacific Ocean,Pacific-E,16.55,-105.32.00,-2700,Submarine,Submarine Volcano,,D7
+331040,Escanaba Segment,Pacific Ocean,Pacific-NE,41.38.00,-127.5,-1700,Submarine volcano,Submarine Volcano,Uranium-series,D7
+302030,Udokan Plateau,Russia,Russia-SE,56.28.00,118.17.00,2180,Shield volcano,Shield Volcano,Radiocarbon,D7
+,Kuchino-shima,Japan,Ryukyu Is,30.37.00,130.33.00,627,Stratovolcano,Stratovolcano,Holocene,D7
+275080,Popa,Myanmar,SE Asia,21.32,95.25.00,1518,Stratovolcano,Stratovolcano,Anthropology,D7
+333050,Adams Seamount,Pacific Ocean,Society Is-C Pacific,-25.37.00,-129.27.00,-39,Submarine,Submarine Volcano,,D7
+210040,Calatrava Volcanic Field,Spain,Spain,39.27.00,-4.02.00,1117,Pyroclastic cones,Cone,Radiocarbon,D7
+213001,Karapinar Field,Turkey,Turkey,48.07.00,33.6,1302,Cinder cone,Cone,Holocene,D7
+323170,Golden Trout Creek,United States,US-California,41.58.00,-118.32.00,2886,Volcanic field,Crater System,Tephrochronology,D7
+328010,Dotsero,United States,US-Colorado,50.01.00,-107.36.00,2230,Maar,Maars / Tuff ring,Radiocarbon,D7
+324020,Craters of the Moon,United States,US-Idaho,49.11.00,-121.13.00,2005,Cinder cone,Cone,Radiocarbon,D7
+324040,Hell's Half Acre,United States,US-Idaho,51.12.00,-112.45.00,1632,Shield volcano,Shield Volcano,Radiocarbon,D7
+324030,Wapi Lava Field,United States,US-Idaho,56.46.00,-116.37.00,1597,Shield volcano,Shield Volcano,Radiocarbon,D7
+327812,Red Hill,United States,US-New Mexico,34.25.00,-109.23.00,2300,Volcanic field,Crater System,,D7
+327120,Zuni-Bandera,United States,US-New Mexico,34.8,-108,2550,Volcanic field,Crater System,Anthropology,D7
+322090,Bachelor,United States,US-Oregon,59.19.00,-132.28.00,2763,Stratovolcano,Stratovolcano,Tephrochronology,D7
+322030,Blue Lake Crater,United States,US-Oregon,50.53.00,-133.49.00,1136,Maar,Maars / Tuff ring,Radiocarbon,D7
+322160,Crater Lake,United States,US-Oregon,57.42.00,-123.47.00,2487,Caldera,Caldera,Radiocarbon,D7
+322100,Davis Lake,United States,US-Oregon,43.57.00,-122.22.00,2163,Volcanic field,Crater System,Radiocarbon,D7
+322040,Sand Mountain Field,United States,US-Oregon,44.38.00,-122.33.00,1664,Cinder cone,Cone,Radiocarbon,D7
+,South Sister,United States,US-Oregon,44.1,-122.17.00,3157,Complex volcano,Stratovolcano,Radiocarbon,D7
+321070,Indian Heaven,United States,US-Washington,46.33.00,-122.22.00,1806,Shield volcano,Shield Volcano,Radiocarbon,D7
+321060,West Crater,United States,US-Washington,46.28.00,-122.08.00,1329,Volcanic field,Crater System,Radiocarbon,D7
+325010,Yellowstone,United States,US-Wyoming,44.43.00,-111.07.00,2805,Caldera,Caldera,Tephrochronology,D7
+312053,Stepovak Bay 4,United States,Alaska Peninsula,70.54.00,-174.54.00,1557,Stratovolcano,Stratovolcano,Pleistocene,P
+281032,Tatun Volcanic Group,China,Taiwan,27.58.00,130.13.00,1120,Stratovolcano,Stratovolcano,Pleistocene-Fumarol,Q
+281031,Kueishantao,Taiwan,Taiwan,38.01.00,136.53.00,361,Stratovolcano,Stratovolcano,Pleistocene-Fumarol,Q
+326010,Soda Lakes,United States,US-Nevada,47.45.00,-132.38.00,1251,Lava dome,Cone,Pleistocene-Fumarol,Q
+250020,Baluan,United States,Admiralty Is-SW Paci,-2.57.00,147.28.00,254,Stratovolcano,Stratovolcano,Holocene,U
+,Dacht-I-Navar Group,Afghanistan,Afghanistan,34.35.00,68.32.00,3800,Lava dome,Cone,Holocene,U
+,Vakak Group,Afghanistan,Afghanistan,34.25.00,68.37.00,3190,Volcanic field,Crater System,Holocene,U
+223040,Karisimbi,"Congo, DRC",Africa-C,-9.26.00,29.45.00,4490,Stratovolcano,Stratovolcano,Holocene,U
+223080,Tshibinda,"Congo, DRC",Africa-C,-2.32.00,29.15.00,1460,Cinder cone,Cone,Holocene,U
+223004,Bunyaruguru,Uganda,Africa-C,-0.2,30.08.00,1554,Explosion crater,Crater System,Holocene,U
+223001,Fort Portal,Uganda,Africa-C,0.7,30.25.00,1615,Tuff cone,Maars / Tuff ring,Holocene,U
+223005,Katunga,Uganda,Africa-C,-7.51.00,33.11.00,1707,Tuff cone,Maars / Tuff ring,Holocene,U
+223003,Katwe-Kikorongo,Uganda,Africa-C,-0.08.00,30.32.00,1067,Tuff cone,Maars / Tuff ring,Holocene,U
+223060,Muhavura,Uganda,Africa-C,-7.23.00,40.18.00,4103,Stratovolcano,Stratovolcano,Holocene,U
+222080,"Eburru, Ol Doinyo",Kenya,Africa-E,-1.05.00,36.22.00,2856,Complex volcano,Stratovolcano,Holocene,U
+222071,Elmenteita Badlands,Kenya,Africa-E,-9.06.00,40.09.00,2126,Pyroclastic cone,Cone,Holocene,U
+222070,Homa Mountain,Kenya,Africa-E,-0.38.00,34.5,1751,Complex volcano,Stratovolcano,Holocene,U
+222054,Korosi,Kenya,Africa-E,1.17,36.12.00,1446,Shield volcano,Shield Volcano,Holocene,U
+222010,Lake Turkana Central Island,Kenya,Africa-E,11.16,36.04.00,518,Stratovolcano,Stratovolcano,Holocene,U
+222001,Lake Turkana North Island,Kenya,Africa-E,5.03,36.46.00,490,Tuff cone,Maars / Tuff ring,Holocene,U
+221330,Mega Volcanic Field,Kenya,Africa-E,19.11,41.33.00,1500,Pyroclastic cone,Cone,Holocene,U
+222056,Nyambeni Hills,Kenya,Africa-E,0.23,38.27.00,750,Shield volcano,Shield Volcano,Holocene,U
+222055,Ol Kokwe,Kenya,Africa-E,1.02,37.15.00,1130,Shield volcano,Shield Volcano,Holocene,U
+222050,Segererua Plateau,Kenya,Africa-E,1.57,37.9,699,Pyroclastic cone,Cone,Holocene,U
+222110,Suswa,Kenya,Africa-E,-3.31.00,41.57.00,2356,Shield volcano,Shield Volcano,Holocene,U
+222161,Igwisi Hills,Tanzania,Africa-E,-18.49.00,46.33.00,1146,Tuff cone,Maars / Tuff ring,Holocene,U
+,Izumbwe-Mpoli,Tanzania,Africa-E,-9.33.00,33.4,1568,Pyroclastic cone,Cone,Holocene,U
+,Kilimanjaro,Tanzania,Africa-E,-3.07.00,37.35.00,5895,Stratovolcano,Stratovolcano,Holocene,U
+222164,Ngozi,Tanzania,Africa-E,-9.04.00,42.12.00,2614,Caldera,Caldera,Holocene,U
+222166,Rungwe,Tanzania,Africa-E,-11.15.00,44.08.00,2953,Stratovolcano,Stratovolcano,Holocene,U
+,SW Usangu Basin,Tanzania,Africa-E,-9.15.00,33.8,2179,Lava dome,Cone,Holocene,U
+,Unnamed,Tanzania,Africa-E,-9.03.00,33.57.00,0,Pyroclastic cone,Cone,Holocene,U
+225005,Atakor Volcanic Field,Algeria,Africa-N,23.33,6.23,2918,Scoria cones,Cone,Holocene,U
+225006,Manzaz Volcanic Field,Algeria,Africa-N,24.32.00,6.23,1672,Scoria cones,Cone,Holocene,U
+225004,Tahalra Volcanic Field,Algeria,Africa-N,23.07,5,1467,Pyroclastic cones,Cone,Holocene,U
+225021,"Koussi, Emi",Chad,Africa-N,19.8,18.53,3415,Stratovolcano,Stratovolcano,Holocene,U
+225001,Todra Volcanic Field,Chad,Africa-N,18.08,8.5,1780,Volcanic field,Crater System,Holocene,U
+225009,"Toh, Tarso",Chad,Africa-N,21.33,16.33,2000,Volcanic field,Crater System,Holocene,U
+225010,"Tousside, Tarso",Chad,Africa-N,21.03,16.45,3265,Stratovolcano,Stratovolcano,Holocene,U
+225020,"Voon, Tarso",Chad,Africa-N,21.32,17.28,3100,Stratovolcano,Stratovolcano,Fumarolic,U
+,Haruj,Libya,Africa-N,27.25.00,17.5,1200,Scoria cone,Cone,Holocene,U
+225002,Tin Zaouatene Volcanic Field,Mali,Africa-N,20.23,3.23,700,Volcanic field,Crater System,Holocene,U
+221123,Mousa Alli,Djibouti,Africa-NE,19.49,48.44.00,1993,Stratovolcano,Stratovolcano,Holocene,U
+221040,Alid,Eritrea,Africa-NE,15.28,40.32.00,904,Stratovolcano,Stratovolcano,Holocene,U
+221125,Assab Volcanic Field,Eritrea,Africa-NE,13.35,42.43.00,987,Volcanic field,Crater System,Holocene,U
+221124,Gufa,Eritrea,Africa-NE,12.55,42.53.00,600,Volcanic field,Crater System,Holocene,U
+,Jalua,Eritrea,Africa-NE,15.42,40.22.00,713,Stratovolcano,Stratovolcano,Holocene,U
+221170,Adwa,Ethiopia,Africa-NE,11.03,53.51.00,1670,Stratovolcano,Stratovolcano,Holocene,U
+221090,Ale Bagu,Ethiopia,Africa-NE,21.32,50.31.00,988,Stratovolcano,Stratovolcano,Holocene,U
+221060,Alu-Dalafilla,Ethiopia,Africa-NE,26.13.00,49.13.00,578,Fissure vent,Crater System,Holocene,U
+221270,Aluto,Ethiopia,Africa-NE,8.17,39.18.00,2335,Stratovolcano,Stratovolcano,Holocene,U
+221104,Asavyo,Ethiopia,Africa-NE,14.38,50.59.00,1338,Shield volcano,Shield Volcano,Holocene,U
+221160,Ayelu,Ethiopia,Africa-NE,11.22,51.42.00,2145,Stratovolcano,Stratovolcano,Holocene,U
+221191,Beru,Ethiopia,Africa-NE,9.35,40.15.00,1100,Volcanic field,Crater System,Holocene,U
+221291,Bilate River Field,Ethiopia,Africa-NE,7.07,38.1,1700,Maar,Maars / Tuff ring,Holocene,U
+221220,Bishoftu Volcanic Field,Ethiopia,Africa-NE,9.18,39.38.00,1850,Fissure vent,Crater System,Holocene,U
+221071,Bora Ale,Ethiopia,Africa-NE,25.05.00,40.6,668,Stratovolcano,Stratovolcano,Holocene,U
+221240,Bora-Bericcio,Ethiopia,Africa-NE,11.41,39.05.00,2267,Pumice cone,Cone,Holocene,U
+221107,Borawli,Ethiopia,Africa-NE,18.04,56.27.00,784,Stratovolcano,Stratovolcano,Holocene,U
+,Borawli Complex,Ethiopia,Africa-NE,12.03,41.45.00,875,Lava dome,Cone,Holocene,U
+221210,Boset,Ethiopia,Africa-NE,17.18,46.55.00,2447,Stratovolcano,Stratovolcano,Holocene,U
+221260,Butajiri-Silti Field,Ethiopia,Africa-NE,8.05,38.35.00,2281,Fissure vent,Crater System,Holocene,U
+221290,Corbetti,Ethiopia,Africa-NE,10.13,38.39.00,2289,Caldera,Caldera,Holocene,U
+221113,Dabbahu,Ethiopia,Africa-NE,21.55,40.48.00,1401,Stratovolcano,Stratovolcano,Holocene,U
+221114,Dabbayra,Ethiopia,Africa-NE,12.38,40.07.00,1302,Shield volcano,Shield Volcano,Holocene,U
+,Dalaffilla,Ethiopia,Africa-NE,26.12.00,40.55.00,613,Stratovolcano,Stratovolcano,Holocene,U
+221180,Dofan,Ethiopia,Africa-NE,9.35,40.13.00,1151,Stratovolcano,Stratovolcano,Holocene,U
+221311,East Chamo Basin,Ethiopia,Africa-NE,16.48,48.53.00,1150,Cinder cone,Cone,Holocene,U
+221252,East Ziway,Ethiopia,Africa-NE,21.34,53.02.00,1889,Fissure vent,Crater System,Holocene,U
+221150,Gabillema,Ethiopia,Africa-NE,11.08,41.27.00,1459,Stratovolcano,Stratovolcano,Holocene,U
+221050,Gada Ale,Ethiopia,Africa-NE,29.15.00,46.48.00,287,Stratovolcano,Stratovolcano,Holocene,U
+221230,Gedemsa,Ethiopia,Africa-NE,14.03,41.52.00,1909,Caldera,Caldera,Holocene,U
+221116,Groppo,Ethiopia,Africa-NE,24.36.00,44.02.00,852,Stratovolcano,Stratovolcano,Holocene,U
+221091,Hayli Gubbi,Ethiopia,Africa-NE,13.51,52.02.00,493,Shield volcano,Shield Volcano,Holocene,U
+221171,Hertali,Ethiopia,Africa-NE,10.18,40.33.00,900,Fissure vent,Crater System,Holocene,U
+221120,Kurub,Ethiopia,Africa-NE,12.28,44.28.00,625,Shield volcano,Shield Volcano,Holocene,U
+221111,Ma Alalta,Ethiopia,Africa-NE,13.13,43.05.00,1745,Stratovolcano,Stratovolcano,Holocene,U
+221115,Manda Hararo,Ethiopia,Africa-NE,12.17,41.22.00,600,Shield volcano,Shield Volcano,Holocene,U
+221105,Mat Ala,Ethiopia,Africa-NE,14.46,43.41.00,493,Shield volcano,Shield Volcano,Holocene,U
+221222,Melkassa,Ethiopia,Africa-NE,8.43,39.35.00,1765,Pyroclastic cone,Cone,Holocene,U
+221280,Shala,Ethiopia,Africa-NE,14.37,47.17.00,2075,Stratovolcano,Stratovolcano,Holocene,U
+221106,Tat Ali,Ethiopia,Africa-NE,17.44,42.03.00,655,Shield volcano,Shield Volcano,Holocene,U
+221292,Tepi,Ethiopia,Africa-NE,7.42,35.43.00,2728,Shield volcano,Shield Volcano,Holocene,U
+,Tosa Sucha,Ethiopia,Africa-NE,6.32,37.57.00,1650,Cinder cone,Cone,Holocene,U
+,Unnamed,Ethiopia,Africa-NE,8.7,40.03.00,1300,Pyroclastic cone,Cone,Holocene,U
+,Unnamed,Ethiopia,Africa-NE,9.02,39.35.00,1800,Fissure vent,Crater System,Holocene,U
+221251,Unnamed,Ethiopia,Africa-NE,8.13,40.02.00,1886,Fissure vent,Crater System,Holocene,U
+221151,Yangudi,Ethiopia,Africa-NE,10.58,41.42.00,1383,Complex volcano,Stratovolcano,Holocene,U
+,Manengouba,Cameroon,Africa-W,5.03,10.23,2411,Stratovolcano,Stratovolcano,Holocene,U
+224011,Tombel Graben,Cameroon,Africa-W,16.38,20.57,500,Cinder cones,Cone,Holocene,U
+224002,San Carlos,Equatorial Guinea,Africa-W,3.35,8.52,2260,Shield volcano,Shield Volcano,Holocene,U
+224003,San Joaquin,Equatorial Guinea,Africa-W,3.35,9.03,2009,Shield volcano,Shield Volcano,Holocene,U
+312270,Douglas,United States,Alaska Peninsula,72.15.00,-162.02.00,2140,Stratovolcano,Stratovolcano,Fumarolic,U
+312011,Dutton,United States,Alaska Peninsula,58.03.00,-166.36.00,1465,Stratovolcano,Stratovolcano,Holocene,U
+312020,Emmons Lake Volcanic Center,United States,Alaska Peninsula,60.52.00,-162.45.00,1534,Caldera,Caldera,Holocene,U
+312010,Frosty,United States,Alaska Peninsula,56.07.00,-175.55.00,1728,Stratovolcano,Stratovolcano,Holocene,U
+312190,Griggs,United States,Alaska Peninsula,63.54.00,-156.32.00,2317,Stratovolcano,Stratovolcano,Holocene,U
+312120,Kialagvik,United States,Alaska Peninsula,60.23.00,-168.25.00,1677,Stratovolcano,Stratovolcano,Holocene,U
+312230,Kukak,United States,Alaska Peninsula,65.33.00,-159.55.00,2043,Stratovolcano,Stratovolcano,Fumarolic,U
+312200,Snowy Mountain,United States,Alaska Peninsula,63.36.00,-165.22.00,2162,Stratovolcano,Stratovolcano,Fumarolic,U
+312051,Stepovak Bay 2,United States,Alaska Peninsula,70.13.00,-160.41.00,1323,Cinder cone,Cone,Holocene,U
+312132,Unnamed,United States,Alaska Peninsula,58.27.00,-161.51.00,402,Lava dome,Cone,Holocene,U
+,Gordon,United States,Alaska-E,62.13.00,-143.08.00,2755,Cinder cone,Cone,Holocene,U
+315050,Duncan Canal,United States,Alaska-SE,56.5,-133.1,15,Unknown,Other / Unknown,Holocene,U
+315060,Tlevak Strait-Suemez Island,United States,Alaska-SE,55.25.00,-133.3,50,Volcanic field,Crater System,Holocene,U
+314060,Imuruk Lake,United States,Alaska-W,73.37.00,-163.45.00,610,Shield volcano,Shield Volcano,Holocene,U
+314030,Ingakslugwat Hills,United States,Alaska-W,61.43.00,-164.47.00,190,Cinder cone,Cone,Holocene,U
+,Kookooligit Mountains,United States,Alaska-W,63.6,-170.43.00,673,Shield volcano,Shield Volcano,Holocene,U
+314040,St. Michael,United States,Alaska-W,63.45.00,-162.12.00,715,Shield volcano,Shield Volcano,Anthropology,U
+311010,Buldir,United States,Aleutian Is,52.35.00,190.11.00,656,Stratovolcano,Stratovolcano,Holocene,U
+311200,Chagulak,United States,Aleutian Is,61.37.00,-171.13.00,1142,Stratovolcano,Stratovolcano,Holocene,U
+311220,Herbert,United States,Aleutian Is,64.22.00,-171.51.00,1280,Stratovolcano,Stratovolcano,Holocene,U
+311111,Moffett,United States,Aleutian Is,66.44.00,-188.27.00,1196,Stratovolcano,Stratovolcano,Holocene,U
+311280,Recheschnoi,United States,Aleutian Is,55.37.00,-176.59.00,1984,Stratovolcano,Stratovolcano,Holocene,U
+311380,Roundtop,United States,Aleutian Is,54.8,-172.49.00,1871,Stratovolcano,Stratovolcano,Holocene,U
+311030,Segula,United States,Aleutian Is,52.15.00,180.16.00,1160,Stratovolcano,Stratovolcano,Holocene,U
+311090,Takawangha,United States,Aleutian Is,65.33.00,-178.06.00,1449,Stratovolcano,Stratovolcano,Holocene,U
+311241,Tana,United States,Aleutian Is,53.23.00,-170.17.00,1170,Stratovolcanoes,Stratovolcano,Holocene,U
+260001,Narcondum,India,Andaman Is-Indian O,13.43,94.28.00,710,Stratovolcano,Stratovolcano,Holocene,U
+390022,Berlin,Antarctica,Antarctica,-76.05.00,-136,3478,Shield volcano,Shield Volcano,Fumarolic,U
+390110,Hodson,Antarctica,Antarctica,-67.52.00,-29.56.00,835,Stratovolcano,Stratovolcano,Holocene,U
+390120,Leskov Island,Antarctica,Antarctica,-66.56.00,-28.14.00,190,Stratovolcano,Stratovolcano,Fumarolic,U
+390017,Morning,Antarctica,Antarctica,-78.5,163.53.00,2723,Shield volcano,Shield Volcano,Holocene,U
+390041,Paulet,Antarctica,Antarctica,-72.39.00,-56.18.00,353,Cinder cone,Cone,Holocene,U
+390029,Peter I Island,Antarctica,Antarctica,-69.25.00,-90.58.00,1640,Shield volcano,Shield Volcano,Holocene,U
+390011,Young Island,Antarctica,Antarctica,-66.42.00,162.47.00,1340,Stratovolcano,Stratovolcano,Fumarolic,U
+231170,Balhaf-Bir Ali Volcanic Field,Yemen,Arabia-S,15.07,48.3,604,Volcanic field,Crater System,Holocene,U
+231100,"Marha, Jabal el-",Yemen,Arabia-S,19.05,47.56.00,2506,Tuff cone,Maars / Tuff ring,Holocene,U
+231001,"Ash Shaam, Harrat",Saudi Arabia,Arabia-W,37.33.00,46.43.00,1100,Volcanic field,Crater System,Holocene,U
+231072,"Birk, Harrat al",Saudi Arabia,Arabia-W,18.37,42.03.00,587,Volcanic field,Crater System,Holocene,U
+231050,"Ithnayn, Harrat",Saudi Arabia,Arabia-W,26.58.00,40.2,1625,Volcanic field,Crater System,Holocene,U
+231071,"Kishb, Harrat",Saudi Arabia,Arabia-W,22.8,41.38.00,1475,Volcanic field,Crater System,Holocene,U
+231010,"Rahah, Harrat ar",Saudi Arabia,Arabia-W,27.8,36.17.00,1950,Volcanic field,Crater System,Anthropology,U
+377020,East Gakkel Ridge at 85°E,Arctic Ocean,Arctic Ocean,95.08.00,85.25.00,-3800,Submarine volcano,Submarine Volcano,Holocene,U
+355180,Antofagasta Volcanic Field,Argentina,Argentina,-26.12.00,-67.4,3495,Scoria cones,Cone,Holocene,U
+358024,Apagado,Argentina,Argentina,-42.28.00,-72.58.00,1210,Cinder cone,Cone,Holocene,U
+357023,"Atuel, Caldera del",Argentina,Argentina,-43.52.00,-84.21.00,5189,Caldera,Caldera,Holocene,U
+355210,"Blanco, Cerro",Argentina,Argentina,-38.46.00,-79.26.00,4670,Caldera,Caldera,Holocene,U
+355190,"Condor, El",Argentina,Argentina,-36.32.00,-74.01.00,6373,Stratovolcano,Stratovolcano,Holocene,U
+355124,Falso Azufre,Argentina,Argentina,-26.8,-68.37.00,5906,Scoria cone,Cone,Holocene,U
+357123,Huanquihue Group,Argentina,Argentina,-53.47.00,-71.58.00,2189,Pyroclastic cone,Cone,Holocene,U
+355123,"Nevada, Sierra",Argentina,Argentina,-26.48.00,-68.58.00,6173,Stratovolcano,Stratovolcano,Holocene,U
+357066,Payun Matru,Argentina,Argentina,-43.02.00,-73.01.00,3715,Shield volcano,Shield Volcano,Holocene,U
+355200,Peinado,Argentina,Argentina,-36.23.00,-69.56.00,5741,Stratovolcano,Stratovolcano,Holocene,U
+,Puesto Cortaderas,Argentina,Argentina,-46.27.00,-79.17.00,970,Pyroclastic cone,Cone,Holocene,U
+355131,"Solo, El",Argentina,Argentina,-28.45.00,-79.53.00,6205,Complex volcano,Stratovolcano,Holocene,U
+355220,Tipas,Argentina,Argentina,-30.16.00,-77.21.00,6658,Complex volcano,Stratovolcano,Holocene,U
+,Tromen,Argentina,Argentina,-39.22.00,-70.03.00,3978,Stratovolcano,Stratovolcano,Holocene,U
+357072,Tromen Volcanic Plateau,Argentina,Argentina,-39.24.00,-70.33.00,4114,Pyroclastic cone,Cone,Holocene,U
+214060,Aragats,Armenia,Armenia,40.53.00,44.2,4095,Stratovolcano,Stratovolcano,Holocene,U
+214070,Ghegham Volcanic Ridge,Armenia,Armenia,44.43.00,45,3597,Volcanic field,Crater System,Holocene,U
+214080,Vaiyots-Sar,Armenia,Armenia,52.17.00,53.17.00,2575,Unknown,Other / Unknown,Holocene,U
+385050,Ascension,Atlantic Ocean,Atlantic-S,-8.35.00,-14.37.00,858,Stratovolcano,Stratovolcano,Holocene,U
+,Trindade,Atlantic Ocean,Atlantic-S,-28.34.00,-34.31.00,600,Stratovolcano,Stratovolcano,Holocene,U
+382002,Corvo,Portugal,Azores,50.39.00,-32.51.00,718,Stratovolcano,Stratovolcano,Holocene,U
+382040,Graciosa,Portugal,Azores,39.02.00,-28.37.00,402,Stratovolcano,Stratovolcano,Holocene,U
+265080,Manuk,Pacific Ocean,Banda Sea,-14.03.00,135.03.00,257,Stratovolcano,Stratovolcano,Fumarolic,U
+355035,"Jayu Khota, Laguna",Bolivia,Bolivia,-26.43.00,-74.12.00,3650,Maars,Maars / Tuff ring,Holocene,U
+355042,Pampa Luxsar,Bolivia,Bolivia,-21.25.00,-68.2,5543,Volcanic field,Crater System,Holocene,U
+255010,Balbi,Papua New Guinea,Bougainville-SW Paci,-20.16.00,155.01.00,2715,Stratovolcano,Stratovolcano,Holocene,U
+255021,Takuan Group,Papua New Guinea,Bougainville-SW Paci,-13.22.00,165.08.00,2210,Volcanic complex,Crater System,Holocene,U
+255000,Tore,Papua New Guinea,Bougainville-SW Paci,-18.55.00,169.35.00,2175,Lava cone,Cone,Holocene,U
+320020,Alligator Lake,Canada,Canada,60.42.00,-135.42.00,2217,Volcanic field,Crater System,Holocene,U
+320170,Bridge River Cones,Canada,Canada,50.8,-123.4,2500,Volcanic field,Crater System,Holocene,U
+320110,Crow Lagoon,Canada,Canada,54.7,-130.23.00,335,Pyroclastic cone,Cone,Holocene,U
+320010,Fort Selkirk,Canada,Canada,63.33.00,-137.38.00,1239,Volcanic field,Crater System,Holocene,U
+320190,Garibaldi Lake,Canada,Canada,64.33.00,-123,2316,Volcanic field,Crater System,Holocene,U
+320040,Heart Peaks,Canada,Canada,58.6,-132.37.00,2012,Shield volcano,Shield Volcano,Holocene,U
+320080,Hoodoo Mountain,Canada,Canada,57.18.00,-131.28.00,1850,Subglacial volcano,Subglacial,Holocene,U
+320050,Level Mountain,Canada,Canada,58.42.00,-131.35.00,2164,Shield volcano,Shield Volcano,Holocene,U
+320120,Milbanke Sound Group,Canada,Canada,60.18.00,-140.03.00,233,Cinder cone,Cone,Holocene,U
+,Satah Mountain,Canada,Canada,52.47.00,-124.7,1921,Volcanic field,Crater System,Holocene,U
+320160,Silverthrone,Canada,Canada,59.38.00,-127.53.00,2860,Caldera,Caldera,Holocene,U
+320070,Spectrum Range,Canada,Canada,57.43.00,-131.08.00,2430,Shield volcano,Shield Volcano,Holocene,U
+320031,Tuya Volcanic Field,Canada,Canada,59.37.00,-130.58.00,2123,Volcanic field,Crater System,Holocene,U
+383050,Fuerteventura,Spain,Canary Is,33.58.00,-14.02.00,529,Fissure vent,Crater System,Holocene,U
+384020,Brava,Cape Verde,Cape Verde Is,28.11.00,-35.44.00,956,Stratovolcano,Stratovolcano,Holocene,U
+,Santo Antao,Cape Verde,Cape Verde Is,17.07,-25.17.00,1979,Stratovolcano,Stratovolcano,Holocene,U
+355125,"Incahuasi, Nevado de",Argentina,Chile,-27.33.00,-72.56.00,6638,Complex volcano,Stratovolcano,Holocene,U
+357122,Lanin,Argentina,Chile-C,-49.37.00,-79.22.00,3776,Stratovolcano,Stratovolcano,Holocene,U
+357153,Antillanca Volcanic Complex,Chile,Chile-C,-53.03.00,-72.15.00,1979,Stratovolcano,Stratovolcano,Holocene,U
+357064,"Blancas, Lomas",Chile,Chile-C,-40.46.00,-71.09.00,2268,Stratovolcano,Stratovolcano,Holocene,U
+357042,Calabozos,Chile,Chile-C,-44.18.00,-78.16.00,3508,Caldera,Caldera,Holocene,U
+357041,Infiernillo,Chile,Chile-C,-37.03.00,-69.9,3007,Lava dome,Cone,Holocene,U
+357063,"Longavi, Nevado de",Chile,Chile-C,-39.16.00,-73.44.00,3175,Stratovolcano,Stratovolcano,Holocene,U
+357092,"Mariñaqui, Laguna",Chile,Chile-C,-42.15.00,-73.47.00,2108,Stratovolcano,Stratovolcano,Holocene,U
+357061,"Maule, Laguna del",Chile,Chile-C,-36.58.00,-78.12.00,2162,Stratovolcano,Stratovolcano,Holocene,U
+357022,Palomo,Chile,Chile-C,-44.08.00,-74.55.00,4860,Stratovolcano,Stratovolcano,Holocene,U
+357152,"Pantojo, Cerro",Chile,Chile-C,-41.17.00,-72.35.00,1897,Stratovolcano,Stratovolcano,Holocene,U
+357150,Puyehue-Cordon Caulle,Chile,Chile-C,-40.59.00,-73.57.00,2236,Stratovolcano,Stratovolcano,Holocene,U
+357065,"Resago, Volcan",Chile,Chile-C,-43.41.00,-85.03.00,1890,Cinder cone,Cone,Holocene,U
+357062,San Pedro-Pellado,Chile,Chile-C,-51.29.00,-84.09.00,3621,Stratovolcano,Stratovolcano,Holocene,U
+357093,Tolhuaca,Chile,Chile-C,-38.31.00,-81.45.00,2739,Stratovolcano,Stratovolcano,Holocene,U
+357101,Tralihue,Chile,Chile-C,-46.29.00,-84.58.00,2448,Cinder cone,Cone,Holocene,U
+356011,Rapa Nui,Chile,Chile-Is,-28.54.00,-114.56.00,501,Shield volcanoes,Shield Volcano,Holocene,U
+,San Felix,Chile,Chile-Is,-26.27.00,-80.12.00,183,Shield volcano,Shield Volcano,Holocene,U
+355122,"Bayo Gorbea, Cerro",Argentina,Chile-N,-31.54.00,-77.48.00,5413,Complex volcano,Stratovolcano,Holocene,U
+355121,Cordon del Azufre,Argentina,Chile-N,-30.36.00,-76.41.00,5481,Complex volcano,Stratovolcano,Holocene,U
+355112,Corrida de Cori Volcanic Field,Argentina,Chile-N,-26.23.00,-74.07.00,5451,Stratovolcano,Stratovolcano,Holocene,U
+355130,"Ojos del Salado, Nevados",Argentina,Chile-N,-28.49.00,-77.01.00,6879,Stratovolcano,Stratovolcano,Holocene,U
+355061,"Azufre, Cerro del",Bolivia,Chile-N,-34.07.00,-71.57.00,5846,Stratovolcano,Stratovolcano,Holocene,U
+355093,Guayaques,Bolivia,Chile-N,-36.55.00,-76.26.00,5598,Lava dome,Cone,Holocene,U
+355091,Sairecabur,Bolivia,Chile-N,-33.59.00,-81.51.00,5961,Stratovolcano,Stratovolcano,Holocene,U
+355104,Caichinque,Chile,Chile-N,-38.49.00,-68.14.00,4458,Maar,Maars / Tuff ring,Holocene,U
+355095,Colachi,Chile,Chile-N,-26.56.00,-77.45.00,5631,Stratovolcano,Stratovolcano,Holocene,U
+355101,Cordon de Puntas Negras,Chile,Chile-N,-35.23.00,-75.54.00,5852,Stratovolcano,Stratovolcano,Holocene,U
+355120,Lastarria,Chile,Chile-N,-27.48.00,-76.27.00,5706,Stratovolcano,Stratovolcano,Holocene,U
+355092,Licancabur,Chile,Chile-N,-23.23.00,-68.28.00,5916,Stratovolcano,Stratovolcano,Holocene,U
+355102,Miniques,Chile,Chile-N,-24.22.00,-68.17.00,5910,Stratovolcano,Stratovolcano,Holocene,U
+355097,"Overo, Cerro",Chile,Chile-N,-23.52.00,-68.07.00,4555,Maar,Maars / Tuff ring,Holocene,U
+355094,Purico Complex,Chile,Chile-N,-23,-68.15.00,5703,Pyroclastic shield,Shield Volcano,Holocene,U
+355011,Taapaca,Chile,Chile-N,-18.1,-69.5,5860,Lava dome,Cone,Holocene,U
+355010,Tacora,Chile,Chile-N,-29.01.00,-81.53.00,5960,Stratovolcano,Stratovolcano,Fumarolic,U
+355105,Tilocalar,Chile,Chile-N,-24.37.00,-68.13.00,3109,Stratovolcano,Stratovolcano,Holocene,U
+355103,"Tujle, Cerro",Chile,Chile-N,-24.23.00,-68.35.00,3550,Stratovolcano,Stratovolcano,Holocene,U
+,Cayute-La Vigueria,Chile,Chile-S,-41.25.00,-72.27.00,506,Pyroclastic cone,Cone,Holocene,U
+358090,Fueguino,Chile,Chile-S,-55.37.00,-74.22.00,157,Lava dome,Cone,Holocene,U
+358056,Maca,Chile,Chile-S,-45.1,-73.17.00,2960,Stratovolcano,Stratovolcano,Holocene,U
+358052,Melimoyu,Chile,Chile-S,-44.08.00,-73.28.00,2400,Cinder cone,Cone,Holocene,U
+358054,Mentolat,Chile,Chile-S,-44.7,-73.08.00,1660,Cinder cone,Cone,Holocene,U
+358053,Puyuhuapi,Chile,Chile-S,-44.3,-72.53.00,524,Stratovolcano,Stratovolcano,Holocene,U
+358022,Yate,Chile,Chile-S,-53.35.00,-78.36.00,2187,Stratovolcano,Stratovolcano,Holocene,U
+358025,Crater Basalt Volcanic Field,Argentina,Chile-S/Argentina,-42.18.00,-73.14.00,1344,Cinder cones,Cone,Holocene,U
+305020,Keluo Group,China,China-E,49.37.00,126.32.00,670,Pyroclastic cone,Cone,Holocene,U
+,Unnamed,China,China-W,36.25.00,91.7,5400,Volcanic field,Crater System,Holocene,U
+351061,Sotara,Colombia,Colombia,3.48,-85.52.00,4400,Stratovolcano,Stratovolcano,Holocene,U
+345034,Platanar,Costa Rica,Costa Rica,10.3,-90.06.00,2267,Stratovolcano,Stratovolcano,Holocene,U
+345031,Tenorio,Costa Rica,Costa Rica,21.13,-85.15.00,1916,Stratovolcano,Stratovolcano,Holocene,U
+253041,Goodenough,Papua New Guinea,D'Entrecasteaux Is,-14.58.00,154.06.00,220,Volcanic field,Crater System,Holocene,U
+253050,Iamalele,Papua New Guinea,D'Entrecasteaux Is,-17.26.00,158.44.00,194,Lava dome,Cone,Holocene,U
+352041,Iliniza,Ecuador,Ecuador,-11.02.00,-89.56.00,5162,Stratovolcano,Stratovolcano,Holocene,U
+352081,Licto,Ecuador,Ecuador,-14.06.00,-88.14.00,3322,Scoria cone,Cone,Holocene,U
+343010,Apaneca Range,El Salvador,El Salvador,27.32.00,-101.22.00,2028,Stratovolcano,Stratovolcano,Holocene,U
+343071,Apastepeque Field,El Salvador,El Salvador,14.12,-89.17.00,700,Volcanic field,Crater System,Holocene,U
+343101,"Aramuaca, Laguna",El Salvador,El Salvador,20.08,-89.45.00,181,Maar,Maars / Tuff ring,Holocene,U
+343090,Chinameca,El Salvador,El Salvador,20.58,-88.33.00,1300,Stratovolcano,Stratovolcano,Holocene,U
+343051,"Cinotepeque, Cerro",El Salvador,El Salvador,14.02,-89.25.00,665,Volcanic field,Crater System,Holocene,U
+343041,Coatepeque Caldera,El Salvador,El Salvador,14.27,-89.55.00,746,Caldera,Caldera,Holocene,U
+343052,Guazapa,El Salvador,El Salvador,13.9,-89.12.00,1438,Stratovolcano,Stratovolcano,Holocene,U
+343001,San Diego,El Salvador,El Salvador,14.27,-89.48.00,781,Volcanic field,Crater System,Holocene,U
+343070,San Vicente,El Salvador,El Salvador,22.55,-101.57.00,2182,Stratovolcano,Stratovolcano,Holocene,U
+343002,"Singuil, Cerro",El Salvador,El Salvador,14.54,-99.31.00,926,Cinder cone,Cone,Holocene,U
+343072,Taburete,El Salvador,El Salvador,20.15,-96.52.00,1172,Stratovolcano,Stratovolcano,Holocene,U
+343080,Tecapa,El Salvador,El Salvador,21.14,-96.22.00,1593,Stratovolcano,Stratovolcano,Holocene,U
+343082,"Tigre, El",El Salvador,El Salvador,13.47,-88.43.00,1640,Stratovolcano,Stratovolcano,Holocene,U
+343081,Usulutan,El Salvador,El Salvador,19.59,-95.51.00,1449,Stratovolcano,Stratovolcano,Holocene,U
+221127,Manda Gargori,Ethiopia,Ethiopia,12.15,41.48.00,700,Fissure vents,Crater System,Anthropology,U
+353011,Ecuador,Ecuador,Galapagos,-0.02.00,-100.06.00,790,Shield volcano,Shield Volcano,Holocene,U
+353081,Genovesa,Ecuador,Galapagos,0.32,-104.58.00,64,Shield volcano,Shield Volcano,Holocene,U
+353120,San Cristobal,Ecuador,Galapagos,-1.28.00,-89.5,759,Shield volcano,Shield Volcano,Holocene,U
+353091,Santa Cruz,Ecuador,Galapagos,-1.02.00,-90.33.00,864,Shield volcano,Shield Volcano,Holocene,U
+,Kabargin Oth Group,Georgia,Georgia,42.55.00,44,3650,Cinder cone,Cone,Holocene,U
+214050,Samsari Volcanic Center,Georgia,Georgia,50.02.00,43.7,3290,Lava cone,Cone,Holocene,U
+,Unnamed,Georgia,Georgia,42.45.00,44.25.00,3750,Cinder cone,Cone,Holocene,U
+212030,Milos,Greece,Greece,47.39.00,31.19.00,751,Stratovolcano,Stratovolcano,Holocene,U
+212051,Yali,Greece,Greece,47.11.00,27.14.00,180,Lava dome,Cone,Holocene,U
+342100,Agua,Guatemala,Guatemala,21.45,-102.23.00,3760,Stratovolcano,Stratovolcano,Holocene,U
+342170,Chingo,Guatemala,Guatemala,14.12,-90.13.00,1775,Stratovolcano,Stratovolcano,Holocene,U
+342200,Chiquimula Volcanic Field,Guatemala,Guatemala,15.23,-89.55.00,1192,Cinder cone,Cone,Holocene,U
+342111,Cuilapa-Barbarena,Guatemala,Guatemala,14.33,-90.4,1454,Volcanic field,Crater System,Holocene,U
+342140,Flores,Guatemala,Guatemala,19.08,-105.32.00,1600,Volcanic field,Crater System,Holocene,U
+342190,Ipala,Guatemala,Guatemala,14.55,-90.03.00,1650,Stratovolcano,Stratovolcano,Holocene,U
+342180,Ixtepeque,Guatemala,Guatemala,14.42,-90.08.00,1292,Lava dome,Cone,Holocene,U
+342121,Jumaytepeque,Guatemala,Guatemala,14.34,-94.31.00,1802,Volcanic field,Crater System,Holocene,U
+342130,Moyuta,Guatemala,Guatemala,14.03,-90.1,1662,Stratovolcano,Stratovolcano,Hot Springs,U
+342210,Quezaltepeque,Guatemala,Guatemala,14.57,-89.45.00,1200,Volcanic field,Crater System,Holocene,U
+342150,"Santiago, Cerro",Guatemala,Guatemala,14.33,-90.27.00,1192,Volcanic field,Crater System,Holocene,U
+342160,Suchitan,Guatemala,Guatemala,14.4,-90.18.00,2042,Stratovolcano,Stratovolcano,Holocene,U
+342141,Tahual,Guatemala,Guatemala,14.43,-89.9,1716,Stratovolcano,Stratovolcano,Holocene,U
+342020,Tajumulco,Guatemala,Guatemala,15.43,-106.03.00,4203,Stratovolcano,Stratovolcano,Holocene,U
+342070,Toliman,Guatemala,Guatemala,24.12.00,-94.09.00,3158,Stratovolcano,Stratovolcano,Holocene,U
+268072,Amasing,Indonesia,Halmahera-Indonesia,-8.45.00,135.16.00,1006,Stratovolcano,Stratovolcano,Holocene,U
+268073,Bibinoi,Indonesia,Halmahera-Indonesia,-12.41.00,139.05.00,932,Stratovolcano,Stratovolcano,Holocene,U
+268052,Hiri,Indonesia,Halmahera-Indonesia,0.9,127.32.00,630,Stratovolcano,Stratovolcano,Holocene,U
+268051,Jailolo,Indonesia,Halmahera-Indonesia,1.08,134.19.00,993,Stratovolcano,Stratovolcano,Holocene,U
+268061,Kie Matubu,Indonesia,Halmahera-Indonesia,11.02,133.43.00,1713,Stratovolcano,Stratovolcano,Holocene,U
+268062,Mare,Indonesia,Halmahera-Indonesia,0.57,127.4,308,Unknown,Other / Unknown,Holocene,U
+268063,Moti,Indonesia,Halmahera-Indonesia,7.34,133.51.00,927,Stratovolcano,Stratovolcano,Holocene,U
+268001,Tarakan,Indonesia,Halmahera-Indonesia,14.52,140.45.00,317,Pyroclastic cone,Cone,Holocene,U
+268071,Tigalalu,Indonesia,Halmahera-Indonesia,0.07,127.42.00,422,Unknown,Other / Unknown,Holocene,U
+268020,Tobaru,Indonesia,Halmahera-Indonesia,2.03,128.07.00,1035,Unknown,Other / Unknown,Holocene,U
+268050,Todoko-Ranu,Indonesia,Halmahera-Indonesia,4.59,134.36.00,979,Caldera,Caldera,Holocene,U
+285031,Niseko,Japan,Hokkaido-Japan,56.35.00,150.59.00,1308,Stratovolcano,Stratovolcano,Holocene,U
+,Shikaribetsu Group,Japan,Hokkaido-Japan,43.28.00,143.08.00,1430,Lava dome,Cone,Holocene,U
+343130,"Tigre, Isla del",Honduras,Honduras,17.34,-97.39.00,774,Stratovolcano,Stratovolcano,Holocene,U
+343160,Utila Island,Honduras,Honduras,16.1,-86.9,74,Pyroclastic cone,Cone,Holocene,U
+343150,"Yojoa, Lago",Honduras,Honduras,30.04.00,-103.23.00,1060,Volcanic field,Crater System,Holocene,U
+343140,"Zacate Grande, Isla",Honduras,Honduras,13.33,-88.03.00,640,Stratovolcano,Stratovolcano,Holocene,U
+283280,Hakkodasan,Japan,Honshu-Japan,50.59.00,154.37.00,1585,Stratovolcano,Stratovolcano,Holocene,U
+283141,Nantaisan,Japan,Honshu-Japan,48.45.00,147.11.00,2486,Stratovolcano,Stratovolcano,Holocene,U
+283003,Oki-Dogo,Japan,Honshu-Japan,38.56.00,138.34.00,151,Shield volcano,Shield Volcano,Anthropology,U
+283142,Omanago Group,Japan,Honshu-Japan,49.27.00,146.56.00,2341,Lava dome,Cone,Holocene,U
+283121,Shiga,Japan,Honshu-Japan,47.28.00,146.39.00,2041,Shield volcano,Shield Volcano,Holocene,U
+283031,Yokodake,Japan,Honshu-Japan,37.27.00,138.32.00,2480,Stratovolcano,Stratovolcano,Holocene,U
+373040,Tungnafellsjokull,Iceland,Iceland-NE,65.15.00,-32.16.00,1523,Stratovolcano,Stratovolcano,Holocene,U
+372040,Tindfjallajokull,Iceland,Iceland-S,76.03.00,-30.56.00,1464,Stratovolcano,Stratovolcano,Holocene,U
+371090,Hofsjokull,Iceland,Iceland-SW,77.53.00,-30.46.00,1765,Subglacial volcano,Subglacial,Holocene,U
+370020,Helgrindur,Iceland,Iceland-W,78.26.00,-27.43.00,986,Pyroclastic cone,Cone,Holocene,U
+234020,Kerguelen Islands,French Southern & Antarctic Lands,Indian O-S,-49.58.00,69.5,1840,Stratovolcano,Stratovolcano,Holocene,U
+234001,Amsterdam Island,Indian Ocean,Indian O-S,-38.23.00,77.52.00,881,Stratovolcano,Stratovolcano,Holocene,U
+234050,"Cochons, Ile Aux",Indian Ocean,Indian O-S,-46.1,50.23.00,775,Stratovolcano,Stratovolcano,Holocene,U
+234040,"Possession, Ile de la",Indian Ocean,Indian O-S,-46.42.00,52.15.00,934,Stratovolcano,Stratovolcano,Holocene,U
+234060,Prince Edward Island,Indian Ocean,Indian O-S,-47.03.00,38.35.00,672,Shield volcano,Shield Volcano,Holocene,U
+233001,"Grille, La",Comoros,Indian O-W,-11.47.00,43.33.00,1087,Shield volcano,Shield Volcano,Holocene,U
+232030,Bazman,Iran,Iran,28.07.00,60,3490,Stratovolcano,Stratovolcano,Fumarolic,U
+232010,Damavand,Iran,Iran,50.51.00,53.49.00,5670,Stratovolcano,Stratovolcano,Holocene,U
+232002,Sabalan,Iran,Iran,42.28.00,60.55.00,4784,Stratovolcano,Stratovolcano,Holocene,U
+232001,Sahand,Iran,Iran,38.15.00,46.43.00,3707,Stratovolcano,Stratovolcano,Holocene,U
+232050,Taftan,Iran,Iran,28.6,61.13.00,3940,Stratovolcano,Stratovolcano,Holocene,U
+,Unnamed,Iran,Iran,39.25.00,47.47.00,,Volcanic field,Crater System,Holocene,U
+284095,Doyo Seamount,Japan,Izu Is-Japan,28.08.00,140.8,-590,Submarine volcano,Submarine Volcano,Fumarolic,U
+284094,Mokuyo Seamount,Japan,Izu Is-Japan,33.27.00,149.32.00,-933,Submarine volcano,Submarine Volcano,Fumarolic,U
+263330,Iyang-Argapura,Indonesia,Java,-8.37.00,113.57.00,3088,Complex volcano,Stratovolcano,Holocene,U
+,"Karaha, Kawah",Indonesia,Java,-7.12.00,108.08.00,1155,Fumarole field,Other / Unknown,Fumarolic,U
+263281,Kawi-Butak,Indonesia,Java,-8.32.00,112.45.00,2651,Stratovolcano,Stratovolcano,Holocene,U
+263110,Kendang,Indonesia,Java,-11.05.00,118.49.00,2594,Stratovolcano,Stratovolcano,Holocene,U
+263260,Lawu,Indonesia,Java,-17.25.00,114.12.00,3265,Stratovolcano,Stratovolcano,Holocene,U
+,Malang Plain,Indonesia,Java,-8.02.00,113.08.00,680,Maar,Maars / Tuff ring,Holocene,U
+263070,Patuha,Indonesia,Java,-9.42.00,107.4,2422,Stratovolcano,Stratovolcano,Holocene,U
+263291,Penanggungan,Indonesia,Java,-17.16.00,113.02.00,1631,Stratovolcano,Stratovolcano,Holocene,U
+263040,Perbakti-Gagak,Indonesia,Java,-7.15.00,117.15.00,1726,Stratovolcano,Stratovolcano,Fumarolic,U
+263010,Pulosari,Indonesia,Java,-11.43.00,121.18.00,1324,Caldera,Caldera,Holocene,U
+263150,Talagabodas,Indonesia,Java,-10.28.00,108.07.00,2201,Stratovolcano,Stratovolcano,Fumarolic,U
+263131,Tampomas,Indonesia,Java,-18.44.00,123.01.00,1690,Stratovolcano,Stratovolcano,Holocene,U
+263231,Telomoyo,Indonesia,Java,-13.02.00,110.4,1864,Stratovolcano,Stratovolcano,Holocene,U
+263230,Ungaran,Indonesia,Java,-10.08.00,115.46.00,2033,Stratovolcano,Stratovolcano,Holocene,U
+,Wayang-Windu,Indonesia,Java,-10.28.00,108.03.00,2182,Lava dome,Cone,Fumarolic,U
+263270,Wilis,Indonesia,Java,-20.28.00,123.38.00,2563,Stratovolcano,Stratovolcano,Holocene,U
+300320,Akhtang,Russia,Kamchatka,55.43.00,159.05.00,1956,Shield volcano,Shield Volcano,Holocene,U
+300450,Alney-Chashakondzha,Russia,Kamchatka,66.56.00,169.47.00,2570,Stratovolcano,Stratovolcano,Holocene,U
+300600,Alngey,Russia,Kamchatka,68.42.00,166.58.00,1822,Stratovolcano,Stratovolcano,Holocene,U
+300390,Anaun,Russia,Kamchatka,56.32.00,159.23.00,1828,Stratovolcano,Stratovolcano,Holocene,U
+300058,Asacha,Russia,Kamchatka,57.55.00,170.47.00,1910,Pyroclastic cone,Cone,Holocene,U
+300042,Belenkaya,Russia,Kamchatka,52.15.00,157.27.00,892,Stratovolcano,Stratovolcano,Holocene,U
+300640,Bely,Russia,Kamchatka,58.28.00,160.53.00,2080,Shield volcano,Shield Volcano,Holocene,U
+300490,Bliznets,Russia,Kamchatka,57.37.00,160.18.00,1244,Stratovolcano,Stratovolcano,Holocene,U
+300087,Bolshe-Bannaya,Russia,Kamchatka,52.9,158.18.00,1200,Lava dome,Cone,Holocene,U
+300300,Bolshoi Payalpan,Russia,Kamchatka,56.28.00,158.18.00,1906,Shield volcano,Shield Volcano,Holocene,U
+300360,Bolshoi-Kekuknaysky,Russia,Kamchatka,64.03.00,172.17.00,1401,Shield volcano,Shield Volcano,Holocene,U
+300460,Cherny,Russia,Kamchatka,57.22.00,160.07.00,1778,Stratovolcano,Stratovolcano,Holocene,U
+300110,Dzenzursky,Russia,Kamchatka,63.37.00,173.22.00,2285,Compound volcano,Stratovolcano,Holocene,U
+300420,Eggella,Russia,Kamchatka,56.57.00,158.52.00,1046,Shield volcano,Shield Volcano,Holocene,U
+300590,Elovsky,Russia,Kamchatka,57.55.00,160.53.00,1381,Shield volcano,Shield Volcano,Holocene,U
+300510,Fedotych,Russia,Kamchatka,57.13.00,160.4,965,Shield volcano,Shield Volcano,Holocene,U
+300210,Gamchen,Russia,Kamchatka,70.14.00,171.43.00,2539,Complex volcano,Stratovolcano,Holocene,U
+300380,Geodesistoy,Russia,Kamchatka,56.33.00,159.07.00,1170,Shield volcano,Shield Volcano,Holocene,U
+300057,Golaya,Russia,Kamchatka,56.23.00,170.07.00,858,Shield volcano,Shield Volcano,Holocene,U
+300550,Gorny Institute,Russia,Kamchatka,57.33.00,160.2,2125,Stratovolcano,Stratovolcano,Holocene,U
+300280,Ichinsky,Russia,Kamchatka,66.18.00,168.58.00,3596,Stratovolcano,Stratovolcano,Holocene,U
+300710,Iettunup,Russia,Kamchatka,58.4,161.08.00,1340,Shield volcano,Shield Volcano,Holocene,U
+300670,Iktunup,Russia,Kamchatka,58.08.00,161.17.00,2300,Shield volcano,Shield Volcano,Holocene,U
+300620,Kaileney,Russia,Kamchatka,57.8,161.07.00,1582,Shield volcano,Shield Volcano,Holocene,U
+300010,Kambalny,Russia,Kamchatka,56.06.00,170.35.00,2116,Stratovolcano,Stratovolcano,Holocene,U
+300251,Kamen,Russia,Kamchatka,56.02.00,169.53.00,4585,Stratovolcano,Stratovolcano,Holocene,U
+300500,Kebeney,Russia,Kamchatka,57.1,160.33.00,1527,Shield volcano,Shield Volcano,Holocene,U
+300410,Kekurny,Russia,Kamchatka,56.4,159.25.00,1377,Shield volcano,Shield Volcano,Holocene,U
+300041,Kell,Russia,Kamchatka,52.05.00,157.35.00,900,Stratovolcano,Stratovolcano,Holocene,U
+300220,Komarov,Russia,Kamchatka,55.33.00,172.05.00,2065,Stratovolcano,Stratovolcano,Holocene,U
+300330,Kozyrevsky,Russia,Kamchatka,55.58.00,158.38.00,2016,Shield volcano,Shield Volcano,Holocene,U
+300400,Krainy,Russia,Kamchatka,56.37.00,159.03.00,1554,Shield volcano,Shield Volcano,Holocene,U
+300370,Kulkev,Russia,Kamchatka,56.37.00,158.37.00,915,Shield volcano,Shield Volcano,Holocene,U
+300530,Leutongey,Russia,Kamchatka,62.06.00,172.47.00,1318,Shield volcano,Shield Volcano,Holocene,U
+300290,Maly Payalpan,Russia,Kamchatka,56.22.00,158.38.00,1802,Shield volcano,Shield Volcano,Holocene,U
+300001,Mashkovtsev,Russia,Kamchatka,51.1,157.12.00,503,Stratovolcano,Stratovolcano,Holocene,U
+300570,Mezhdusopochny,Russia,Kamchatka,57.47.00,160.25.00,1641,Shield volcano,Shield Volcano,Holocene,U
+300650,Nylgimelkin,Russia,Kamchatka,58.37.00,161.05.00,1764,Shield volcano,Shield Volcano,Holocene,U
+300052,Olkoviy Volcanic Group,Russia,Kamchatka,52.02.00,157.53.00,681,Volcanic field,Crater System,Holocene,U
+300055,Ostanets,Russia,Kamchatka,54.26.00,162.22.00,719,Shield volcano,Shield Volcano,Holocene,U
+300680,Ostry,Russia,Kamchatka,58.18.00,161.22.00,2552,Stratovolcano,Stratovolcano,Holocene,U
+300056,Otdelniy,Russia,Kamchatka,55.41.00,164.15.00,814,Shield volcano,Shield Volcano,Holocene,U
+300051,Ozernoy,Russia,Kamchatka,52.28.00,157.38.00,562,Shield volcano,Shield Volcano,Holocene,U
+300054,Piratkovsky,Russia,Kamchatka,53.53.00,171.09.00,1322,Stratovolcano,Stratovolcano,Holocene,U
+300310,Plosky,Russia,Kamchatka,55.2,158.47.00,1236,Shield volcano,Shield Volcano,Holocene,U
+300630,Plosky,Russia,Kamchatka,58.23.00,160.25.00,1255,Shield volcano,Shield Volcano,Holocene,U
+300470,Pogranychny,Russia,Kamchatka,57.25.00,159.8,1427,Shield volcano,Shield Volcano,Holocene,U
+300340,Romanovka,Russia,Kamchatka,56.05.00,158.8,1442,Stratovolcano,Stratovolcano,Holocene,U
+300201,Schmidt,Russia,Kamchatka,55.32.00,161.03.00,2020,Shield volcano,Shield Volcano,Holocene,U
+300520,Sedanka Lava Field,Russia,Kamchatka,62.17.00,161.07.00,1399,Shield volcano,Shield Volcano,Holocene,U
+300700,Severny,Russia,Kamchatka,58.28.00,161.27.00,1936,Shield volcano,Shield Volcano,Holocene,U
+300580,Shishel,Russia,Kamchatka,57.45.00,160.37.00,2525,Shield volcano,Shield Volcano,Holocene,U
+300690,Snegovoy,Russia,Kamchatka,58.2,161.37.00,2169,Shield volcano,Shield Volcano,Holocene,U
+300660,Snezhniy,Russia,Kamchatka,58.02.00,160.8,2169,Shield volcano,Shield Volcano,Holocene,U
+300560,Titila,Russia,Kamchatka,63.46.00,161.48.00,1523,Shield volcano,Shield Volcano,Holocene,U
+300082,Tolmachev Dol,Russia,Kamchatka,53.03.00,157.58.00,1021,Cinder cone,Cone,Holocene,U
+300540,Tuzovsky,Russia,Kamchatka,57.32.00,175.07.00,1516,Shield volcano,Shield Volcano,Holocene,U
+300241,Udina,Russia,Kamchatka,67.38.00,168.47.00,2886,Stratovolcano,Stratovolcano,Holocene,U
+300610,Uka,Russia,Kamchatka,68.46.00,160.59.00,1607,Shield volcano,Shield Volcano,Holocene,U
+300350,Uksichan,Russia,Kamchatka,56.08.00,158.38.00,1692,Shield volcano,Shield Volcano,Holocene,U
+,Unnamed,Russia,Kamchatka,57.22.00,159.35.00,1185,Shield volcano,Shield Volcano,Holocene,U
+,Unnamed,Russia,Kamchatka,52.57.00,157.02.00,610,Cinder cone,Cone,Holocene,U
+,Unnamed,Russia,Kamchatka,53.32.00,158.52.00,450,Shield volcano,Shield Volcano,Holocene,U
+,Unnamed,Russia,Kamchatka,53.28.00,158.3,700,Shield volcano,Shield Volcano,Holocene,U
+300440,Verkhovoy,Russia,Kamchatka,56.52.00,159.53.00,1400,Shield volcano,Shield Volcano,Holocene,U
+300059,Visokiy,Russia,Kamchatka,59.15.00,172.33.00,1227,Shield volcano,Shield Volcano,Holocene,U
+300720,Voyampolsky,Russia,Kamchatka,64.14.00,170.31.00,1103,Shield volcano,Shield Volcano,Holocene,U
+300221,Vysoky,Russia,Kamchatka,56.04.00,172.45.00,2129,Stratovolcano,Stratovolcano,Holocene,U
+300021,Yavinsky,Russia,Kamchatka,59.53.00,166.29.00,646,Cinder cone,Cone,Holocene,U
+300480,Zaozerny,Russia,Kamchatka,57.28.00,160.35.00,1349,Shield volcano,Shield Volcano,Holocene,U
+300242,Zimina,Russia,Kamchatka,69.22.00,170.03.00,3057,Stratovolcano,Stratovolcano,Holocene,U
+242022,Giggenbach,New Zealand,Kermadec Is,-30.36.00,-189.52.00,-65,Submarine volcano,Submarine Volcano,Fumarolic,U
+242021,Macauley,New Zealand,Kermadec Is,-30.21.00,-185.55.00,238,Caldera,Caldera,Holocene,U
+242001,Wright,New Zealand,Kermadec Is,-32.25.00,-179.18.00,-900,Submarine volcanoes,Submarine Volcano,Fumarolic,U
+290040,Berutarubesan [Berutarube],Russia,Kuril Is,51.42.00,161.32.00,1221,Stratovolcano,Stratovolcano,Holocene,U
+290060,Hitokappu Volcano Group,Russia,Kuril Is,58.17.00,153.43.00,1610,Stratovolcano,Stratovolcano,Holocene,U
+290111,Ivao Group,Russia,Kuril Is,57.39.00,160.16.00,1426,Cinder cone,Cone,Holocene,U
+,Lomonosov Group,Russia,Kuril Is,50.25.00,155.43.00,1681,Cinder cone,Cone,Holocene,U
+290161,Milna,Russia,Kuril Is,59.35.00,164.06.00,1504,Somma volcano,Stratovolcano,Holocene,U
+290110,Rakkibetsudake [Demon],Russia,Kuril Is,45.5,149.25.00,1205,Stratovolcano,Stratovolcano,Holocene,U
+290021,Ruruidake [Smirnov],Russia,Kuril Is,51.34.00,148.19.00,1486,Stratovolcano,Stratovolcano,Holocene,U
+290331,Shirinki,Russia,Kuril Is,50.2,155.38.00,761,Stratovolcano,Stratovolcano,Holocene,U
+290211,Srednii,Russia,Kuril Is,56.46.00,166.53.00,36,Submarine volcano,Submarine Volcano,Holocene,U
+290191,Uratman,Russia,Kuril Is,47.12.00,152.25.00,678,Somma volcano,Stratovolcano,Holocene,U
+290370,Vernadskii Ridge,Russia,Kuril Is,50.55.00,156.37.00,1183,Cinder cone,Cone,Holocene,U
+264001,Buyan-Bratan,Indonesia,Lesser Sunda Is,-12.43.00,117.13.00,2244,Caldera,Caldera,Holocene,U
+264240,Ililabalekan,Indonesia,Lesser Sunda Is,-8.55.00,123.38.00,1018,Stratovolcano,Stratovolcano,Fumarolic,U
+264170,Ilimuda,Indonesia,Lesser Sunda Is,-15.59.00,134.41.00,881,Stratovolcano,Stratovolcano,Fumarolic,U
+264080,Inierie,Indonesia,Lesser Sunda Is,-22.35.00,121.35.00,2245,Stratovolcano,Stratovolcano,Fumarolic,U
+,Poco Leok,Indonesia,Lesser Sunda Is,-9.08.00,120.48.00,1675,Unknown,Other / Unknown,Fumarolic,U
+264060,"Sano, Wai",Indonesia,Lesser Sunda Is,-20.15.00,120.07.00,1319,Caldera,Caldera,Holocene,U
+264120,Sukaria Caldera,Indonesia,Lesser Sunda Is,-21.12.00,122.17.00,1500,Caldera,Caldera,Fumarolic,U
+273088,Ambalatungan Group,Philippines,Luzon-Philippines,17.32,121.1,2329,Compound volcano,Stratovolcano,Fumarolic,U
+,Amorong,Philippines,Luzon-Philippines,28.48.00,133.25.00,376,Unknown,Other / Unknown,Fumarolic,U
+273084,Arayat,Philippines,Luzon-Philippines,15.2,132.22.00,1026,Stratovolcano,Stratovolcano,Holocene,U
+273050,Banahaw,Philippines,Luzon-Philippines,14.07,121.48.00,2158,Complex volcano,Stratovolcano,Holocene,U
+273090,Cagua,Philippines,Luzon-Philippines,21.42,124.03.00,1133,Stratovolcano,Stratovolcano,Holocene,U
+273042,Isarog,Philippines,Luzon-Philippines,23.58,123.38.00,1966,Stratovolcano,Stratovolcano,Holocene,U
+273044,Malindig,Philippines,Luzon-Philippines,13.24,122.18.00,1157,Stratovolcano,Stratovolcano,Hot Springs,U
+273031,Masaraga,Philippines,Luzon-Philippines,13.31,132.58.00,1294,Stratovolcano,Stratovolcano,Holocene,U
+273087,Patoc,Philippines,Luzon-Philippines,19.27,121.38.00,1865,Stratovolcano,Stratovolcano,Fumarolic,U
+273020,Pocdol Mountains,Philippines,Luzon-Philippines,13.05,138.58.00,1102,Compound volcano,Stratovolcano,Holocene,U
+273060,San Pablo Volcanic Field,Philippines,Luzon-Philippines,14.12,121.3,1090,Stratovolcano,Stratovolcano,Holocene,U
+233011,Ambre-Bobaomby,Madagascar,Madagascar,-12.6,49.15.00,1475,Volcanic field,Crater System,Holocene,U
+233013,Ankaizina Field,Madagascar,Madagascar,-14.3,49.07.00,2878,Cinder cone,Cone,Holocene,U
+233012,Nosy-Be,Madagascar,Madagascar,-13.32.00,48.48.00,214,Cinder cone,Cone,Holocene,U
+233015,Vakinankaratra,Madagascar,Madagascar,-20.25.00,61.42.00,2644,Cinder cone,Cone,Holocene,U
+284141,Ahyi,United States,Mariana Is-C Pacific,20.42,145.03.00,-75,Submarine volcano,Submarine Volcano,Uncertain,U
+284200,Anatahan,United States,Mariana Is-C Pacific,16.35,146.07.00,790,Stratovolcano,Stratovolcano,Holocene,U
+284210,Esmeralda Bank,United States,Mariana Is-C Pacific,29.58.00,149.09.00,-74,Submarine volcano,Submarine Volcano,Fumarolic,U
+284220,Forecast Seamount,United States,Mariana Is-C Pacific,13.4,144.32.00,-1456,Submarine volcano,Submarine Volcano,Fumarolic,U
+284143,Maug Islands,United States,Mariana Is-C Pacific,20.02,145.22.00,227,Stratovolcano,Stratovolcano,Fumarolic,U
+284192,Sarigan,United States,Mariana Is-C Pacific,27.48.00,146.18.00,538,Stratovolcano,Stratovolcano,Holocene,U
+284230,Seamount X,United States,Mariana Is-C Pacific,13.25,144.02.00,-1230,Submarine volcano,Submarine Volcano,Fumarolic,U
+284191,Zealandia Bank,United States,Mariana Is-C Pacific,17.28,146.25.00,0,Stratovolcano,Stratovolcano,Holocene,U
+341094,"Atlixcos, Los",Mexico,Mexico,20.21,-104.47.00,775,Shield volcano,Shield Volcano,Holocene,U
+341005,Coronado,Mexico,Mexico,29.08.00,-121.33.00,440,Stratovolcano,Stratovolcano,Fumarolic,U
+341022,Durango Volcanic Field,Mexico,Mexico,24.15.00,-104.45.00,2075,Cinder cone,Cone,Holocene,U
+341097,"Gloria, La",Mexico,Mexico,19.33,-97.25.00,3500,Volcanic field,Crater System,Holocene,U
+341006,Guadalupe,Mexico,Mexico,29.07.00,-118.28.00,1100,Shield volcano,Shield Volcano,Holocene,U
+341023,"Isabel, Isla",Mexico,Mexico,35.08.00,-119.46.00,95,Stratovolcano,Stratovolcano,Holocene,U
+341082,Iztaccihuatl,Mexico,Mexico,21.59,-108.42.00,5230,Stratovolcano,Stratovolcano,Holocene,U
+341004,Jaraguay Volcanic Field,Mexico,Mexico,29.33.00,-114.5,960,Cinder cone,Cone,Holocene,U
+341031,Mascota Volcanic Field,Mexico,Mexico,29.27.00,-117.37.00,2525,Shield volcano,Shield Volcano,Holocene,U
+341095,Naolinco Volcanic Field,Mexico,Mexico,20.07,-97.15.00,2000,Pyroclastic cone,Cone,Holocene,U
+341081,Papayo,Mexico,Mexico,24.08.00,-98.7,3600,Lava dome,Cone,Holocene,U
+341001,Pinacate,Mexico,Mexico,32.25.00,-113.5,1183,Cinder cone,Cone,Holocene,U
+341007,San Borja Volcanic Field,Mexico,Mexico,28.5,-114.15.00,1360,Cinder cone,Cone,Holocene,U
+341003,"San Luis, Isla",Mexico,Mexico,45.13.00,-120.48.00,183,Tuff cone,Maars / Tuff ring,Holocene,U
+341002,San Quintin Volcanic Field,Mexico,Mexico,37.48.00,-131.36.00,260,Cinder cone,Cone,Holocene,U
+341024,Sanganguey,Mexico,Mexico,21.45,-105.13.00,2340,Stratovolcano,Stratovolcano,Holocene,U
+341092,Serdan-Oriental,Mexico,Mexico,19.27,-97.47.00,3485,Tuff cone,Maars / Tuff ring,Holocene,U
+341011,"Tortuga, Isla",Mexico,Mexico,34.18.00,-125.41.00,224,Shield volcano,Shield Volcano,Holocene,U
+271030,Apo,Philippines,Mindanao-Philippines,22.29,129.29.00,2938,Stratovolcano,Stratovolcano,Fumarolic,U
+,Balatocan,Philippines,Mindanao-Philippines,8.8,125.32.00,2450,Compound volcano,Stratovolcano,Fumarolic,U
+271010,Balut,Philippines,Mindanao-Philippines,11.38,131.16.00,840,Stratovolcano,Stratovolcano,Holocene,U
+271061,Kalatungan,Philippines,Mindanao-Philippines,8.35,124.8,2824,Stratovolcano,Stratovolcano,Holocene,U
+271050,Latukan,Philippines,Mindanao-Philippines,8.05,124.47.00,2338,Stratovolcano,Stratovolcano,Holocene,U
+271031,Leonard Range,Philippines,Mindanao-Philippines,13.22,126.47.00,1080,Stratovolcano,Stratovolcano,Holocene,U
+271040,Makaturing,Philippines,Mindanao-Philippines,17.44,129.17.00,1818,Stratovolcano,Stratovolcano,Holocene,U
+271071,Malindang,Philippines,Mindanao-Philippines,8.22,124.03.00,2404,Stratovolcano,Stratovolcano,Holocene,U
+271020,Matutum,Philippines,Mindanao-Philippines,6.36,126.17.00,2262,Stratovolcano,Stratovolcano,Holocene,U
+,Paco,Philippines,Mindanao-Philippines,18.53,125.52.00,524,Stratovolcano,Stratovolcano,Anthropology,U
+303040,Dariganga Volcanic Field,Mongolia,Mongolia,57.34.00,118.39.00,1778,Cinder cone,Cone,Holocene,U
+303020,Khanuy Gol,Mongolia,Mongolia,49.07.00,103.15.00,1886,Volcanic field,Crater System,Holocene,U
+303010,Taryatu-Chulutu,Mongolia,Mongolia,50.13.00,100.35.00,2326,Volcanic field,Crater System,Holocene,U
+252050,Bola,Papua New Guinea,New Britain-SW Pac,-7.21.00,150.38.00,1116,Stratovolcano,Stratovolcano,Holocene,U
+252030,Garove,Papua New Guinea,New Britain-SW Pac,-15.27.00,157.31.00,368,Stratovolcano,Stratovolcano,Holocene,U
+252070,Krummel-Garbuna-Welcker,Papua New Guinea,New Britain-SW Pac,-11.56.00,150.27.00,564,Stratovolcano,Stratovolcano,Holocene,U
+252021,Mundua,Papua New Guinea,New Britain-SW Pac,-14.24.00,154.39.00,171,Complex volcano,Stratovolcano,Holocene,U
+253011,Hydrographers Range,Papua New Guinea,New Guinea,-9,148.37.00,1915,Stratovolcano,Stratovolcano,Holocene,U
+253003,Koranga,Papua New Guinea,New Guinea,-7.33.00,157.48.00,1500,Explosion crater,Crater System,Holocene,U
+253004,Madilogo,Papua New Guinea,New Guinea,-9.2,147.57.00,850,Pyroclastic cone,Cone,Holocene,U
+253021,Managlase Plateau,Papua New Guinea,New Guinea,-9.08.00,148.33.00,1342,Volcanic field,Crater System,Anthropology,U
+253031,Sessagara,Papua New Guinea,New Guinea,-18.09.00,151.31.00,493,Unknown,Other / Unknown,Holocene,U
+251001,Blup Blup,Papua New Guinea,New Guinea-NE of,-11.27.00,154.05.00,402,Stratovolcano,Stratovolcano,Holocene,U
+251011,Boisa,Papua New Guinea,New Guinea-NE of,-19.34.00,160.03.00,240,Stratovolcano,Stratovolcano,Holocene,U
+251002,Kadovar,Papua New Guinea,New Guinea-NE of,-13.08.00,153.48.00,365,Stratovolcano,Stratovolcano,Holocene,U
+251060,Umboi,Papua New Guinea,New Guinea-NE of,-14.52.00,161.52.00,1335,Complex volcano,Stratovolcano,Holocene,U
+254010,Lihir,Papua New Guinea,New Ireland-SW Pacif,-5.05.00,162.42.00,700,Volcanic complex,Crater System,Holocene,U
+241150,Brothers,New Zealand,New Zealand,-48.35.00,180.15.00,-1350,Submarine volcano,Submarine Volcano,Fumarolic,U
+241101,Clark,New Zealand,New Zealand,-43.26.00,190.59.00,-860,Submarine volcano,Submarine Volcano,Fumarolic,U
+241131,Rumble II West,New Zealand,New Zealand,-40.53.00,186.47.00,-1200,Submarine volcano,Submarine Volcano,Fumarolic,U
+241120,Rumble IV,New Zealand,New Zealand,-36.13.00,178.05.00,-500,Submarine volcano,Submarine Volcano,Fumarolic,U
+241110,Rumble V,New Zealand,New Zealand,-38.22.00,181.16.00,-400,Submarine volcano,Submarine Volcano,Fumarolic,U
+241102,Tangaroa,New Zealand,New Zealand,-41.21.00,178.28.00,-600,Submarine volcano,Submarine Volcano,Fumarolic,U
+344140,"Azul, Volcan",Nicaragua,Nicaragua,12.53,-84.27.00,201,Cinder cone,Cone,Holocene,U
+344101,Granada,Nicaragua,Nicaragua,11.9,-101.19.00,250,Fissure vent,Crater System,Holocene,U
+,Maderas,Nicaragua,Nicaragua,18.26,-93.35.00,1394,Stratovolcano,Stratovolcano,Holocene,U
+344110,Mombacho,Nicaragua,Nicaragua,24.46.00,-101.08.00,1344,Stratovolcano,Stratovolcano,Holocene,U
+344092,Nejapa-Miraflores,Nicaragua,Nicaragua,12.12,-86.32.00,360,Fissure vent,Crater System,Holocene,U
+344060,Rota,Nicaragua,Nicaragua,12.55,-87.15.00,832,Stratovolcano,Stratovolcano,Holocene,U
+344111,Zapatera,Nicaragua,Nicaragua,12.13,-86.22.00,629,Shield volcano,Shield Volcano,Holocene,U
+354004,Andahua-Orcopampa,Peru,Peru,-15.42.00,-72.33.00,4713,Lava dome,Cone,Holocene,U
+354001,"Auquihuato, Cerro",Peru,Peru,-15.07.00,-73.18.00,4980,Stratovolcano,Stratovolcano,Holocene,U
+354060,"Casiri, Nevados",Peru,Peru,-25.05.00,-82.09.00,5650,Stratovolcano,Stratovolcano,Holocene,U
+354005,Huambo,Peru,Peru,-16.18.00,-72.08.00,4554,Stratovolcano,Stratovolcano,Holocene,U
+354000,Kimsachata-Oroscocha,Peru,Peru,-16.11.00,-77.03.00,3848,Stratovolcano,Stratovolcano,Holocene,U
+354008,"Nicholson, Cerro",Peru,Peru,-20.21.00,-83.34.00,2525,Cinder cone,Cone,Holocene,U
+354002,Sara Sara,Peru,Peru,-15.33.00,-73.45.00,5522,Cinder cone,Cone,Holocene,U
+354031,Ticsani,Peru,Peru,-28.39.00,-79.58.00,5382,Stratovolcano,Stratovolcano,Holocene,U
+272050,Cabalian,Philippines,Philippines-C,14.45,128.38.00,912,Stratovolcano,Stratovolcano,Holocene,U
+272010,Cuernos de Negros,Philippines,Philippines-C,9.25,123.17.00,1862,Stratovolcano,Stratovolcano,Holocene,U
+272070,Mahagnao,Philippines,Philippines-C,24.42.00,138.48.00,860,Stratovolcano,Stratovolcano,Fumarolic,U
+272030,Mandalagan,Philippines,Philippines-C,11.05,123.25.00,1885,Stratovolcano,Stratovolcano,Holocene,U
+272040,Silay,Philippines,Philippines-C,11.17,123.23.00,1510,Stratovolcano,Stratovolcano,Holocene,U
+221022,Hanish,Yemen,Red Sea,14.12,43.13.00,422,Shield volcano,Shield Volcano,Holocene,U
+221021,Zukur,Yemen,Red Sea,14.02,43.15.00,624,Shield volcano,Shield Volcano,Holocene,U
+302070,Azas Plateau,Russia,Russia-SE,59.13.00,103.03.00,2765,Cinder cone,Cone,Holocene,U
+302060,Jom-Bolok,Russia,Russia-SE,63.53.00,99.21.00,2047,Cinder cone,Cone,Holocene,U
+,Southern Sikhote-Alin,Russia,Russia-SE,44.5,135.5,0,Volcanic field,Crater System,Holocene,U
+302050,Tunkin Depression,Russia,Russia-SE,51.5,102.5,1200,Volcanic field,Crater System,Holocene,U
+302040,Vitim Volcanic Field,Russia,Russia-SE,54.15.00,113.25.00,1250,Cinder cone,Cone,Holocene,U
+282021,Yokoatejima,Japan,Ryukyu Is,41.17.00,144.37.00,495,Stratovolcano,Stratovolcano,Holocene,U
+244020,Tutuila,American Samoa,Samoa-SW Pacific,-14.29.00,-181.42.00,653,Tuff cone,Maars / Tuff ring,Holocene,U
+244030,Upolu,Samoa,Samoa-SW Pacific,-28.35.00,-172.12.00,1100,Shield volcano,Shield Volcano,Holocene,U
+244001,Ta'u,United States,Samoa-SW Pacific,-14.23.00,-176.34.00,931,Shield volcano,Shield Volcano,Holocene,U
+,Leizhou Bandao,China,SE Asia,21.23,110.18.00,259,Volcanic field,Crater System,Holocene,U
+275100,Singu Plateau,Myanmar,SE Asia,22.7,96.38.00,507,Fissure vent,Crater System,Holocene,U
+275020,Ly Son Group,Vietnam,SE Asia,15.38,109.12.00,157,Volcanic field,Crater System,Holocene,U
+275070,Veteran,Vietnam,SE Asia,10.23,109.05.00,-50,Submarine volcano,Submarine Volcano,Fumarolic,U
+333040,Mehetia,France,Society Is-C Pacific,-31.34.00,-149.08.00,389,Stratovolcano,Stratovolcano,Anthropology,U
+333030,Moua Pihaa,France,Society Is-C Pacific,-23.25.00,-156.45.00,-312,Submarine volcano,Submarine Volcano,Seismicity,U
+333020,Rocard,France,Society Is-C Pacific,-28.02.00,-157.46.00,-2515,Submarine volcano,Submarine Volcano,Seismicity,U
+333010,Teahitia,France,Society Is-C Pacific,-26.24.00,-161.41.00,-1743,Submarine volcano,Submarine Volcano,Seismicity,U
+255053,Coleman Seamount,Solomon Is.,Solomon Is-SW Pacifi,-22.01.00,157.16.00,-717,Submarine volcano,Submarine Volcano,Holocene,U
+255052,Kana Keoki,Solomon Is.,Solomon Is-SW Pacifi,-9.15.00,157.03.00,-700,Submarine volcano,Submarine Volcano,Holocene,U
+255061,Unnamed,Solomon Is.,Solomon Is-SW Pacifi,-9.32.00,158.03.00,-240,Submarine volcanoes,Submarine Volcano,Holocene,U
+266120,Klabat,Indonesia,Sulawesi-Indonesia,8.34,125.31.00,1968,Stratovolcano,Stratovolcano,Fumarolic,U
+266040,Riendengan-Sempu,Indonesia,Sulawesi-Indonesia,1.13,136.38.00,1549,Caldera,Caldera,Fumarolic,U
+266070,Tondano Caldera,Indonesia,Sulawesi-Indonesia,1.23,125.23.00,1202,Caldera,Caldera,Fumarolic,U
+261210,"Daun, Bukit",Indonesia,Sumatra,-3.38.00,102.37.00,2467,Stratovolcano,Stratovolcano,Fumarolic,U
+261280,Hulubelu,Indonesia,Sumatra,-10.34.00,104.59.00,849,Caldera,Caldera,Fumarolic,U
+261200,Hululais,Indonesia,Sumatra,-7.07.00,105.59.00,2122,Compound volcano,Stratovolcano,Fumarolic,U
+,Hutapanjang,Indonesia,Sumatra,-2.33.00,101.6,2021,Stratovolcano,Stratovolcano,Holocene,U
+,Hutapanjang,Indonesia,Sumatra,-7.33.00,101.6,2021,Stratovolcano,Stratovolcano,Holocene,U
+,"Lumut Balai, Bukit",Indonesia,Sumatra,-4.22.00,104.02.00,2055,Stratovolcano,Stratovolcano,Fumarolic,U
+261121,Malintang,Indonesia,Sumatra,0.47,100.07.00,1983,Stratovolcano,Stratovolcano,Holocene,U
+,Pendan,Indonesia,Sumatra,-3.22.00,102.02.00,0,Unknown,Other / Unknown,Holocene,U
+261290,Rajabasa,Indonesia,Sumatra,-6.18.00,115.25.00,1281,Stratovolcano,Stratovolcano,Fumarolic,U
+261260,Sekincau Belirang,Indonesia,Sumatra,-6.47.00,109.17.00,1717,Caldera,Caldera,Fumarolic,U
+261080,Sinabung,Indonesia,Sumatra,3.17,104.32.00,2460,Stratovolcano,Stratovolcano,Holocene,U
+261130,Talakmau,Indonesia,Sumatra,1.19,100.38.00,2919,Complex volcano,Stratovolcano,Holocene,U
+261090,Toba,Indonesia,Sumatra,12.08,112.02.00,2157,Caldera,Caldera,Holocene,U
+244050,Wallis Islands,Wallis & Futuna,SW Pacific,-13.3,-176.17.00,143,Shield volcano,Shield Volcano,Holocene,U
+230010,Sharat Kovakab,Syria,Syria,44.56.00,54.18.00,516,Volcanic field,Crater System,Holocene,U
+,Unnamed,Syria,Syria,38.08.00,51.25.00,945,Volcanic field,Crater System,Holocene,U
+,Unnamed,Syria,Syria,33.15.00,40.18.00,1197,Volcanic field,Crater System,Holocene,U
+,Unnamed,Syria,Syria,42.58.00,43.05.00,1436,Volcanic field,Crater System,Holocene,U
+243061,Kao,Tonga,Tonga-SW Pacific,-30.08.00,-175.16.00,1009,Stratovolcano,Stratovolcano,Holocene,U
+243001,Unnamed,Tonga,Tonga-SW Pacific,-24.8,-177.02.00,-385,Submarine volcano,Submarine Volcano,Fumarolic,U
+243011,Unnamed,Tonga,Tonga-SW Pacific,-21.15.00,-176.15.00,-65,Submarine volcano,Submarine Volcano,Holocene,U
+213004,Acigol-Nevsehir,Turkey,Turkey,46.57.00,44.21.00,1683,Maar,Maars / Tuff ring,Holocene,U
+213040,Ararat,Turkey,Turkey,39.7,44.3,5165,Stratovolcano,Stratovolcano,Holocene,U
+213010,Erciyes Volcanic Complex,Turkey,Turkey,46.51.00,42.27.00,3864,Stratovolcano,Stratovolcano,Holocene,U
+,Girekol,Turkey,Turkey,39.17.00,43.33.00,0,Unknown,Other / Unknown,Holocene,U
+213003,Gollu Dag,Turkey,Turkey,38.25.00,34.57.00,2143,Lava dome,Cone,Holocene,U
+213002,Hasandag-Keciboyduran,Turkey,Turkey,38.13.00,34.17.00,3253,Stratovolcano,Stratovolcano,Holocene,U
+213011,Karaca Dag,Turkey,Turkey,38.07.00,40.23.00,1957,Shield volcano,Shield Volcano,Holocene,U
+213000,Kula,Turkey,Turkey,38.58.00,28.52.00,750,Cinder cone,Cone,Holocene,U
+,Suphan Dagi,Turkey,Turkey,39.32.00,43.22.00,4434,Stratovolcano,Stratovolcano,Holocene,U
+213030,Tenduruk Dagi,Turkey,Turkey,44.56.00,57.34.00,3514,Shield volcano,Shield Volcano,Holocene,U
+329010,Uinkaret Field,United States,US-Arizona,36.38.00,-113.13.00,1555,Volcanic field,Crater System,Holocene,U
+323100,Clear Lake Volcanic Field,United States,US-California,39.37.00,-123.17.00,1439,Volcanic field,Crater System,Holocene,U
+,Lavic Lake,United States,US-California,35.15.00,-126.25.00,1495,Volcanic field,Crater System,Holocene,U
+323150,Mammoth Mountain,United States,US-California,47.31.00,-119.32.00,3369,Cinder cone,Cone,Holocene,U
+323200,Salton Buttes,United States,US-California,36.17.00,-125.16.00,-40,Cinder cone,Cone,Holocene,U
+323160,Ubehebe Craters,United States,US-California,37.02.00,-117.45.00,752,Maar,Maars / Tuff ring,Holocene,U
+327110,Carrizozo,United States,US-New Mexico,34.18.00,-106.33.00,1731,Cinder cone,Cone,Holocene,U
+322190,Jordan Craters,United States,US-Oregon,45.27.00,-117.46.00,1473,Volcanic field,Crater System,Holocene,U
+,Santa Clara,United States,US-Utah,41.17.00,-123.25.00,1465,Volcanic field,Crater System,Holocene,U
+257021,Mere Lava,Vanuatu,Vanuatu-SW Pacific,-14.45.00,168.05.00,1028,Stratovolcano,Stratovolcano,Holocene,U
+257001,Motlav,Vanuatu,Vanuatu-SW Pacific,-14.07.00,168.07.00,411,Stratovolcano,Stratovolcano,Holocene,U
+257081,Nguna-Emau,Vanuatu,Vanuatu-SW Pacific,-24.32.00,173.53.00,589,Stratovolcano,Stratovolcano,Holocene,U
+284137,Daikoku,Japan,Volcano Is-Japan,26.24.00,147.14.00,-323,Submarine volcano,Submarine Volcano,Fumarolic,U
+284097,Kaikata Seamount,Japan,Volcano Is-Japan,37.07.00,155.29.00,-165,Submarine volcano,Submarine Volcano,Fumarolic,U
+360080,"Diables, Morne aux",Dominica,W Indies,25.12.00,-61.43.00,861,Stratovolcano,Stratovolcano,Fumarolic,U
+360090,"Diablotins, Morne",Dominica,W Indies,23.23,-67.37.00,1430,Stratovolcano,Stratovolcano,Holocene,U
+360170,St. Catherine,Grenada,W Indies,12.15,-62.07.00,840,Stratovolcano,Stratovolcano,Holocene,U
+360040,Nevis Peak,Netherlands,W Indies,17.15,-62.58.00,985,Stratovolcano,Stratovolcano,Holocene,U
+,Malinao,Philippines,Luzon-Philippines,20.02,132.57.00,1548,Stratovolcano,Stratovolcano,Fumarolic,U1
+284121,Kita-Fukutokutai,Japan,Volcano Is-Japan,30.57.00,147.57.00,-73,Submarine volcano,Submarine Volcano,Holocene,U1
+283143,Takaharayama,Japan,Honshu-Japan,36.9,151.57.00,1795,Stratovolcano,Stratovolcano,Holocene,U7
+,May-ya-moto,"Congo, DRC",Africa-C,-1.33.00,29.33.00,950,Fumarole field,Other / Unknown,Fumarolic,Unknown
+223070,Bufumbira,Uganda,Africa-C,-6.04.00,40.23.00,2100,Cinder cone,Cone,Holocene,Unknown
+223002,Kyatwa,Uganda,Africa-C,0.45,30.25.00,1430,Tuff cone,Maars / Tuff ring,Holocene,Unknown
+222021,Marsabit,Kenya,Africa-E,2.32,38.37.00,1707,Shield volcano,Shield Volcano,Holocene,Unknown
+225040,Kutum Volcanic Field,Sudan,Africa-N,14.57,26.25.00,1779,Scoria cone,Cone,Holocene,Unknown
+,"Umm Arafieb, Jebel",Sudan,Africa-N,18.17,34.23.00,0,Shield volcano,Shield Volcano,Holocene,Unknown
+221101,Nabro,Eritrea,Africa-NE,13.37,41.7,2218,Stratovolcano,Stratovolcano,Holocene,Unknown
+221110,Afdera,Ethiopia,Africa-NE,14.28,54.13.00,1250,Stratovolcano,Stratovolcano,Holocene,Unknown
+221300,Chiracha,Ethiopia,Africa-NE,7.05,38.12.00,1636,Stratovolcano,Stratovolcano,Holocene,Unknown
+221293,Hobicha Caldera,Ethiopia,Africa-NE,7.18,38.23.00,1800,Caldera,Caldera,Holocene,Unknown
+221320,Korath Range,Ethiopia,Africa-NE,6.57,49.52.00,912,Tuff cone,Maars / Tuff ring,Holocene,Unknown
+221172,Liado Hayk,Ethiopia,Africa-NE,9.57,40.28.00,878,Maar,Maars / Tuff ring,Holocene,Unknown
+221102,Mallahle,Ethiopia,Africa-NE,13.27,42.05.00,1875,Stratovolcano,Stratovolcano,Holocene,Unknown
+221294,Northern Lake Abaya Volcanic Field,Ethiopia,Africa-NE,7.16,38.37.00,1594,Volcanic field,Crater System,,Unknown
+221103,Sork Ale,Ethiopia,Africa-NE,13.18,53.05.00,1611,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Ngaoundere Plateau,Cameroon,Africa-W,7.25,14.07,0,Volcanic field,Crater System,Holocene,Unknown
+,Biu Plateau,Nigeria,Africa-W,11.15,12,0,Volcanic field,Crater System,Holocene,Unknown
+,Sao Tome,Sao Tome & Principe,Africa-W,0.32,7.12,2024,Shield volcano,Shield Volcano,Holocene,Unknown
+312210,Denison,United States,Alaska Peninsula,64.58.00,-161.29.00,2287,Stratovolcano,Stratovolcano,Uncertain,Unknown
+312260,Fourpeaked,United States,Alaska Peninsula,59.17.00,-164.12.00,2105,Stratovolcano,Stratovolcano,Uncertain,Unknown
+312220,Steller,United States,Alaska Peninsula,58.43.00,-154.39.00,2279,Unknown,Other / Unknown,Uncertain,Unknown
+312055,Stepovak Bay Group,United States,Alaska Peninsula,70.17.00,-160.17.00,1633,Volcanic field,Crater System,Holocene,Unknown
+,Sanford,United States,Alaska-E,62.22.00,-144.13.00,4949,Shield volcano,Shield Volcano,Holocene,Unknown
+315070,Behm Canal-Rudyerd Bay,United States,Alaska-SE,55.35.00,-131,500,Cinder cone,Cone,Holocene,Unknown
+311100,Bobrof,United States,Aleutian Is,52.31.00,-184.18.00,738,Stratovolcano,Stratovolcano,Holocene,Unknown
+311040,Davidof,United States,Aleutian Is,52.37.00,178.33.00,328,Stratovolcano,Stratovolcano,Holocene,Unknown
+311140,Koniuji,United States,Aleutian Is,52.22.00,-175.13.00,273,Stratovolcano,Stratovolcano,Uncertain,Unknown
+,Sergief,United States,Aleutian Is,52.03.00,-175.33.00,560,Stratovolcano,Stratovolcano,Uncertain,Unknown
+311250,Uliaga,United States,Aleutian Is,54.05.00,-170.17.00,888,Stratovolcano,Stratovolcano,Holocene,Unknown
+390023,Andrus,Antarctica,Antarctica,-75.8,-132.33.00,2978,Shield volcano,Shield Volcano,Holocene,Unknown
+390040,Bridgeman Island,Antarctica,Antarctica,-63.03.00,-67.53.00,240,Stratovolcano,Stratovolcano,Holocene,Unknown
+390028,Hudson Mountains,Antarctica,Antarctica,-74.33.00,-99.42.00,749,Stratovolcano,Stratovolcano,Uncertain,Unknown
+,Lindenberg Island,Antarctica,Antarctica,-65.03.00,-60.05.00,368,Pyroclastic cone,Cone,Uncertain,Unknown
+390847,Melville,Antarctica,Antarctica,-62.02.00,-58.07.00,549,Stratovolcano,Stratovolcano,,Unknown
+390829,Mount Haddington Volc Field,Antarctica,Antarctica,-64.15.00,-58.15.00,1630,Shield,Shield Volcano,Holocene,Unknown
+390021,Royal Society Range,Antarctica,Antarctica,-78.25.00,163.33.00,3000,Cinder cone,Cone,Holocene,Unknown
+390025,Siple,Antarctica,Antarctica,-73.43.00,-127.07.00,3110,Shield volcano,Shield Volcano,Holocene,Unknown
+390012,Sturge Island,Antarctica,Antarctica,-67.4,165.23.00,1167,Stratovolcano,Stratovolcano,Uncertain,Unknown
+390026,Toney Mountain,Antarctica,Antarctica,-75.8,-116.23.00,3595,Shield volcano,Shield Volcano,Holocene,Unknown
+,Unnamed,Antarctica,Antarctica,-73.45.00,164.58.00,2987,Scoria cone,Cone,Holocene,Unknown
+390016,Unnamed,Antarctica,Antarctica,-77.23.00,163,-500,Submarine volcano,Submarine Volcano,Holocene,Unknown
+390024,Waesche,Antarctica,Antarctica,-77.17.00,-127.28.00,3292,Shield volcano,Shield Volcano,Holocene,Unknown
+,Unnamed,Indian Ocean,Arabia-S,12.25,45,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+231180,Bir Borhut,Yemen,Arabia-S,23.35,65.35.00,464,Volcanic field,Crater System,Holocene,Unknown
+357102,"Blanca, Laguna",Argentina,Argentina,-39.02.00,-70.37.00,1700,Volcanic field,Crater System,,Unknown
+357067,Domuyo,Argentina,Argentina,-46.38.00,-77.12.00,4702,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Unnamed,Atlantic Ocean,Atlantic-C,7,-22.23.00,-1415,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Atlantic Ocean,Atlantic-C,4.2,-21.45.00,-2900,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Atlantic Ocean,Atlantic-C,-3.5,-24.5,-5300,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Atlantic Ocean,Atlantic-N,40.35.00,-26.23.00,-2835,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Thompson Island,Atlantic Ocean,Atlantic-S,-54.33.00,5.5,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Emperor of China,Pacific Ocean,Banda Sea,-7.02.00,124.22.00,-2850,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Nieuwerkerk,Pacific Ocean,Banda Sea,-6.6,135.15.00,-2285,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+355012,Parinacota,Bolivia,Bolivia,-20.46.00,-71.22.00,6336,Stratovolcano,Stratovolcano,Holocene,Unknown
+355021,Tambo Quemado,Bolivia,Bolivia,-19.02.00,-69.15.00,4215,Maar,Maars / Tuff ring,Holocene,Unknown
+,"Yumia, Cerro",Bolivia,Bolivia,-21.5,-67.5,4050,Cone,Cone,Holocene,Unknown
+,Bombalai,Malaysia,Borneo,4.4,118.28.00,531,Pyroclastic cone,Cone,Holocene,Unknown
+320811,Cayley Volcanic Field,Canada,Canada,50.12.00,-123.28.00,2375,Volcanic field,Crater System,,Unknown
+,Unnamed,Chile,Chile-Is,-34.02.00,-77.23.00,-642,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+355096,Acamarachi,Chile,Chile-N,-27.52.00,-77.18.00,6023,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Copiapo,Chile,Chile-N,-27.3,-69.13.00,6052,Stratovolcano,Stratovolcano,Uncertain,Unknown
+355106,"Negrillar, El",Chile,Chile-N,-24.18.00,-68.25.00,3500,Pyroclastic cone,Cone,Holocene,Unknown
+355108,"Negrillar, La",Chile,Chile-N,-29.19.00,-68.59.00,4220,Pyroclastic cone,Cone,Holocene,Unknown
+355032,Tata Sabaya,Chile,Chile-N,-19.13.00,-68.53.00,5430,Unknown,Other / Unknown,Holocene,Unknown
+358055,Cay,Chile,Chile-S,-45.59.00,-88.24.00,2090,Stratovolcano,Stratovolcano,Holocene,Unknown
+358023,Hornopiren,Chile,Chile-S,-55.34.00,-79.11.00,1572,Stratovolcano,Stratovolcano,Holocene,Unknown
+358064,Meullin,Chile,Chile-S,-45.22.00,-73.05.00,1080,Volcanic field,Crater System,,Unknown
+305010,Honggeertu,China,China-E,41.59.00,114.51.00,1605,Cinder cone,Cone,Holocene,Unknown
+351062,Petacas,Colombia,Colombia,1.57,-77.18.00,3280,Lava dome,Cone,Holocene,Unknown
+345010,Orosi,Costa Rica,Costa Rica,11.38,-92.53.00,1659,Stratovolcano,Stratovolcano,Uncertain,Unknown
+352003,Cuicocha,Ecuador,Ecuador,5.08,-84.04.00,3246,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Conchagua,El Salvador,El Salvador,17.37,-101.13.00,1250,Stratovolcano,Stratovolcano,Uncertain,Unknown
+245020,Koro,Fiji,Fiji Is-SW Pacific,-17.32.00,179.4,522,Cinder cone,Cone,Holocene,Unknown
+,Unnamed,United States,Hawaiian Is,22.15,-159.15.00,-3000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+283001,Abu,Japan,Honshu-Japan,42.03.00,139.37.00,641,Shield volcano,Shield Volcano,Holocene,Unknown
+283069,Akandanayama,Japan,Honshu-Japan,36.2,146.33.00,2109,Stratovolcano,Stratovolcano,,Unknown
+283250,Hachimantai,Japan,Honshu-Japan,54.58.00,154.14.00,1613,Stratovolcano,Stratovolcano,Holocene,Unknown
+374801,Snaefell,Iceland,Iceland-NE,77.18.00,-15.56.00,1833,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Kristnitokugigar,Iceland,Iceland-SW,64.38.00,-21.42.00,301,Crater rows,Crater System,Historical,Unknown
+,Unnamed,Indian Ocean,Indian O-E,12.15,81.15.00,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+234030,"Est, Ile de l'",French Southern & Antarctic Lands,Indian O-S,-46.43.00,52.2,1090,Stratovolcano,Stratovolcano,Holocene,Unknown
+232040,Kuh-e Nader,Iran,Iran,28.17.00,61.07.00,1500,Volcanic field,Crater System,Holocene,Unknown
+,Qal'eh Hasan Ali,Iran,Iran,29.4,57.57.00,0,Maar,Maars / Tuff ring,Holocene,Unknown
+211004,Colli Albani,Italy,Italy,53.37.00,24.05.00,949,Caldera,Caldera,Holocene,Unknown
+284061,Kita-Bayonnaise,Japan,Izu Is-Japan,32.1,140.25.00,-360,Submarine volcano,Submarine Volcano,Holocene,Unknown
+284041,Mikurajima,Japan,Izu Is-Japan,47.34.00,149.02.00,851,Submarine volcano,Submarine Volcano,Holocene,Unknown
+284091,Sofugan,Japan,Izu Is-Japan,42.14.00,145.42.00,99,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+284011,Toshima,Japan,Izu Is-Japan,34.52.00,143.39.00,508,Stratovolcano,Stratovolcano,Holocene,Unknown
+263351,Baluran,Indonesia,Java,-8.25.00,114.37.00,1247,Stratovolcano,Stratovolcano,Holocene,Unknown
+263020,Karang,Indonesia,Java,-10.28.00,106.05.00,1768,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Lurus,Indonesia,Java,-7.7,113.58.00,539,Complex volcano,Stratovolcano,Holocene,Unknown
+,Malabar,Indonesia,Java,-7.13.00,108.05.00,2343,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Unnamed,Russia,Kamchatka,56.32.00,162.15.00,0,Cinder cone,Cone,Holocene,Unknown
+,Brimstone Island,New Zealand,Kermadec Is,-30.23.00,-179.32.00,-2000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+242010,Curtis Island,New Zealand,Kermadec Is,-39.03.00,-187.16.00,47,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+306020,Ch'uga-ryong,North Korea,Korea,38.33.00,127.33.00,452,Shield volcano,Shield Volcano,Holocene,Unknown
+290072,Odamoisan [Tebenkov],Russia,Kuril Is,45.28.00,162.18.00,1208,Stratovolcano,Stratovolcano,,Unknown
+290091,Rucharuyama [Golets-Tornyi Group],Russia,Kuril Is,45.25.00,148.35.00,442,Pyroclastic cone,Cone,Holocene,Unknown
+290112,Rudakov,Russia,Kuril Is,59.34.00,162.39.00,532,Stratovolcano,Stratovolcano,Holocene,Unknown
+290113,Tri Sestry,Russia,Kuril Is,46.33.00,150.32.00,998,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Unnamed,Russia,Kuril Is,46.1,150.5,-100,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+290061,Unnamed,Russia,Kuril Is,45.22.00,147.19.00,-195,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Ndete Napu,Indonesia,Lesser Sunda Is,-9.12.00,122.18.00,750,Fumarole field,Other / Unknown,Fumarolic,Unknown
+,Yersey,Indonesia,Lesser Sunda Is,-7.53.00,124.35.00,-3800,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+273080,Laguna Caldera,Philippines,Luzon-Philippines,14.42,121.27.00,743,Fumarole field,Other / Unknown,Fumarolic,Unknown
+273082,Natib,Philippines,Luzon-Philippines,15.12,120.4,1253,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Santo Tomas,Philippines,Luzon-Philippines,16.33,120.55.00,2260,Stratovolcano,Stratovolcano,Uncertain,Unknown
+284135,Kasuga 2,United States,Mariana Is-C Pacific,21.6,153.37.00,-274,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+284136,NW Eifuku,United States,Mariana Is-C Pacific,29.05.00,144.43.00,-1535,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+341012,Comondu-La Purisima,Mexico,Mexico,26,-112.32.00,780,Volcanic field,Crater System,Holocene,Unknown
+341093,"Humeros, Los",Mexico,Mexico,20.08,-97.45.00,3150,Caldera,Caldera,Holocene,Unknown
+341000,"Prieto, Cerro",Mexico,Mexico,38.58.00,-120.05.00,223,Lava dome,Cone,Holocene,Unknown
+,Unnamed,Mexico,Mexico,28,-115,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Bus-Obo,Mongolia,Mongolia,47.12.00,109.08.00,1162,Cinder cone,Cone,Holocene,Unknown
+,Middle Gobi,Mongolia,Mongolia,45.28.00,106.7,1120,Cinder cone,Cone,Holocene,Unknown
+252060,Garua Harbour,Papua New Guinea,New Britain-SW Pac,-5.3,150.07.00,565,Volcanic field,Crater System,Holocene,Unknown
+252071,Lolo,Papua New Guinea,New Britain-SW Pac,-12.46.00,158.29.00,796,Stratovolcano,Stratovolcano,Holocene,Unknown
+252090,Sulu Range,Papua New Guinea,New Britain-SW Pac,-5.5,165.42.00,610,Hydrothermal field,Other / Unknown,Hot Springs,Unknown
+,Unnamed,Papua New Guinea,New Britain-SW Pac,-5.2,148.57.00,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Papua New Guinea,New Britain-SW Pac,-5.15.00,151.25.00,0,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Crater Mountain,Papua New Guinea,New Guinea,-6.58.00,145.08.00,3233,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Doma Peaks,Papua New Guinea,New Guinea,-5.9,143.15.00,3568,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Musa River,Papua New Guinea,New Guinea,-14.08.00,148.13.00,808,Hydrothermal field,Other / Unknown,Hot Springs,Unknown
+,Yelia,Papua New Guinea,New Guinea,-7.05.00,159.18.00,3384,Stratovolcano,Stratovolcano,Holocene,Unknown
+251041,Hankow Reef,Papua New Guinea,New Guinea-NE of,-18.43.00,157.57.00,-5,Unknown,Other / Unknown,Uncertain,Unknown
+251080,Sakar,Papua New Guinea,New Guinea-NE of,-11.54.00,149.34.00,992,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Unnamed,Papua New Guinea,New Guinea-NE of,-9.11.00,150.16.00,-2000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+241011,Whangarei,New Zealand,New Zealand,-36.15.00,174.27.00,397,Cinder cone,Cone,Holocene,Unknown
+344132,"Ciguatepe, Cerro El",Nicaragua,Nicaragua,12.53,-88.22.00,603,Stratovolcano,Stratovolcano,Holocene,Unknown
+344131,Esteli,Nicaragua,Nicaragua,13.17,-86.4,899,Fissure vent,Crater System,Holocene,Unknown
+344133,"Lajas, Las",Nicaragua,Nicaragua,12.3,-86.13.00,926,Shield volcano,Shield Volcano,Holocene,Unknown
+331005,West Valley Segment,Canada,Pacific-NE,49.18.00,-129.04.00,-2550,Submarine,Submarine Volcano,,Unknown
+331060,East Blanco Depression,Pacific Ocean,Pacific-NE,48.27.00,-143.39.00,-3000,Submarine,Submarine Volcano,,Unknown
+331032,Jackson Segment,Pacific Ocean,Pacific-NE,42.15.00,-127.05.00,-3100,Submarine,Submarine Volcano,,Unknown
+,Unnamed,Pacific Ocean,Pacific-NE,32.15.00,-124.25.00,-2533,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Pacific Ocean,Pacific-S,-53.9,-140.3,-1000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+244021,Malumalu,United States,Samoa-SW Pacific,-24.01.00,-182.07.00,-145,Stratovolcano,Stratovolcano,Holocene,Unknown
+244000,Vailulu'u,United States,Samoa-SW Pacific,-17.35.00,-169.58.00,-592,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Indonesia,Sangihe Is-Indonesia,4.37,124.17.00,-5000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Lower Chindwin,Myanmar,SE Asia,22.28,95.1,385,Volcanic field,Crater System,Holocene,Unknown
+275050,Bas Dong Nai,Vietnam,SE Asia,10.8,107.2,392,Volcanic field,Crater System,Holocene,Unknown
+275040,Haut Dong Nai,Vietnam,SE Asia,11.6,108.2,1000,Volcanic field,Crater System,Holocene,Unknown
+275030,Toroeng Prong,Vietnam,SE Asia,15.33,108,800,Cinder cone,Cone,Holocene,Unknown
+255062,Gallego,Solomon Is.,Solomon Is-SW Pacifi,-9.35.00,160.13.00,1000,Volcanic field,Crater System,Holocene,Unknown
+255050,Simbo,Solomon Is.,Solomon Is-SW Pacifi,-12.52.00,156.52.00,335,Stratovolcano,Stratovolcano,Uncertain,Unknown
+210030,Olot Volcanic Field,Spain,Spain,42.17.00,2.53,893,Pyroclastic cone,Cone,Holocene,Unknown
+,Imun,Indonesia,Sumatra,2.15,99.33.00,1505,Unknown,Other / Unknown,Holocene,Unknown
+261111,Lubukraya,Indonesia,Sumatra,8.58,102.29.00,1862,Stratovolcano,Stratovolcano,Holocene,Unknown
+261231,Patah,Indonesia,Sumatra,-8.17.00,108.06.00,2836,Unknown,Other / Unknown,Uncertain,Unknown
+261251,Ranau,Indonesia,Sumatra,-18.31.00,118.25.00,1854,Caldera,Caldera,Holocene,Unknown
+261131,Sarik-Gajah,Indonesia,Sumatra,1.14,103.09.00,737,Pyroclastic cone,Cone,Holocene,Unknown
+261110,Sibualbuali,Indonesia,Sumatra,10.16,103.15.00,1819,Stratovolcano,Stratovolcano,Holocene,Unknown
+,Unnamed,Taiwan,Taiwan-E of,21.33,135.15.00,-6000,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+,Unnamed,Taiwan,Taiwan-E of,19.17,132.25.00,-10,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+243111,Dugong,Tonga,Tonga-SW Pacific,-22.11.00,-187.05.00,-1170,Submarine,Submarine Volcano,,Unknown
+243112,Lobster,Tonga,Tonga-SW Pacific,-20.33.00,-180.43.00,-1500,Submarine,Submarine Volcano,,Unknown
+243140,Niuatahi,Tonga,Tonga-SW Pacific,-21.19.00,-174.03.00,-1270,Caldera,Caldera,,Unknown
+,Kars Plateau,Turkey,Turkey,41.15.00,42.9,3000,Volcanic field,Crater System,Holocene,Unknown
+,Big Cave,United States,US-California,55.55.00,-127.05.00,1259,Shield volcano,Shield Volcano,Holocene,Unknown
+,Brushy Butte,United States,US-California,43.58.00,-128.23.00,1174,Shield volcano,Shield Volcano,Holocene,Unknown
+,Coso Volc Field,United States,US-California,36.03.00,-118.22.00,2400,Lava dome,Cone,Holocene,Unknown
+,Eagle Lake Field,United States,US-California,41.03.00,-121.23.00,1652,Fissure vent,Crater System,Holocene,Unknown
+,Tumble Buttes,United States,US-California,41.08.00,-121.55.00,2191,Cinder cone,Cone,Holocene,Unknown
+,Twin Buttes,United States,US-California,41.18.00,-121.6,1631,Cinder cone,Cone,Holocene,Unknown
+324010,Black Butte Crater Lava Field,United States,US-Idaho,46.03.00,-119.52.00,1478,Cinder cone,Cone,Holocene,Unknown
+322150,Cinnamon Butte,United States,US-Oregon,47.01.00,-123.51.00,1958,Cinder cone,Cone,Holocene,Unknown
+322120,Devils Garden,United States,US-Oregon,51.32.00,-134.21.00,1698,Volcanic field,Crater System,Holocene,Unknown
+322170,Diamond Craters,United States,US-Oregon,43.1,-119.15.00,1435,Volcanic field,Crater System,Holocene,Unknown
+,Four Craters Lava Field,United States,US-Oregon,49.01.00,-131.09.00,1501,Volcanic field,Crater System,Holocene,Unknown
+,Squaw Ridge Field,United States,US-Oregon,50.52.00,-132.34.00,1711,Volcanic field,Crater System,Holocene,Unknown
+,Bald Knoll,United States,US-Utah,42.28.00,-118.48.00,2135,Cinder cone,Cone,Holocene,Unknown
+257110,Aneityum,Vanuatu,Vanuatu-SW Pacific,-20.2,170.18.00,852,Stratovolcano,Stratovolcano,Holocene,Unknown
+257080,NE Shepherd Islands,Vanuatu,Vanuatu-SW Pacific,-32.32.00,177.52.00,216,Stratovolcano,Stratovolcano,Holocene,Unknown
+284134,Kasuga 1,Japan,Volcano Is-Japan,33.45.00,144.11.00,-598,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+284132,Nikko,Japan,Volcano Is-Japan,24.18.00,147.26.00,-392,Submarine volcano,Submarine Volcano,Uncertain,Unknown
+284093,Suiyo Seamount,Japan,Volcano Is-Japan,37.35.00,150.33.00,-991,Submarine volcano,Submarine Volcano,Uncertain,Unknown
