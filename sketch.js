@@ -21,10 +21,8 @@ function preload() {
 function mousePressed() {
   // richiamo la funzione hover, ovvero che mi dice se la mia freccetta è sopra a un vulcano 
   if (hoveredIndex !== -1) { //se non è uguale a -1 allora 
-    let p = points[hoveredIndex]; // prendo il vulcano su cui sono
     // creo l’URL con un parametro 
-    let myUrl = "detail.html?volcanoName=" + encodeURIComponent(p.country);
-    // apro la pagina
+    let myUrl = "detail.html?idx=" + hoveredIndex;
     window.location.href = myUrl;
   }
 }

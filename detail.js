@@ -319,7 +319,7 @@ function draw() {
 
   // TITOLO (NOME VULCANO)
   textAlign(LEFT, TOP);
-  textSize(40);
+  textSize(35);
   let titleX = 660;   // x fissa 
   let titleY = 120;   // y fissa
   text(volcanoName, titleX, titleY);
